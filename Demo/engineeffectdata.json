@@ -1,0 +1,62 @@
+{
+    "env_time_of_day": {
+        "time_of_day_template": 300002
+    }, 
+    "sky_box": {
+        "sky_box_type": 100000
+    }, 
+    "terrain": {
+        "terrain_version": 2, 
+        "water_materials": [
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.051, 
+                        0.123, 
+                        0.341
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 90.0, 
+                "flow_perturbation": 0.5, 
+                "flow_speed": 0.3, 
+                "mat_id": 1, 
+                "name": "\u6c34", 
+                "original": true
+            }, 
+            {
+                "color": {
+                    "__tuple__": true, 
+                    "items": [
+                        0.947, 
+                        0.117, 
+                        0.007
+                    ]
+                }, 
+                "custom_color": true, 
+                "flow_direction": 0.0, 
+                "flow_perturbation": 0.3, 
+                "flow_speed": 0.2, 
+                "mat_id": 2, 
+                "name": "\u5ca9\u6d46", 
+                "original": true
+            }
+        ]
+    }, 
+    "vignetting": {
+        "vignetting_breath_rate": 2.0000000000000004, 
+        "vignetting_change_range": 0.1, 
+        "vignetting_color": {
+            "__tuple__": true, 
+            "items": [
+                175, 
+                0, 
+                0, 
+                1
+            ]
+        }, 
+        "vignetting_open": false, 
+        "vignetting_size": 0.09999999999999998
+    }
+}

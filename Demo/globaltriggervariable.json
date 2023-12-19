@@ -1,0 +1,1052 @@
+{
+    "local_variable": {
+        "35459076": {
+            "variable_dict": {
+                "STRING": {
+                    "message": "", 
+                    "str": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "message": 0, 
+                "str": 0
+            }
+        }, 
+        "46182412": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "Bool": false
+                }, 
+                "NEW_TIMER": {
+                    "loop": -1
+                }, 
+                "UNIT_ENTITY": {
+                    "unitBoss": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Bool": 0, 
+                "loop": 0, 
+                "unitBoss": 0
+            }
+        }, 
+        "51658767": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "Bool": false
+                }, 
+                "FLOAT": {
+                    "CD": 0.0, 
+                    "proportionHP": 0.0
+                }, 
+                "INTEGER": {
+                    "loop": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unitBoss": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Bool": 0, 
+                "CD": 0, 
+                "loop": 0, 
+                "proportionHP": 0, 
+                "unitBoss": 0
+            }
+        }, 
+        "111153153": {
+            "variable_dict": {
+                "BOOLEAN": {}, 
+                "NEW_TIMER": {}, 
+                "PLAYER": {}, 
+                "UNIT_ENTITY": {
+                    "\u77f3\u9b542": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u77f3\u9b542": 0
+            }
+        }, 
+        "180101192": {
+            "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "\u89e6\u53d11": 0, 
+                    "\u89e6\u53d12": 0, 
+                    "\u89e6\u53d13": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u89e6\u53d11": 0, 
+                "\u89e6\u53d12": 0, 
+                "\u89e6\u53d13": 0
+            }
+        }, 
+        "184897562": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "\u5f53\u524d\u6280\u80fd": 0
+                }, 
+                "FLOAT": {
+                    "angle": 0.0, 
+                    "realMoveAngle": 0.0, 
+                    "realSpeedBase": 0.0, 
+                    "realSpeedView": 0.0, 
+                    "realUnitSpeed": 0.0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "comandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "angle": 0, 
+                "comandMode": 0, 
+                "point": 0, 
+                "realMoveAngle": 0, 
+                "realSpeedBase": 0, 
+                "realSpeedView": 0, 
+                "realUnitSpeed": 0, 
+                "unit": 0, 
+                "\u5f53\u524d\u6280\u80fd": 0
+            }
+        }, 
+        "300843042": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "key": false
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 0
+            }
+        }, 
+        "331534359": {
+            "variable_dict": {
+                "INTEGER": {
+                    "loops": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "a1": 0, 
+                    "a2": 0, 
+                    "a3": 0, 
+                    "a4": 0, 
+                    "a5": 0, 
+                    "a6": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "a1": 0, 
+                "a2": 0, 
+                "a3": 0, 
+                "a4": 0, 
+                "a5": 0, 
+                "a6": 0, 
+                "loops": 0
+            }
+        }, 
+        "529088530": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "unit": 0
+            }
+        }, 
+        "547188755": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "\u5f53\u524d\u6280\u80fd": 0
+                }, 
+                "FLOAT": {
+                    "angle": 0.0, 
+                    "realMoveAngle": 0.0, 
+                    "realSpeedBase": 0.0, 
+                    "realSpeedView": 0.0, 
+                    "realUnitSpeed": 0.0
+                }, 
+                "INTEGER": {}, 
+                "MODIFIER_ENTITY": {
+                    "\u706b\u87fe\u870d": 0, 
+                    "\u91d1\u9f99": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "comandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "angle": 0, 
+                "comandMode": 0, 
+                "point": 0, 
+                "realMoveAngle": 0, 
+                "realSpeedBase": 0, 
+                "realSpeedView": 0, 
+                "realUnitSpeed": 0, 
+                "unit": 0, 
+                "\u5f53\u524d\u6280\u80fd": 0, 
+                "\u706b\u87fe\u870d": 0, 
+                "\u91d1\u9f99": 0
+            }
+        }, 
+        "602120205": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "Bool": false
+                }, 
+                "NEW_TIMER": {
+                    "loop": -1
+                }, 
+                "UNIT_ENTITY": {
+                    "unitBoss": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "Bool": 0, 
+                "loop": 0, 
+                "unitBoss": 0
+            }
+        }, 
+        "685461537": {
+            "variable_dict": {
+                "SCENE_UI": {
+                    "\u4ea4\u4e92\u63d0\u793a": null
+                }
+            }, 
+            "variable_length_dict": {
+                "\u4ea4\u4e92\u63d0\u793a": 0
+            }
+        }, 
+        "730206264": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u6309\u4e0b\u65f6\u957f": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u6309\u4e0b\u65f6\u957f": 0
+            }
+        }, 
+        "738787338": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realX": 0.0, 
+                    "realY": 0.0
+                }, 
+                "INTEGER": {
+                    "intX": 0, 
+                    "intY": 0
+                }, 
+                "POINT": {
+                    "pointWorld": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "intX": 0, 
+                "intY": 0, 
+                "pointWorld": 0, 
+                "realX": 0, 
+                "realY": 0
+            }
+        }, 
+        "757002246": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realCameraAngle": 0.0, 
+                    "realMoveAngle": 0.0, 
+                    "realMoveSpeed": 0.0
+                }, 
+                "INTEGER": {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "realCameraAngle": 0, 
+                "realMoveAngle": 0, 
+                "realMoveSpeed": 0, 
+                "unit": 0, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "757063715": {
+            "variable_dict": {
+                "INTEGER": {
+                    "key": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 0
+            }
+        }, 
+        "935727146": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "\u5f53\u524d\u6280\u80fd": 0
+                }, 
+                "FLOAT": {
+                    "angle": 0.0, 
+                    "realMoveAngle": 0.0, 
+                    "realSpeedBase": 0.0, 
+                    "realSpeedView": 0.0, 
+                    "realUnitSpeed": 0.0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "comandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "angle": 0, 
+                "comandMode": 0, 
+                "point": 0, 
+                "realMoveAngle": 0, 
+                "realSpeedBase": 0, 
+                "realSpeedView": 0, 
+                "realUnitSpeed": 0, 
+                "unit": 0, 
+                "\u5f53\u524d\u6280\u80fd": 0
+            }
+        }, 
+        "942927888": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "unitBoss": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "unitBoss": 0
+            }
+        }, 
+        "1030037516": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realSpeedBase": 0.0, 
+                    "realSpeedView": 0.0, 
+                    "realUnitSpeed": 0.0, 
+                    "\u6309\u4e0b\u65f6\u957f": 0.0
+                }, 
+                "STRING": {
+                    "comandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "comandMode": 0, 
+                "realSpeedBase": 0, 
+                "realSpeedView": 0, 
+                "realUnitSpeed": 0, 
+                "unit": 0, 
+                "\u6309\u4e0b\u65f6\u957f": 0
+            }
+        }, 
+        "1135632455": {
+            "variable_dict": {
+                "DYNAMIC_TRIGGER_INSTANCE": {
+                    "\u89e6\u53d11": 0, 
+                    "\u89e6\u53d12": 0, 
+                    "\u89e6\u53d13": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u89e6\u53d11": 0, 
+                "\u89e6\u53d12": 0, 
+                "\u89e6\u53d13": 0
+            }
+        }, 
+        "1180364841": {
+            "variable_dict": {
+                "INTEGER": {
+                    "key": 0, 
+                    "loops": 0
+                }, 
+                "UI_COMP": {}, 
+                "UNIT_ENTITY": {}
+            }, 
+            "variable_length_dict": {
+                "key": 0, 
+                "loops": 0
+            }
+        }, 
+        "1313636363": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realX": 0.0, 
+                    "realY": 0.0
+                }, 
+                "INTEGER": {
+                    "intX": 0, 
+                    "intY": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "intX": 0, 
+                "intY": 0, 
+                "point": 0, 
+                "realX": 0, 
+                "realY": 0
+            }
+        }, 
+        "1382940703": {
+            "variable_dict": {
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "\u77f3\u9b542": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "point": 0, 
+                "\u77f3\u9b542": 0
+            }
+        }, 
+        "1403158557": {
+            "variable_dict": {
+                "FLOAT": {}, 
+                "INTEGER": {
+                    "key": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 0
+            }
+        }, 
+        "1512071175": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realFaceAngle": 0.0, 
+                    "realMoveAngle": 0.0, 
+                    "realMoveDistance": 0.0
+                }, 
+                "INTEGER": {
+                    "intSpeed": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "POINT": {
+                    "pointAim": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointOri": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "comandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "comandMode": 0, 
+                "intSpeed": 0, 
+                "player": 0, 
+                "pointAim": 0, 
+                "pointOri": 0, 
+                "realFaceAngle": 0, 
+                "realMoveAngle": 0, 
+                "realMoveDistance": 0, 
+                "unit": 0
+            }
+        }, 
+        "1540440130": {
+            "variable_dict": {
+                "ABILITY_NAME": {
+                    "\u5f53\u524d\u6280\u80fd": 0
+                }, 
+                "FLOAT": {
+                    "angle": 0.0, 
+                    "realMoveAngle": 0.0, 
+                    "realSpeedBase": 0.0, 
+                    "realSpeedView": 0.0, 
+                    "realUnitSpeed": 0.0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "STRING": {
+                    "comandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "angle": 0, 
+                "comandMode": 0, 
+                "point": 0, 
+                "realMoveAngle": 0, 
+                "realSpeedBase": 0, 
+                "realSpeedView": 0, 
+                "realUnitSpeed": 0, 
+                "unit": 0, 
+                "\u5f53\u524d\u6280\u80fd": 0
+            }
+        }, 
+        "1608814616": {
+            "variable_dict": {
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "point": 0
+            }
+        }, 
+        "1633476638": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "\u77f3\u9b542": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u77f3\u9b542": 0
+            }
+        }, 
+        "1710637070": {
+            "variable_dict": {
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "point": 0
+            }
+        }, 
+        "1742979109": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u6309\u4e0b\u65f6\u957f": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u6309\u4e0b\u65f6\u957f": 0
+            }
+        }, 
+        "1788084265": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "key": false
+                }, 
+                "INTEGER": {
+                    "loops": 0
+                }, 
+                "SOUND_ENTITY": {
+                    "sound": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "a": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "a": 10, 
+                "key": 0, 
+                "loops": 0, 
+                "sound": 0
+            }
+        }, 
+        "1837813825": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u7c7b\u578b": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "unit": 0, 
+                "\u7c7b\u578b": 0
+            }
+        }, 
+        "1848844328": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "isFirstBL": false
+                }, 
+                "INTEGER": {
+                    "key": 0
+                }, 
+                "UNIT_ENTITY": {}
+            }, 
+            "variable_length_dict": {
+                "isFirstBL": 0, 
+                "key": 0
+            }
+        }, 
+        "1897345049": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "Bool": false
+                }
+            }, 
+            "variable_length_dict": {
+                "Bool": 0
+            }
+        }, 
+        "1948131333": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realSign": 0.0, 
+                    "x": 0.0, 
+                    "xAim": 0.0, 
+                    "xOri": 0.0, 
+                    "xTemp": 0.0, 
+                    "y": 0.0, 
+                    "yAim": 0.0, 
+                    "yOri": 0.0, 
+                    "yTemp": 0.0
+                }, 
+                "POINT": {
+                    "pointAim": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointAim*": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "pointOri": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "pointAim": 0, 
+                "pointAim*": 0, 
+                "pointOri": 0, 
+                "realSign": 0, 
+                "unit": 0, 
+                "x": 0, 
+                "xAim": 0, 
+                "xOri": 0, 
+                "xTemp": 0, 
+                "y": 0, 
+                "yAim": 0, 
+                "yOri": 0, 
+                "yTemp": 0
+            }
+        }, 
+        "2013241371": {
+            "variable_dict": {
+                "INTEGER": {
+                    "loops": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "a": 0, 
+                    "b": 0, 
+                    "c": 0, 
+                    "d": 0, 
+                    "e": 0, 
+                    "f": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "a": 10, 
+                "b": 10, 
+                "c": 10, 
+                "d": 10, 
+                "e": 10, 
+                "f": 10, 
+                "loops": 0
+            }
+        }, 
+        "2065731592": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realSpeedBase": 0.0, 
+                    "realSpeedView": 0.0, 
+                    "realUnitSpeed": 0.0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "STRING": {
+                    "comandMode": "", 
+                    "comandModeTemp": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "comandMode": 0, 
+                "comandModeTemp": 0, 
+                "player": 0, 
+                "realSpeedBase": 0, 
+                "realSpeedView": 0, 
+                "realUnitSpeed": 0, 
+                "unit": 0
+            }
+        }
+    }, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "BOOLEAN": {
+            "BoolDebug": false, 
+            "IsInNewHandRoad": false
+        }, 
+        "DYNAMIC_TRIGGER_INSTANCE": {
+            "\u5904\u51b3\u5f15\u5bfc": 0, 
+            "\u653b\u51fb\u5f15\u5bfc": 0, 
+            "\u95ea\u907f\u5f15\u5bfc": 0, 
+            "\u98de\u5251\u5f15\u5bfc": 0
+        }, 
+        "FLOAT": {
+            "Energy": 100.0, 
+            "MaxEnergy": 100.0, 
+            "Qvalue": 0.0, 
+            "ShiftConsume": 30.0, 
+            "\u8fde\u51fb\u524d\u7f6e": 0.0
+        }, 
+        "INTEGER": {}, 
+        "LINK_SFX_ENTITY": {
+            "\u7ea2\u8272\u94fe\u63a5": 0, 
+            "\u91d1\u8272\u94fe\u63a5": 0
+        }, 
+        "MODIFIER_ENTITY": {
+            "\u706b\u6807\u8bb01": 0, 
+            "\u91d1\u6807\u8bb01": 0
+        }, 
+        "NEW_TIMER": {}, 
+        "PLAYER": {
+            "PlayerLead": 0
+        }, 
+        "POINT": {
+            "\u9f99\u5e99\u70b9": {
+                "__tuple__": true, 
+                "items": [
+                    0, 
+                    0, 
+                    0
+                ]
+            }
+        }, 
+        "PROJECTILE_ENTITY": {
+            "\u706b\u6807\u8bb0": 0, 
+            "\u91d1\u6807\u8bb0": 0, 
+            "\u9f99\u5e99\u70b9\u9ed1\u96fe": 0
+        }, 
+        "UI_COMP": {
+            "\u98de\u5251": ""
+        }, 
+        "UNIT_ENTITY": {
+            "UnitLead": 0, 
+            "\u5148\u7956\u6b8b\u9b42": 0
+        }, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "BoolDebug", 
+                "BoolDebug"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "PlayerLead", 
+                "PlayerLead"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "UnitLead", 
+                "UnitLead"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MaxEnergy", 
+                "MaxEnergy"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Energy", 
+                "Energy"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ShiftConsume", 
+                "ShiftConsume"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Qvalue", 
+                "Qvalue"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "IsInNewHandRoad", 
+                "IsInNewHandRoad"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5148\u7956\u6b8b\u9b42", 
+                "\u5148\u7956\u6b8b\u9b42"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u98de\u5251", 
+                "\u98de\u5251"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u91d1\u6807\u8bb0", 
+                "\u91d1\u6807\u8bb0"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u706b\u6807\u8bb0", 
+                "\u706b\u6807\u8bb0"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u653b\u51fb\u5f15\u5bfc", 
+                "\u653b\u51fb\u5f15\u5bfc"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u95ea\u907f\u5f15\u5bfc", 
+                "\u95ea\u907f\u5f15\u5bfc"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u98de\u5251\u5f15\u5bfc", 
+                "\u98de\u5251\u5f15\u5bfc"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5904\u51b3\u5f15\u5bfc", 
+                "\u5904\u51b3\u5f15\u5bfc"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u91d1\u6807\u8bb01", 
+                "\u91d1\u6807\u8bb01"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u706b\u6807\u8bb01", 
+                "\u706b\u6807\u8bb01"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8fde\u51fb\u524d\u7f6e", 
+                "\u8fde\u51fb\u524d\u7f6e"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9f99\u5e99\u70b9\u9ed1\u96fe", 
+                "\u9f99\u5e99\u70b9\u9ed1\u96fe"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9f99\u5e99\u70b9", 
+                "\u9f99\u5e99\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u91d1\u8272\u94fe\u63a5", 
+                "\u91d1\u8272\u94fe\u63a5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7ea2\u8272\u94fe\u63a5", 
+                "\u7ea2\u8272\u94fe\u63a5"
+            ]
+        }
+    ], 
+    "variable_length_dict": {
+        "BoolDebug": 0, 
+        "Energy": 0, 
+        "IsInNewHandRoad": 0, 
+        "MaxEnergy": 0, 
+        "PlayerLead": 0, 
+        "Qvalue": 0, 
+        "ShiftConsume": 0, 
+        "UnitLead": 0, 
+        "\u5148\u7956\u6b8b\u9b42": 0, 
+        "\u5904\u51b3\u5f15\u5bfc": 0, 
+        "\u653b\u51fb\u5f15\u5bfc": 0, 
+        "\u706b\u6807\u8bb0": 0, 
+        "\u706b\u6807\u8bb01": 0, 
+        "\u7ea2\u8272\u94fe\u63a5": 0, 
+        "\u8fde\u51fb\u524d\u7f6e": 0, 
+        "\u91d1\u6807\u8bb0": 0, 
+        "\u91d1\u6807\u8bb01": 0, 
+        "\u91d1\u8272\u94fe\u63a5": 0, 
+        "\u95ea\u907f\u5f15\u5bfc": 0, 
+        "\u98de\u5251": 10, 
+        "\u98de\u5251\u5f15\u5bfc": 0, 
+        "\u9f99\u5e99\u70b9": 10, 
+        "\u9f99\u5e99\u70b9\u9ed1\u96fe": 10
+    }
+}
