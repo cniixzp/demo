@@ -667,7 +667,8 @@
                         ]
                     }, 
                     "type": 7, 
-                    "uid": "9d9a529b-0fd0-4cc2-af4e-a5b6bc93db75"
+                    "uid": "9d9a529b-0fd0-4cc2-af4e-a5b6bc93db75", 
+                    "visible": false
                 }
             ], 
             "event_list": [], 

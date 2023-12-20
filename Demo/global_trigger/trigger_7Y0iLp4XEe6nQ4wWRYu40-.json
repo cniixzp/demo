@@ -433,7 +433,10 @@
                                             "args_list": [
                                                 1300414540, 
                                                 1115865165, 
-                                                1065533518
+                                                1065533518, 
+                                                68096068, 
+                                                202436678, 
+                                                2031149125
                                             ], 
                                             "sub_type": 1
                                         }, 
@@ -441,142 +444,82 @@
                                             "arg_type": 100022, 
                                             "args_list": [
                                                 {
-                                                    "action_type": "UNREG_TRIGGER", 
+                                                    "action_type": "FOR_INT_DO_ACTION", 
                                                     "args_list": [
                                                         {
-                                                            "arg_type": 100178, 
+                                                            "arg_type": 100002, 
                                                             "args_list": [
                                                                 {
                                                                     "__tuple__": true, 
                                                                     "items": [
-                                                                        "DYNAMIC_TRIGGER_INSTANCE", 
-                                                                        "\u89e6\u53d11", 
+                                                                        "INTEGER", 
+                                                                        "int", 
                                                                         "local"
                                                                     ]
                                                                 }
                                                             ], 
-                                                            "sub_type": "VARIABLE"
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "element_id": 920662089000046, 
-                                                    "enable": true
-                                                }, 
-                                                {
-                                                    "action_type": "CALL_TRIGGER_FUNC", 
-                                                    "args_list": [
+                                                            "sub_type": 6
+                                                        }, 
                                                         {
-                                                            "arg_type": 100177, 
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                1
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100002, 
+                                                            "args_list": [
+                                                                6
+                                                            ], 
+                                                            "sub_type": 1
+                                                        }, 
+                                                        {
+                                                            "arg_type": 100022, 
                                                             "args_list": [
                                                                 {
-                                                                    "arg_type": 100003, 
+                                                                    "action_type": "UNREG_TRIGGER", 
                                                                     "args_list": [
-                                                                        "\u6210\u529f\u6ce8\u95001"
+                                                                        {
+                                                                            "arg_type": 100178, 
+                                                                            "args_list": [
+                                                                                {
+                                                                                    "__tuple__": true, 
+                                                                                    "items": [
+                                                                                        "DYNAMIC_TRIGGER_INSTANCE", 
+                                                                                        "\u89e6\u53d1", 
+                                                                                        "local"
+                                                                                    ]
+                                                                                }, 
+                                                                                {
+                                                                                    "arg_type": 100002, 
+                                                                                    "args_list": [
+                                                                                        {
+                                                                                            "__tuple__": true, 
+                                                                                            "items": [
+                                                                                                "INTEGER", 
+                                                                                                "int", 
+                                                                                                "local"
+                                                                                            ]
+                                                                                        }
+                                                                                    ], 
+                                                                                    "sub_type": 6
+                                                                                }
+                                                                            ], 
+                                                                            "sub_type": "VARIABLE"
+                                                                        }
                                                                     ], 
-                                                                    "sub_type": 1
+                                                                    "bp": false, 
+                                                                    "element_id": 920662089000046, 
+                                                                    "enable": true
                                                                 }
                                                             ], 
-                                                            "op_arg": [], 
-                                                            "op_arg_enable": [], 
-                                                            "sub_type": "623ae2e18b3411ed94a470b5e84281ea"
+                                                            "sub_type": 1
                                                         }
                                                     ], 
                                                     "bp": false, 
-                                                    "call_rt_arg_idxes": [], 
-                                                    "element_id": 180101192000155, 
-                                                    "enable": false
-                                                }, 
-                                                {
-                                                    "action_type": "UNREG_TRIGGER", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100178, 
-                                                            "args_list": [
-                                                                {
-                                                                    "__tuple__": true, 
-                                                                    "items": [
-                                                                        "DYNAMIC_TRIGGER_INSTANCE", 
-                                                                        "\u89e6\u53d12", 
-                                                                        "local"
-                                                                    ]
-                                                                }
-                                                            ], 
-                                                            "sub_type": "VARIABLE"
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "element_id": 180101192000140, 
+                                                    "element_id": 1135632455000180, 
                                                     "enable": true
-                                                }, 
-                                                {
-                                                    "action_type": "CALL_TRIGGER_FUNC", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100177, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100003, 
-                                                                    "args_list": [
-                                                                        "\u6210\u529f\u6ce8\u95002"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }
-                                                            ], 
-                                                            "op_arg": [], 
-                                                            "op_arg_enable": [], 
-                                                            "sub_type": "623ae2e18b3411ed94a470b5e84281ea"
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "call_rt_arg_idxes": [], 
-                                                    "element_id": 180101192000160, 
-                                                    "enable": false
-                                                }, 
-                                                {
-                                                    "action_type": "UNREG_TRIGGER", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100178, 
-                                                            "args_list": [
-                                                                {
-                                                                    "__tuple__": true, 
-                                                                    "items": [
-                                                                        "DYNAMIC_TRIGGER_INSTANCE", 
-                                                                        "\u89e6\u53d13", 
-                                                                        "local"
-                                                                    ]
-                                                                }
-                                                            ], 
-                                                            "sub_type": "VARIABLE"
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "element_id": 180101192000145, 
-                                                    "enable": true
-                                                }, 
-                                                {
-                                                    "action_type": "CALL_TRIGGER_FUNC", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100177, 
-                                                            "args_list": [
-                                                                {
-                                                                    "arg_type": 100003, 
-                                                                    "args_list": [
-                                                                        "\u6210\u529f\u6ce8\u95003"
-                                                                    ], 
-                                                                    "sub_type": 1
-                                                                }
-                                                            ], 
-                                                            "op_arg": [], 
-                                                            "op_arg_enable": [], 
-                                                            "sub_type": "623ae2e18b3411ed94a470b5e84281ea"
-                                                        }
-                                                    ], 
-                                                    "bp": false, 
-                                                    "call_rt_arg_idxes": [], 
-                                                    "element_id": 180101192000167, 
-                                                    "enable": false
                                                 }
                                             ], 
                                             "sub_type": 1
@@ -666,7 +609,7 @@
                                 {
                                     "arg_type": 100011, 
                                     "args_list": [
-                                        "36ad1e48-9c2a-4e33-9f07-77414dd99055"
+                                        "a68ca828-31c5-487d-9d9a-e411f42149ac"
                                     ], 
                                     "sub_type": 1
                                 }, 
@@ -793,7 +736,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1586741324, 
             "trigger_name": "\u663e\u793a\u6280\u80fd\u8bf4\u660e", 
-            "valid": false
+            "valid": true
         }
     }, 
     "trigger_group_info": {

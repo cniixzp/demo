@@ -12,48 +12,6 @@
                 "str": 0
             }
         }, 
-        "46182412": {
-            "variable_dict": {
-                "BOOLEAN": {
-                    "Bool": false
-                }, 
-                "NEW_TIMER": {
-                    "loop": -1
-                }, 
-                "UNIT_ENTITY": {
-                    "unitBoss": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "Bool": 0, 
-                "loop": 0, 
-                "unitBoss": 0
-            }
-        }, 
-        "51658767": {
-            "variable_dict": {
-                "BOOLEAN": {
-                    "Bool": false
-                }, 
-                "FLOAT": {
-                    "CD": 0.0, 
-                    "proportionHP": 0.0
-                }, 
-                "INTEGER": {
-                    "loop": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "unitBoss": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "Bool": 0, 
-                "CD": 0, 
-                "loop": 0, 
-                "proportionHP": 0, 
-                "unitBoss": 0
-            }
-        }, 
         "111153153": {
             "variable_dict": {
                 "BOOLEAN": {}, 
@@ -79,47 +37,6 @@
                 "\u89e6\u53d11": 0, 
                 "\u89e6\u53d12": 0, 
                 "\u89e6\u53d13": 0
-            }
-        }, 
-        "184897562": {
-            "variable_dict": {
-                "ABILITY_NAME": {
-                    "\u5f53\u524d\u6280\u80fd": 0
-                }, 
-                "FLOAT": {
-                    "angle": 0.0, 
-                    "realMoveAngle": 0.0, 
-                    "realSpeedBase": 0.0, 
-                    "realSpeedView": 0.0, 
-                    "realUnitSpeed": 0.0
-                }, 
-                "POINT": {
-                    "point": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0, 
-                            0
-                        ]
-                    }
-                }, 
-                "STRING": {
-                    "comandMode": ""
-                }, 
-                "UNIT_ENTITY": {
-                    "unit": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "angle": 0, 
-                "comandMode": 0, 
-                "point": 0, 
-                "realMoveAngle": 0, 
-                "realSpeedBase": 0, 
-                "realSpeedView": 0, 
-                "realUnitSpeed": 0, 
-                "unit": 0, 
-                "\u5f53\u524d\u6280\u80fd": 0
             }
         }, 
         "300843042": {
@@ -154,16 +71,6 @@
                 "a5": 0, 
                 "a6": 0, 
                 "loops": 0
-            }
-        }, 
-        "529088530": {
-            "variable_dict": {
-                "UNIT_ENTITY": {
-                    "unit": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "unit": 0
             }
         }, 
         "547188755": {
@@ -212,24 +119,6 @@
                 "\u5f53\u524d\u6280\u80fd": 0, 
                 "\u706b\u87fe\u870d": 0, 
                 "\u91d1\u9f99": 0
-            }
-        }, 
-        "602120205": {
-            "variable_dict": {
-                "BOOLEAN": {
-                    "Bool": false
-                }, 
-                "NEW_TIMER": {
-                    "loop": -1
-                }, 
-                "UNIT_ENTITY": {
-                    "unitBoss": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "Bool": 0, 
-                "loop": 0, 
-                "unitBoss": 0
             }
         }, 
         "685461537": {
@@ -360,16 +249,6 @@
                 "\u5f53\u524d\u6280\u80fd": 0
             }
         }, 
-        "942927888": {
-            "variable_dict": {
-                "UNIT_ENTITY": {
-                    "unitBoss": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "unitBoss": 0
-            }
-        }, 
         "1030037516": {
             "variable_dict": {
                 "FLOAT": {
@@ -397,15 +276,15 @@
         "1135632455": {
             "variable_dict": {
                 "DYNAMIC_TRIGGER_INSTANCE": {
-                    "\u89e6\u53d11": 0, 
-                    "\u89e6\u53d12": 0, 
-                    "\u89e6\u53d13": 0
+                    "\u89e6\u53d1": 0
+                }, 
+                "INTEGER": {
+                    "int": 0
                 }
             }, 
             "variable_length_dict": {
-                "\u89e6\u53d11": 0, 
-                "\u89e6\u53d12": 0, 
-                "\u89e6\u53d13": 0
+                "int": 0, 
+                "\u89e6\u53d1": 10
             }
         }, 
         "1180364841": {
@@ -449,27 +328,6 @@
                 "point": 0, 
                 "realX": 0, 
                 "realY": 0
-            }
-        }, 
-        "1382940703": {
-            "variable_dict": {
-                "POINT": {
-                    "point": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0, 
-                            0
-                        ]
-                    }
-                }, 
-                "UNIT_ENTITY": {
-                    "\u77f3\u9b542": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "point": 0, 
-                "\u77f3\u9b542": 0
             }
         }, 
         "1403158557": {
@@ -591,16 +449,6 @@
                 "point": 0
             }
         }, 
-        "1633476638": {
-            "variable_dict": {
-                "UNIT_ENTITY": {
-                    "\u77f3\u9b542": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "\u77f3\u9b542": 0
-            }
-        }, 
         "1710637070": {
             "variable_dict": {
                 "POINT": {
@@ -681,16 +529,6 @@
             "variable_length_dict": {
                 "isFirstBL": 0, 
                 "key": 0
-            }
-        }, 
-        "1897345049": {
-            "variable_dict": {
-                "BOOLEAN": {
-                    "Bool": false
-                }
-            }, 
-            "variable_length_dict": {
-                "Bool": 0
             }
         }, 
         "1948131333": {

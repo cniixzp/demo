@@ -65,15 +65,22 @@
  {
   "__tuple__": true, 
   "items": [
-   "36ad1e48-9c2a-4e33-9f07-77414dd99055", 
+   "1cb3c2c7-ce48-4eb5-bf3b-cce9a5f35b3c", 
    "Tab"
   ]
  }, 
  {
   "__tuple__": true, 
   "items": [
-   "1cb3c2c7-ce48-4eb5-bf3b-cce9a5f35b3c", 
-   "tab"
+   "a68ca828-31c5-487d-9d9a-e411f42149ac", 
+   "TabMenu"
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   "80358b61-7171-4533-84e8-4df8da30a5ed", 
+   "\u4e8c\u6b21\u91ca\u653e\u540e\u7684\u6548\u679c"
   ]
  }
 ]

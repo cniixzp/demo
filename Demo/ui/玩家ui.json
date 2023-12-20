@@ -492,6 +492,109 @@
             }, 
             "type": 4, 
             "uid": "5ba3572e-efc7-4489-b5ee-d29297f128e8"
+        }, 
+        {
+            "adapter_option": [
+                true, 
+                false, 
+                true, 
+                false, 
+                0.0, 
+                1030.0, 
+                -25.0, 
+                1715.0
+            ], 
+            "children": [
+                {
+                    "adapter_option": [
+                        true, 
+                        true, 
+                        true, 
+                        true, 
+                        -9.0, 
+                        -8.0, 
+                        40.0, 
+                        31.5
+                    ], 
+                    "children": [], 
+                    "event_list": [], 
+                    "font": {
+                        "__tuple__": true, 
+                        "items": [
+                            "HKWeiBeiW7", 
+                            26
+                        ]
+                    }, 
+                    "name": "label_29", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            119.25, 
+                            25.5
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            51.847826086956516, 
+                            51.0
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            158.5, 
+                            67.0
+                        ]
+                    }, 
+                    "text": {
+                        "__tuple__": true, 
+                        "items": [
+                            "F\uff1a\u6309\u952e\u5e2e\u52a9", 
+                            false
+                        ]
+                    }, 
+                    "type": 3, 
+                    "uid": "93206b41-be5b-409a-b0b6-0808b2f27414"
+                }
+            ], 
+            "color": {
+                "__tuple__": true, 
+                "items": [
+                    254, 
+                    254, 
+                    254, 
+                    255
+                ]
+            }, 
+            "event_list": [], 
+            "image": 133687, 
+            "name": "image_48", 
+            "open_adapter": true, 
+            "pos": {
+                "__tuple__": true, 
+                "items": [
+                    90.0, 
+                    1055.0
+                ]
+            }, 
+            "pos_percent": {
+                "__tuple__": true, 
+                "items": [
+                    4.6875, 
+                    97.68518518518519
+                ]
+            }, 
+            "size": {
+                "__tuple__": true, 
+                "items": [
+                    230.0, 
+                    50.0
+                ]
+            }, 
+            "type": 4, 
+            "uid": "0e8bc181-e356-49ca-9eba-6adad0598bad"
         }
     ], 
     "name": "\u73a9\u5bb6ui", 
