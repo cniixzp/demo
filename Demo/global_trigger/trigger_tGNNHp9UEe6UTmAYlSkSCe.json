@@ -1,0 +1,69 @@
+{
+    "trigger_dict": {
+        "2095538245": {
+            "action": [
+                {
+                    "action_type": "SET_TRIGGER_ENABLED", 
+                    "args_list": [
+                        {
+                            "arg_type": 100019, 
+                            "args_list": [
+                                2095538245
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                false
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2095538245000010, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200220, 
+                            "args_list": [
+                                18
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 2095538245000006, 
+                    "enable": true, 
+                    "event_type": "KEYBOARD_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": 0, 
+            "p_trigger_id": null, 
+            "trigger_id": 2095538245, 
+            "trigger_name": "\u8fdb\u7a0b\u7ba1\u7406", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    2095538245, 
+                    "\u8fdb\u7a0b\u7ba1\u7406"
+                ]
+            }
+        ], 
+        "is_sub_folder": true, 
+        "key": "tGNNHp9UEe6UTmAYlSkSCe", 
+        "name": "\u8fdb\u7a0b\u7ba1\u7406"
+    }
+}

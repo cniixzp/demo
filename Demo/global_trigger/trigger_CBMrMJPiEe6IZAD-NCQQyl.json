@@ -10,7 +10,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11
@@ -49,7 +49,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11
@@ -88,7 +88,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11
@@ -155,7 +155,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11
@@ -194,7 +194,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11
@@ -261,7 +261,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11
@@ -298,13 +298,10 @@
                         {
                             "arg_type": 100006, 
                             "args_list": [
-                                {
-                                    "__tuple__": true, 
-                                    "items": [
-                                        "UNIT_ENTITY", 
-                                        "UnitLead"
-                                    ]
-                                }
+                                [
+                                    "UNIT_ENTITY", 
+                                    "MainPlayer"
+                                ]
                             ], 
                             "sub_type": 11
                         }, 
@@ -370,7 +367,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11
@@ -409,7 +406,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11
@@ -594,7 +591,7 @@
                                                                     "args_list": [
                                                                         [
                                                                             "UNIT_ENTITY", 
-                                                                            "UnitLead"
+                                                                            "MainPlayer"
                                                                         ]
                                                                     ], 
                                                                     "sub_type": 11

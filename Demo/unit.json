@@ -286,16 +286,16 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                -59, 
-                                363184128
+                                -13, 
+                                1020035072
                             ], 
                             [
-                                2, 
+                                0, 
                                 0
                             ], 
                             [
-                                80, 
-                                3668148224
+                                127, 
+                                1862828032
                             ]
                         ]
                     }, 
@@ -1089,6 +1089,73 @@
             "name": "\u706b\u877e\u8788", 
             "type": 4, 
             "unit_id": 15
+        }, 
+        "16": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 1
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                0, 
+                                4200944640
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                128, 
+                                1417805824
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134248355, 
+            "name": "\u5c0f\u5b69\u6b8b\u9b42", 
+            "type": 1, 
+            "unit_id": 16
         }, 
         "21": {
             "components": {

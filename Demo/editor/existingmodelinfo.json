@@ -2128,6 +2128,12 @@
      "\u7687\u5b50", 
      1
     ]
+   }, 
+   {
+    "name": "\u65b0\u5efa\u6587\u4ef6\u5939", 
+    "key": "012HcJ9WEe6Xm2AYlSkSCe", 
+    "group": [], 
+    "btn_visible": false
    }
   ], 
   "btn_visible": false
@@ -2459,5 +2465,35 @@
    "\u5f00\u59cb\u955c\u5934", 
    32768
   ]
+ }, 
+ {
+  "name": "\u7b2c\u4e00\u7ae0", 
+  "key": "1twm4Z9WEe6ZhmAYlSkSCT", 
+  "group": [
+   {
+    "__tuple__": true, 
+    "items": [
+     10034, 
+     "\u7b2c\u4e00\u7ae0\u521d\u59cb\u70b9\uff08\u73b0\u5728\uff09", 
+     1024
+    ]
+   }, 
+   {
+    "name": "\u4eba\u7269", 
+    "key": "x85u8J9XEe60ymAYlSkSCQ", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       16, 
+       "\u5c0f\u5b69\u6b8b\u9b42", 
+       1
+      ]
+     }
+    ], 
+    "btn_visible": false
+   }
+  ], 
+  "btn_visible": false
  }
 ]

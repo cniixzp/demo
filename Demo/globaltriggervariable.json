@@ -662,7 +662,9 @@
             "ShiftConsume": 30.0, 
             "\u8fde\u51fb\u524d\u7f6e": 0.0
         }, 
-        "INTEGER": {}, 
+        "INTEGER": {
+            "\u8fdb\u5ea6\u7ba1\u7406": 1
+        }, 
         "LINK_SFX_ENTITY": {
             "\u7ea2\u8272\u94fe\u63a5": 0, 
             "\u91d1\u8272\u94fe\u63a5": 0
@@ -694,8 +696,9 @@
             "\u98de\u5251": ""
         }, 
         "UNIT_ENTITY": {
-            "UnitLead": 0, 
-            "\u5148\u7956\u6b8b\u9b42": 0
+            "MainPlayer": 0, 
+            "\u5148\u7956\u6b8b\u9b42": 0, 
+            "\u5c0f\u5b69\u6b8b\u9b42": 0
         }, 
         "UNIT_NAME": {}
     }, 
@@ -717,8 +720,8 @@
         {
             "__tuple__": true, 
             "items": [
-                "UnitLead", 
-                "UnitLead"
+                "MainPlayer", 
+                "MainPlayer"
             ]
         }, 
         {
@@ -860,23 +863,45 @@
                 "\u7ea2\u8272\u94fe\u63a5", 
                 "\u7ea2\u8272\u94fe\u63a5"
             ]
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u8fdb\u5ea6\u7ba1\u7406", 
+                        "\u8fdb\u5ea6\u7ba1\u7406"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u5c0f\u5b69\u6b8b\u9b42", 
+                        "\u5c0f\u5b69\u6b8b\u9b42"
+                    ]
+                }
+            ], 
+            "key": "8nD2cJ9VEe6TWWAYlSkSCf", 
+            "name": "\u7b2c\u4e00\u7ae0\u8282"
         }
     ], 
     "variable_length_dict": {
         "BoolDebug": 0, 
         "Energy": 0, 
         "IsInNewHandRoad": 0, 
+        "MainPlayer": 0, 
         "MaxEnergy": 0, 
         "PlayerLead": 0, 
         "Qvalue": 0, 
         "ShiftConsume": 0, 
-        "UnitLead": 0, 
         "\u5148\u7956\u6b8b\u9b42": 0, 
         "\u5904\u51b3\u5f15\u5bfc": 0, 
+        "\u5c0f\u5b69\u6b8b\u9b42": 0, 
         "\u653b\u51fb\u5f15\u5bfc": 0, 
         "\u706b\u6807\u8bb0": 0, 
         "\u706b\u6807\u8bb01": 0, 
         "\u7ea2\u8272\u94fe\u63a5": 0, 
+        "\u8fdb\u5ea6\u7ba1\u7406": 0, 
         "\u8fde\u51fb\u524d\u7f6e": 0, 
         "\u91d1\u6807\u8bb0": 0, 
         "\u91d1\u6807\u8bb01": 0, 
