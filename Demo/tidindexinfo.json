@@ -232,5 +232,11 @@
         "index_type": "object_editor", 
         "item_key": 134258630, 
         "prop_key": "name"
+    }, 
+    "1799323077": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134234974, 
+        "prop_key": "name"
     }
 }

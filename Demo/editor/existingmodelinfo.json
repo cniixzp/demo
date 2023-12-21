@@ -2,24 +2,7 @@
  {
   "name": "\u955c\u5934", 
   "key": "94P+oZ+vEe6O8IwWRYu402", 
-  "group": [
-   {
-    "__tuple__": true, 
-    "items": [
-     9999, 
-     "\u521d\u59cb\u955c\u5934", 
-     32768
-    ]
-   }, 
-   {
-    "__tuple__": true, 
-    "items": [
-     10024, 
-     "\u5f00\u59cb\u955c\u5934", 
-     32768
-    ]
-   }
-  ], 
+  "group": [], 
   "btn_visible": false
  }, 
  {
@@ -2455,23 +2438,38 @@
   "key": "1twm4Z9WEe6ZhmAYlSkSCT", 
   "group": [
    {
-    "__tuple__": true, 
-    "items": [
-     10034, 
-     "\u7b2c\u4e00\u7ae0\u521d\u59cb\u70b9\uff08\u73b0\u5728\uff09", 
-     1024
-    ]
-   }, 
-   {
     "name": "\u4eba\u7269", 
     "key": "x85u8J9XEe60ymAYlSkSCQ", 
     "group": [
      {
       "__tuple__": true, 
       "items": [
-       16, 
-       "\u5c0f\u5b69\u6b8b\u9b42", 
-       1
+       1, 
+       "\u73b0\u5728\u7537\u5b69", 
+       4
+      ]
+     }
+    ], 
+    "btn_visible": false
+   }, 
+   {
+    "name": "\u70b9\u4ee5\u53ca\u533a\u57df", 
+    "key": "4ixzT5-yEe6yBexj1wijoN", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       10034, 
+       "\u7b2c\u4e00\u7ae0\u521d\u59cb\u70b9\uff08\u73b0\u5728\uff09", 
+       1024
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       10035, 
+       "\u5c0f\u5b69\u6b8b\u9b42\u533a\u57df\uff08\u73b0\u5728\uff09", 
+       4096
       ]
      }
     ], 

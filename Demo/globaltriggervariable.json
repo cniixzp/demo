@@ -264,6 +264,43 @@
                 "realY": 0
             }
         }, 
+        "1335484460": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "\u662f\u5426\u8981\u7ed3\u675f\u4e86": false
+                }, 
+                "FLOAT": {
+                    "distance": 0.0
+                }, 
+                "INTEGER": {
+                    "\u5f53\u524d\u5bf9\u8bddindex": 0, 
+                    "\u76ee\u6807\u5bf9\u8bddindex": 0
+                }, 
+                "NEW_TIMER": {
+                    "\u4e3b\u8ba1\u65f6\u5668": -1, 
+                    "\u65f6\u95f4\u8ba1\u65f6\u5668": -1, 
+                    "\u8ddd\u79bb\u8ba1\u65f6\u5668": -1
+                }, 
+                "STRING": {}, 
+                "TABLE": {
+                    "\u591a\u7ef4\u8868": null
+                }, 
+                "UNIT_ENTITY": {
+                    "\u5bf9\u8bdd\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "distance": 0, 
+                "\u4e3b\u8ba1\u65f6\u5668": 0, 
+                "\u591a\u7ef4\u8868": 0, 
+                "\u5bf9\u8bdd\u5355\u4f4d": 0, 
+                "\u5f53\u524d\u5bf9\u8bddindex": 0, 
+                "\u65f6\u95f4\u8ba1\u65f6\u5668": 0, 
+                "\u662f\u5426\u8981\u7ed3\u675f\u4e86": 0, 
+                "\u76ee\u6807\u5bf9\u8bddindex": 0, 
+                "\u8ddd\u79bb\u8ba1\u65f6\u5668": 0
+            }
+        }, 
         "1512071175": {
             "variable_dict": {
                 "FLOAT": {
@@ -495,7 +532,8 @@
     "variable_dict": {
         "BOOLEAN": {
             "BoolDebug": false, 
-            "IsInNewHandRoad": false
+            "IsInNewHandRoad": false, 
+            "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd": false
         }, 
         "DYNAMIC_TRIGGER_INSTANCE": {}, 
         "FLOAT": {
@@ -726,6 +764,19 @@
             ], 
             "key": "pDc00Z-BEe6ijowWRYu40y", 
             "name": "\u6807\u8bb0"
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd", 
+                        "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd"
+                    ]
+                }
+            ], 
+            "key": "2IZJoZ-0Ee6Hiexj1wijoE", 
+            "name": "\u4e3b\u89d2\u72b6\u6001"
         }
     ], 
     "variable_length_dict": {
@@ -739,6 +790,7 @@
         "ShiftConsume": 0, 
         "\u5148\u7956\u6b8b\u9b42": 0, 
         "\u5c0f\u5b69\u6b8b\u9b42": 0, 
+        "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd": 0, 
         "\u706b\u6807\u8bb0": 0, 
         "\u706b\u6807\u8bb01": 0, 
         "\u767d\u8272\u62a4\u76fe": 0, 
