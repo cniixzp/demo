@@ -41,7 +41,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 1027198978000040, 
-                    "enable": true
+                    "enable": false
                 }, 
                 {
                     "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
@@ -87,7 +87,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 1633054723000012, 
-                    "enable": true, 
+                    "enable": false, 
                     "local_var": [
                         {}, 
                         {}

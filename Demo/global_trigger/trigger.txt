@@ -2,22 +2,20 @@
     "group": [], 
     "key": -1, 
     "key_order": {
-        "-1DGYY-0Ee6BgowWRYu400": 40, 
-        "6Vc9Lo5fEe6cbowWRYu408": 14, 
-        "7Y0iLp4XEe6nQ4wWRYu40-": 30, 
-        "84cLT4-0Ee6DBIwWRYu400": 39, 
-        "CBMrMJPiEe6IZAD-NCQQyl": 18, 
-        "DZLRno3KEe6IMYwWRYu40z": 15, 
-        "V3MmsIwKEe6zvIwWRYu40x": 10, 
-        "WOhr3pP9Ee6JbQD-NCQQys": 38, 
-        "djc23pAfEe6fTYwWRYu409": 16, 
-        "iRlWj5JnEe6zoYwWRYu401": 17, 
-        "onDhQJ9UEe6-tWAYlSkSCb": 31, 
-        "tGNNHp9UEe6UTmAYlSkSCe": 41, 
+        "-1DGYY-0Ee6BgowWRYu400": 20, 
+        "7Y0iLp4XEe6nQ4wWRYu40-": 19, 
+        "B4fy3p+uEe6X0owWRYu40x": 7, 
+        "DZLRno3KEe6IMYwWRYu40z": 9, 
+        "V3MmsIwKEe6zvIwWRYu40x": 8, 
+        "djc23pAfEe6fTYwWRYu409": 22, 
+        "jx5oLp+sEe6BtYwWRYu407": 6, 
+        "onDhQJ9UEe6-tWAYlSkSCb": 16, 
+        "s0Xm3p+vEe6lZIwWRYu40+": 18, 
+        "tGNNHp9UEe6UTmAYlSkSCe": 23, 
         "uLPpsBTHEe6wRHC16EKB6k": 2, 
         "uNMxgBTHEe6z3XC16EKB6s": 3, 
         "uQ2icBTHEe6WCXC16EKB6q": 4, 
-        "wxVpIZQyEe6tKAD-NCQQyi": 24
+        "wxVpIZQyEe6tKAD-NCQQyi": 21
     }, 
     "name": "trigger", 
     "sub_trigger": {
@@ -42,165 +40,53 @@
                 "B01\uff1a\u5e27\u8ba1\u65f6\u5668\uff0830\uff09"
             ]
         }, 
-        "6": {
-            "__tuple__": true, 
-            "items": [
-                1420001297, 
-                "shift\u95ea\u907f"
-            ]
-        }, 
-        "7": {
-            "__tuple__": true, 
-            "items": [
-                1030037516, 
-                "\u9f20\u6807\u5de6\u952e\u6309\u4e0b"
-            ]
-        }, 
-        "8": {
-            "__tuple__": true, 
-            "items": [
-                1742979109, 
-                "\u9f20\u6807\u53f3\u952e\u6309\u4e0b"
-            ]
-        }, 
-        "9": {
-            "__tuple__": true, 
-            "items": [
-                1857867822, 
-                "Q\u6280\u80fd\u91ca\u653e"
-            ]
-        }, 
-        "11": {
-            "__tuple__": true, 
-            "items": [
-                547188755, 
-                "\u5f00\u542f\u5927\u62db"
-            ]
-        }, 
-        "12": {
-            "__tuple__": true, 
-            "items": [
-                1540440130, 
-                "\u71c3\u7075\u65f6\u523b"
-            ]
-        }, 
-        "13": {
-            "__tuple__": true, 
-            "items": [
-                935727146, 
-                "\u6b7b\u4ea1\u91cd\u751f"
-            ]
-        }, 
-        "19": {
-            "__tuple__": true, 
-            "items": [
-                171003955, 
-                "\u5b50\u89e6\u53d1\u5668"
-            ]
-        }, 
-        "20": {
-            "__tuple__": true, 
-            "items": [
-                1735778357, 
-                "\u5b50\u89e6\u53d1\u5668_2"
-            ]
-        }, 
-        "21": {
-            "__tuple__": true, 
-            "items": [
-                763437111, 
-                "\u5b50\u89e6\u53d1\u5668_3"
-            ]
-        }, 
-        "22": {
-            "__tuple__": true, 
-            "items": [
-                261234746, 
-                "\u5b50\u89e6\u53d1\u5668_4"
-            ]
-        }, 
-        "23": {
-            "__tuple__": true, 
-            "items": [
-                1136807995, 
-                "\u5b50\u89e6\u53d1\u5668_5"
-            ]
-        }, 
-        "25": {
-            "__tuple__": true, 
-            "items": [
-                1837813825, 
-                "\u71c3\u7075"
-            ]
-        }, 
-        "26": {
-            "__tuple__": true, 
-            "items": [
-                659112003, 
-                "\u71c3\u7075\u7ed3\u675f"
-            ]
-        }, 
-        "27": {
-            "__tuple__": true, 
-            "items": [
-                1956405316, 
-                "\u5224\u65ad\u52a8\u753b"
-            ]
-        }, 
-        "28": {
-            "__tuple__": true, 
-            "items": [
-                2058367045, 
-                "\u91d1\u666e\u653b"
-            ]
-        }, 
-        "29": {
-            "__tuple__": true, 
-            "items": [
-                125624390, 
-                "\u5224\u65ad\u662f\u5426\u8fde\u51fb"
-            ]
-        }, 
-        "32": {
+        "10": {
             "__tuple__": true, 
             "items": [
                 1300414540, 
                 "\u5b50\u89e6\u53d1\u5668_9"
             ]
         }, 
-        "33": {
+        "11": {
             "__tuple__": true, 
             "items": [
                 1115865165, 
                 "\u5b50\u89e6\u53d1\u5668_10"
             ]
         }, 
-        "34": {
+        "12": {
             "__tuple__": true, 
             "items": [
                 1065533518, 
                 "\u5b50\u89e6\u53d1\u5668_11"
             ]
         }, 
-        "35": {
+        "13": {
             "__tuple__": true, 
             "items": [
                 68096068, 
                 "\u5b50\u89e6\u53d1\u5668_6"
             ]
         }, 
-        "36": {
+        "14": {
             "__tuple__": true, 
             "items": [
                 2031149125, 
                 "\u5b50\u89e6\u53d1\u5668_7"
             ]
         }, 
-        "37": {
+        "15": {
             "__tuple__": true, 
             "items": [
                 202436678, 
                 "\u5b50\u89e6\u53d1\u5668_8"
+            ]
+        }, 
+        "17": {
+            "__tuple__": true, 
+            "items": [
+                694263855, 
+                "\u5b50\u89e6\u53d1\u5668"
             ]
         }
     }
