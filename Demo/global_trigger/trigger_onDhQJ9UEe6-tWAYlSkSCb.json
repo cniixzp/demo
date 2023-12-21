@@ -122,6 +122,12 @@
                     "element_id": 2099540038000001, 
                     "enable": true, 
                     "event_type": "RECEIVE_CUSTOM_EVENT"
+                }, 
+                {
+                    "args_list": [], 
+                    "element_id": 2099540038261272, 
+                    "enable": true, 
+                    "event_type": "INIT_FINISHED"
                 }
             ], 
             "group_id": "onDhQJ9UEe6-tWAYlSkSCb", 
