@@ -2479,5 +2479,21 @@
    }
   ], 
   "btn_visible": false
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   9999, 
+   "\u521d\u59cb\u955c\u5934", 
+   32768
+  ]
+ }, 
+ {
+  "__tuple__": true, 
+  "items": [
+   10024, 
+   "\u5f00\u59cb\u955c\u5934", 
+   32768
+  ]
  }
 ]
