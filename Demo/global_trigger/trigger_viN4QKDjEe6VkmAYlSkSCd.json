@@ -2140,7 +2140,8 @@
                                                                     "__tuple__": true, 
                                                                     "items": [
                                                                         "UNIT_ENTITY", 
-                                                                        "m_hero_2"
+                                                                        "\u5355\u4f4d", 
+                                                                        "local"
                                                                     ]
                                                                 }
                                                             ], 
@@ -2182,7 +2183,8 @@
                                                                     "__tuple__": true, 
                                                                     "items": [
                                                                         "UNIT_ENTITY", 
-                                                                        "m_hero_2"
+                                                                        "\u5355\u4f4d", 
+                                                                        "local"
                                                                     ]
                                                                 }
                                                             ], 
@@ -2196,7 +2198,7 @@
                                                     ], 
                                                     "bp": false, 
                                                     "element_id": 1883861045000005, 
-                                                    "enable": false
+                                                    "enable": true
                                                 }
                                             ], 
                                             "sub_type": 1
@@ -2264,7 +2266,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1883861045, 
             "trigger_name": "\u4eba\u7269\u52a0\u901f\u79fb\u52a8", 
-            "valid": false
+            "valid": true
         }
     }, 
     "trigger_group_info": {

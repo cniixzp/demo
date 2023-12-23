@@ -52,7 +52,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "can_flee": true, 
+    "can_flee": false, 
     "cancel_alarm_range": 10.0, 
     "cd_reduce": 0.0, 
     "cd_reduce_grow": 0.0, 
@@ -64,6 +64,10 @@
     "common_ability_list": [
         [
             134260921, 
+            1
+        ], 
+        [
+            134252820, 
             1
         ]
     ], 
