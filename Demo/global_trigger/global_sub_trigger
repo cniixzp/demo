@@ -4465,6 +4465,138 @@
         "trigger_name": "B01\uff1a\u5e27\u8ba1\u65f6\u5668\uff0830\uff09", 
         "valid": true
     }, 
+    "1905365038": {
+        "action": [
+            {
+                "action_type": "IF_THEN_ELSE", 
+                "args_list": [
+                    {
+                        "arg_type": 100021, 
+                        "args_list": [
+                            {
+                                "args_list": [
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [], 
+                                        "sub_type": "KILLED_UNIT"
+                                    }, 
+                                    {
+                                        "arg_type": 100026, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "UNIT_GROUP", 
+                                                    "\u62a2\u5b9d\u77f3\u602a\u7269"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 14
+                                    }
+                                ], 
+                                "condition_type": "UNIT_IN_GROUP", 
+                                "element_id": 1905365038000028, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [
+                            {
+                                "action_type": "REMOVE_UNIT_ENTITY_IN_GROUP", 
+                                "args_list": [
+                                    {
+                                        "arg_type": 100026, 
+                                        "args_list": [
+                                            {
+                                                "__tuple__": true, 
+                                                "items": [
+                                                    "UNIT_GROUP", 
+                                                    "\u62a2\u5b9d\u77f3\u602a\u7269"
+                                                ]
+                                            }
+                                        ], 
+                                        "sub_type": 14
+                                    }, 
+                                    {
+                                        "arg_type": 100006, 
+                                        "args_list": [], 
+                                        "sub_type": "KILLED_UNIT"
+                                    }
+                                ], 
+                                "bp": false, 
+                                "element_id": 1905365038000031, 
+                                "enable": true
+                            }
+                        ], 
+                        "sub_type": 1
+                    }, 
+                    {
+                        "arg_type": 100022, 
+                        "args_list": [], 
+                        "sub_type": 1
+                    }
+                ], 
+                "bp": false, 
+                "comment": "\u62a2\u5b9d\u77f3\u602a\u7269\u79fb\u9664", 
+                "element_id": 1905365038000019, 
+                "enable": true, 
+                "fake_op": []
+            }
+        ], 
+        "call_enabled": true, 
+        "condition": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [], 
+                        "sub_type": "KILLED_UNIT"
+                    }, 
+                    {
+                        "arg_type": 100006, 
+                        "args_list": [
+                            {
+                                "__tuple__": true, 
+                                "items": [
+                                    "UNIT_ENTITY", 
+                                    "MainPlayer"
+                                ]
+                            }
+                        ], 
+                        "sub_type": 11
+                    }
+                ], 
+                "condition_type": "IS_ENEMY_RELATION", 
+                "element_id": 1905365038000016, 
+                "enable": false
+            }
+        ], 
+        "enabled": true, 
+        "event": [
+            {
+                "args_list": [
+                    {
+                        "arg_type": 100008, 
+                        "args_list": [
+                            "ET_UNIT_DIE"
+                        ], 
+                        "sub_type": "GENERIC_UNIT_EVENT"
+                    }
+                ], 
+                "element_id": 1905365038000002, 
+                "enable": true, 
+                "event_type": "GENERIC_UNIT_EVENT"
+            }
+        ], 
+        "group_id": "DZLRno3KEe6IMYwWRYu40z", 
+        "p_trigger_id": null, 
+        "trigger_id": 1905365038, 
+        "trigger_name": "\u5c06\u6b7b\u4ea1\u7684\u5c0f\u602a\u79fb\u51fa\u5355\u4f4d\u7ec4", 
+        "valid": true
+    }, 
     "2031149125": {
         "action": [
             {

@@ -2438,24 +2438,100 @@
   "key": "1twm4Z9WEe6ZhmAYlSkSCT", 
   "group": [
    {
-    "__tuple__": true, 
-    "items": [
-     10034, 
-     "\u7b2c\u4e00\u7ae0\u521d\u59cb\u70b9\uff08\u73b0\u5728\uff09", 
-     1024
-    ]
-   }, 
-   {
     "name": "\u4eba\u7269", 
     "key": "x85u8J9XEe60ymAYlSkSCQ", 
     "group": [
      {
       "__tuple__": true, 
       "items": [
-       16, 
-       "\u5c0f\u5b69\u6b8b\u9b42", 
-       1
+       1, 
+       "\u73b0\u5728\u7537\u5b69", 
+       4
       ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       2, 
+       "\u7cbe\u82f1\u9636\u6bb5boss", 
+       4
+      ]
+     }
+    ], 
+    "btn_visible": false
+   }, 
+   {
+    "name": "\u70b9\u4ee5\u53ca\u533a\u57df", 
+    "key": "4ixzT5-yEe6yBexj1wijoN", 
+    "group": [
+     {
+      "__tuple__": true, 
+      "items": [
+       10034, 
+       "\u7b2c\u4e00\u7ae0\u521d\u59cb\u70b9\uff08\u73b0\u5728\uff09", 
+       1024
+      ]
+     }, 
+     {
+      "__tuple__": true, 
+      "items": [
+       10035, 
+       "\u5c0f\u5b69\u6b8b\u9b42\u533a\u57df\uff08\u73b0\u5728\uff09", 
+       4096
+      ]
+     }, 
+     {
+      "name": "\u62a2\u5b9d\u77f3\u7684\u602a\u7269\u70b9\u4f4d", 
+      "key": "L9C5AKAGEe6ijexj1wijoG", 
+      "group": [
+       {
+        "name": "\u5c0f\u602a", 
+        "key": "6QgbAKCjEe6c62AYlSkSCT", 
+        "group": [
+         {
+          "__tuple__": true, 
+          "items": [
+           10036, 
+           "\u70b9", 
+           1024
+          ]
+         }, 
+         {
+          "__tuple__": true, 
+          "items": [
+           10037, 
+           "\u70b9", 
+           1024
+          ]
+         }, 
+         {
+          "__tuple__": true, 
+          "items": [
+           10038, 
+           "\u70b9", 
+           1024
+          ]
+         }
+        ], 
+        "btn_visible": false
+       }, 
+       {
+        "name": "\u5b88\u62a4\u5b9d\u77f3\u7cbe\u82f1\u602a", 
+        "key": "7+4BT6CjEe66NGAYlSkSCS", 
+        "group": [
+         {
+          "__tuple__": true, 
+          "items": [
+           10042, 
+           "\u7cbe\u82f1\u602a\u6218\u6597\u533a\u57df", 
+           4096
+          ]
+         }
+        ], 
+        "btn_visible": false
+       }
+      ], 
+      "btn_visible": false
      }
     ], 
     "btn_visible": false

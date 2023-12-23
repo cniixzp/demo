@@ -7763,11 +7763,74 @@
             "trigger_id": 1742979109, 
             "trigger_name": "\u9f20\u6807\u53f3\u952e\u6309\u4e0b", 
             "valid": true
+        }, 
+        "2145943599": {
+            "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "BOOLEAN", 
+                                        "\u8df3\u8fc7\u5bf9\u8bdd"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 2145943599000004, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 200221, 
+                            "args_list": [
+                                240
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 2145943599000002, 
+                    "enable": true, 
+                    "event_type": "MOUSE_KEY_DOWN_EVENT"
+                }
+            ], 
+            "group_id": "tGNNHp9UEe6UTmAYlSkSCe", 
+            "p_trigger_id": null, 
+            "trigger_id": 2145943599, 
+            "trigger_name": "\u8df3\u8fc7\u5bf9\u8bdd\u7ba1\u7406", 
+            "valid": true
         }
     }, 
     "trigger_group_info": {
         "_trigger_group_": true, 
         "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    2145943599, 
+                    "\u8df3\u8fc7\u5bf9\u8bdd\u7ba1\u7406"
+                ]
+            }, 
             {
                 "__tuple__": true, 
                 "items": [
