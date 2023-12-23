@@ -1,6 +1,6 @@
 {
     "color_grading": {
-        "color_grading_type": 3
+        "color_grading_type": 8
     }, 
     "env_time_of_day": {
         "time_of_day_template": 300002
@@ -20,7 +20,7 @@
                 "PixelIntensity": 2.0
             }, 
             "4": {
-                "DepthScale": 0.0, 
+                "DepthScale": 2.5, 
                 "LineColor": {
                     "__tuple__": true, 
                     "items": [

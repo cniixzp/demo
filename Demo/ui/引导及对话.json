@@ -6,27 +6,6 @@
                 {
                     "children": [], 
                     "event_list": [], 
-                    "name": "\u5bf9\u8bdd\u540d\u79f0", 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            230.0, 
-                            188.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            24.838012958963283, 
-                            73.4375
-                        ]
-                    }, 
-                    "type": 3, 
-                    "uid": "5849824c-759e-4339-9354-4df16c93ccab"
-                }, 
-                {
-                    "children": [], 
-                    "event_list": [], 
                     "font": {
                         "__tuple__": true, 
                         "items": [
@@ -47,7 +26,7 @@
                         "__tuple__": true, 
                         "items": [
                             58.42332613390929, 
-                            41.40625
+                            67.94871794871796
                         ]
                     }, 
                     "size": {
@@ -76,7 +55,7 @@
                         "__tuple__": true, 
                         "items": [
                             8.423326133909287, 
-                            52.34375
+                            85.8974358974359
                         ]
                     }, 
                     "type": 4, 
@@ -94,26 +73,26 @@
             }, 
             "event_list": [], 
             "image": 110973, 
-            "name": "\u5bf9\u8bdd\u6846", 
+            "name": "image_6", 
             "pos": {
                 "__tuple__": true, 
                 "items": [
                     960.0, 
-                    197.0
+                    149.0
                 ]
             }, 
             "pos_percent": {
                 "__tuple__": true, 
                 "items": [
                     50.0, 
-                    18.24074074074074
+                    13.796296296296296
                 ]
             }, 
             "size": {
                 "__tuple__": true, 
                 "items": [
                     926.0, 
-                    256.0
+                    156
                 ]
             }, 
             "type": 4, 
