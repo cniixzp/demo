@@ -179,6 +179,37 @@
                 "\u6309\u4e0b\u65f6\u957f": 0
             }
         }, 
+<<<<<<< HEAD
+=======
+        "1091584052": {
+            "variable_dict": {
+                "ANGLE": {
+                    "\u671d\u5411": 0.0
+                }, 
+                "FLOAT": {}, 
+                "INTEGER": {
+                    "\u9009\u62e9\u6280\u80fd": 0
+                }, 
+                "NEW_TIMER": {}, 
+                "PROJECTILE_ENTITY": {
+                    "\u6295\u5c04\u7269": 0
+                }, 
+                "ROUND_AREA": {
+                    "\u5224\u65ad\u5706": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "\u751f\u6210\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5224\u65ad\u5706": 0, 
+                "\u6295\u5c04\u7269": 0, 
+                "\u671d\u5411": 0, 
+                "\u751f\u6210\u5355\u4f4d": 0, 
+                "\u9009\u62e9\u6280\u80fd": 0
+            }
+        }, 
+>>>>>>> 2dc631eeff79e82583abba8ddd5613a2dcc4e130
         "1126559793": {
             "variable_dict": {
                 "ABILITY_NAME": {

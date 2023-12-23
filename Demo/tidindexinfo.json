@@ -232,5 +232,20 @@
         "index_type": "object_editor", 
         "item_key": 134258630, 
         "prop_key": "name"
+<<<<<<< HEAD
+=======
+    }, 
+    "1799323077": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134234974, 
+        "prop_key": "name"
+    }, 
+    "2030401697": {
+        "editor_type": "projectile_all", 
+        "index_type": "object_editor", 
+        "item_key": 134271421, 
+        "prop_key": "name"
+>>>>>>> 2dc631eeff79e82583abba8ddd5613a2dcc4e130
     }
 }

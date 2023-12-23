@@ -106,9 +106,94 @@
                     }
                 }
             }, 
+<<<<<<< HEAD
             "entity_id": 134254594, 
             "name": "\u7687\u5b50", 
             "type": 1, 
+=======
+            "entity_id": 134234974, 
+            "name": "\u73b0\u5728\u7537\u5b69", 
+            "type": 4, 
+            "unit_id": 1
+        }, 
+        "2": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        134260921, 
+                        1
+                    ], 
+                    "2_2": [
+                        134252820, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                14, 
+                                654553088
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                116, 
+                                3501260800
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            6, 
+                            1216271784
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134242449, 
+            "name": "\u7cbe\u82f1\u9636\u6bb5boss", 
+            "type": 4, 
+>>>>>>> 2dc631eeff79e82583abba8ddd5613a2dcc4e130
             "unit_id": 2
         }, 
         "3": {
