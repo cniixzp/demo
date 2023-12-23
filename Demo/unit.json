@@ -71,6 +71,77 @@
             "type": 4, 
             "unit_id": 1
         }, 
+        "2": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 1
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -26, 
+                                4112572416
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                125, 
+                                3960340480
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            2949457142
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134266911, 
+            "name": "\u5c0f\u72d0\u5996", 
+            "type": 1, 
+            "unit_id": 2
+        }, 
         "3": {
             "components": {
                 "__attr": {
@@ -227,16 +298,16 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                -18, 
-                                2924871680
+                                -14, 
+                                1061404672
                             ], 
                             [
                                 0, 
                                 23184
                             ], 
                             [
-                                114, 
-                                1572634624
+                                116, 
+                                1493696512
                             ]
                         ]
                     }, 
@@ -963,6 +1034,231 @@
             "name": "\u524d\u950b\u5766\u514b", 
             "type": 1, 
             "unit_id": 14
+        }, 
+        "15": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 1
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -25, 
+                                2546540544
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                122, 
+                                3473670144
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            1, 
+                            217507554
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134269049, 
+            "name": "\u53f8\u9a6c\u662d", 
+            "type": 1, 
+            "unit_id": 15
+        }, 
+        "16": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 32
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -23, 
+                                4259790848
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                125, 
+                                3204710400
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            6, 
+                            1216271784
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134231239, 
+            "name": "\u96ea\u5996", 
+            "type": 1, 
+            "unit_id": 16
+        }, 
+        "19": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "3_1": [
+                        134239577, 
+                        1
+                    ], 
+                    "3_2": [
+                        134227933, 
+                        1
+                    ], 
+                    "3_3": [
+                        134219672, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 1
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                -10, 
+                                1338466304
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                114, 
+                                1938391040
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134276197, 
+            "name": "\u5973\u5996", 
+            "type": 1, 
+            "unit_id": 19
         }, 
         "21": {
             "components": {

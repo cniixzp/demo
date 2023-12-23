@@ -63,6 +63,32 @@
                 "loops": 0
             }
         }, 
+        "376922164": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realMoveAngle": 0.0, 
+                    "realSpeedBase": 0.0, 
+                    "realSpeedView": 0.0, 
+                    "realUnitSpeed": 0.0
+                }, 
+                "STRING": {
+                    "comandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0, 
+                    "\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "comandMode": 0, 
+                "realMoveAngle": 0, 
+                "realSpeedBase": 0, 
+                "realSpeedView": 0, 
+                "realUnitSpeed": 0, 
+                "unit": 0, 
+                "\u5355\u4f4d": 0
+            }
+        }, 
         "659112003": {
             "variable_dict": {
                 "PLAYER": {
@@ -71,6 +97,20 @@
             }, 
             "variable_length_dict": {
                 "player": 0
+            }
+        }, 
+        "706924597": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u79fb\u901f": 0.0
+                }, 
+                "NEW_TIMER": {
+                    "\u79fb\u52a8\u8ba1\u65f6\u5668": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "\u79fb\u52a8\u8ba1\u65f6\u5668": 0, 
+                "\u79fb\u901f": 0
             }
         }, 
         "738787338": {
@@ -128,6 +168,16 @@
                 "unit": 0, 
                 "x": 0, 
                 "y": 0
+            }
+        }, 
+        "774701104": {
+            "variable_dict": {
+                "INTEGER": {
+                    "loop": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "loop": 0
             }
         }, 
         "824569906": {
@@ -351,6 +401,57 @@
                 "unit": 0
             }
         }, 
+        "1667633203": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u65b9\u54111": 0.0, 
+                    "\u65b9\u54112": 0.0, 
+                    "\u8ddd\u79bb": 0.0
+                }, 
+                "POINT": {
+                    "\u4f24\u5bb3\u70b9": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "\u4f24\u5bb3\u70b9": 0, 
+                "\u65b9\u54111": 0, 
+                "\u65b9\u54112": 0, 
+                "\u8ddd\u79bb": 0
+            }
+        }, 
+        "1736224818": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u653b\u51fb\u529b": 0.0, 
+                    "\u653b\u51fb\u65b9\u5411": 0.0, 
+                    "\u653b\u51fb\u8303\u56f41": 0.0, 
+                    "\u653b\u51fb\u8303\u56f42": 0.0
+                }, 
+                "INTEGER": {
+                    "\u653b\u51fb\u7c7b\u578b": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0, 
+                    "\u653b\u51fb\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "unit": 0, 
+                "\u653b\u51fb\u529b": 0, 
+                "\u653b\u51fb\u5355\u4f4d": 0, 
+                "\u653b\u51fb\u65b9\u5411": 0, 
+                "\u653b\u51fb\u7c7b\u578b": 0, 
+                "\u653b\u51fb\u8303\u56f41": 0, 
+                "\u653b\u51fb\u8303\u56f42": 0
+            }
+        }, 
         "1742979109": {
             "variable_dict": {
                 "FLOAT": {
@@ -381,6 +482,20 @@
                 "key": 0, 
                 "loops": 0, 
                 "sound": 0
+            }
+        }, 
+        "1788928003": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u79fb\u901f": 0.0
+                }, 
+                "NEW_TIMER": {
+                    "\u79fb\u52a8\u8ba1\u65f6\u5668": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "\u79fb\u52a8\u8ba1\u65f6\u5668": 0, 
+                "\u79fb\u901f": 0
             }
         }, 
         "1837813825": {
@@ -526,6 +641,12 @@
                 "realUnitSpeed": 0, 
                 "unit": 0
             }
+        }, 
+        "2135003183": {
+            "variable_dict": {
+                "INTEGER": {}
+            }, 
+            "variable_length_dict": {}
         }
     }, 
     "variable_comments": {}, 
@@ -541,17 +662,21 @@
             "MaxEnergy": 100.0, 
             "Qvalue": 0.0, 
             "ShiftConsume": 30.0, 
-            "\u8fde\u51fb\u524d\u7f6e": 0.0
+            "\u8fde\u51fb\u524d\u7f6e": 0.0, 
+            "\u94fe\u63a5\u8303\u56f4": 1200.0
         }, 
         "INTEGER": {
+            "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15": 0, 
             "\u8fdb\u5ea6\u7ba1\u7406": 1
         }, 
         "LINK_SFX_ENTITY": {
+            "\u63a7\u5236\u94fe\u63a5": 0, 
             "\u767d\u8272\u94fe\u63a5": 0, 
             "\u7ea2\u8272\u94fe\u63a5": 0, 
             "\u91d1\u8272\u94fe\u63a5": 0
         }, 
         "MODIFIER_ENTITY": {
+            "\u5996\u5080\u6807\u8bb0": 0, 
             "\u706b\u6807\u8bb01": 0, 
             "\u767d\u8272\u62a4\u76fe": 0, 
             "\u767d\u8272\u6807\u8bb0": 0, 
@@ -575,114 +700,129 @@
             "\u706b\u6807\u8bb0": 0, 
             "\u9f99\u5e99\u70b9\u9ed1\u96fe": 0
         }, 
+        "STRING": {
+            "\u4f7f\u7528\u9053\u5177\u52a8\u753b": "", 
+            "\u53ec\u5524\u52a8\u753b": "", 
+            "\u6280\u80fd\u52a8\u753b": "", 
+            "\u7ad9\u7acb\u52a8\u753b": "", 
+            "\u884c\u8d70\u52a8\u753b": "", 
+            "\u95ea\u907f\u52a8\u753b": ""
+        }, 
         "UI_COMP": {
             "\u98de\u5251": ""
         }, 
         "UNIT_ENTITY": {
             "MainPlayer": 0, 
             "\u5148\u7956\u6b8b\u9b42": 0, 
-            "\u5c0f\u5b69\u6b8b\u9b42": 0
+            "\u5c0f\u5b69\u6b8b\u9b42": 0, 
+            "\u94fe\u63a5\u76ee\u6807": 0
         }, 
         "UNIT_NAME": {}
     }, 
     "variable_group_info": [
         {
-            "__tuple__": true, 
-            "items": [
-                "BoolDebug", 
-                "BoolDebug"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "PlayerLead", 
-                "PlayerLead"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "MainPlayer", 
-                "MainPlayer"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "MaxEnergy", 
-                "MaxEnergy"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "Energy", 
-                "Energy"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "ShiftConsume", 
-                "ShiftConsume"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "Qvalue", 
-                "Qvalue"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "IsInNewHandRoad", 
-                "IsInNewHandRoad"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "\u5148\u7956\u6b8b\u9b42", 
-                "\u5148\u7956\u6b8b\u9b42"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "\u98de\u5251", 
-                "\u98de\u5251"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "\u706b\u6807\u8bb0", 
-                "\u706b\u6807\u8bb0"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "\u8fde\u51fb\u524d\u7f6e", 
-                "\u8fde\u51fb\u524d\u7f6e"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "\u9f99\u5e99\u70b9\u9ed1\u96fe", 
-                "\u9f99\u5e99\u70b9\u9ed1\u96fe"
-            ]
-        }, 
-        {
-            "__tuple__": true, 
-            "items": [
-                "\u9f99\u5e99\u70b9", 
-                "\u9f99\u5e99\u70b9"
-            ]
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "MainPlayer", 
+                        "MainPlayer"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "PlayerLead", 
+                        "PlayerLead"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "BoolDebug", 
+                        "BoolDebug"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "MaxEnergy", 
+                        "MaxEnergy"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "Energy", 
+                        "Energy"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "ShiftConsume", 
+                        "ShiftConsume"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "Qvalue", 
+                        "Qvalue"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "IsInNewHandRoad", 
+                        "IsInNewHandRoad"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u5148\u7956\u6b8b\u9b42", 
+                        "\u5148\u7956\u6b8b\u9b42"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u98de\u5251", 
+                        "\u98de\u5251"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u706b\u6807\u8bb0", 
+                        "\u706b\u6807\u8bb0"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u8fde\u51fb\u524d\u7f6e", 
+                        "\u8fde\u51fb\u524d\u7f6e"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u9f99\u5e99\u70b9\u9ed1\u96fe", 
+                        "\u9f99\u5e99\u70b9\u9ed1\u96fe"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u9f99\u5e99\u70b9", 
+                        "\u9f99\u5e99\u70b9"
+                    ]
+                }
+            ], 
+            "key": "03KpsKChEe6vXIwWRYu404", 
+            "name": "\u5176\u4ed6"
         }, 
         {
             "group": [
@@ -705,6 +845,27 @@
                     "items": [
                         "\u767d\u8272\u94fe\u63a5", 
                         "\u767d\u8272\u94fe\u63a5"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u94fe\u63a5\u8303\u56f4", 
+                        "\u94fe\u63a5\u8303\u56f4"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u94fe\u63a5\u76ee\u6807", 
+                        "\u94fe\u63a5\u76ee\u6807"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u63a7\u5236\u94fe\u63a5", 
+                        "\u63a7\u5236\u94fe\u63a5"
                     ]
                 }
             ], 
@@ -760,6 +921,13 @@
                         "\u767d\u8272\u62a4\u76fe", 
                         "\u767d\u8272\u62a4\u76fe"
                     ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u5996\u5080\u6807\u8bb0", 
+                        "\u5996\u5080\u6807\u8bb0"
+                    ]
                 }
             ], 
             "key": "pDc00Z-BEe6ijowWRYu40y", 
@@ -777,6 +945,67 @@
             ], 
             "key": "2IZJoZ-0Ee6Hiexj1wijoE", 
             "name": "\u4e3b\u89d2\u72b6\u6001"
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15", 
+                        "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                    ]
+                }
+            ], 
+            "key": "yZLkUaChEe6nFYwWRYu401", 
+            "name": "\u5080\u5121\u76f8\u5173"
+        }, 
+        {
+            "group": [
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u884c\u8d70\u52a8\u753b", 
+                        "\u884c\u8d70\u52a8\u753b"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u95ea\u907f\u52a8\u753b", 
+                        "\u95ea\u907f\u52a8\u753b"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u53ec\u5524\u52a8\u753b", 
+                        "\u53ec\u5524\u52a8\u753b"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u4f7f\u7528\u9053\u5177\u52a8\u753b", 
+                        "\u4f7f\u7528\u9053\u5177\u52a8\u753b"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u6280\u80fd\u52a8\u753b", 
+                        "\u6280\u80fd\u52a8\u753b"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u7ad9\u7acb\u52a8\u753b", 
+                        "\u7ad9\u7acb\u52a8\u753b"
+                    ]
+                }
+            ], 
+            "key": "sEaaoaChEe6fxowWRYu402", 
+            "name": "\u4e3b\u89d2\u52a8\u753b"
         }
     ], 
     "variable_length_dict": {
@@ -788,19 +1017,30 @@
         "PlayerLead": 0, 
         "Qvalue": 0, 
         "ShiftConsume": 0, 
+        "\u4f7f\u7528\u9053\u5177\u52a8\u753b": 0, 
         "\u5148\u7956\u6b8b\u9b42": 0, 
+        "\u53ec\u5524\u52a8\u753b": 0, 
+        "\u5996\u5080\u6807\u8bb0": 0, 
         "\u5c0f\u5b69\u6b8b\u9b42": 0, 
+        "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15": 0, 
+        "\u6280\u80fd\u52a8\u753b": 0, 
+        "\u63a7\u5236\u94fe\u63a5": 0, 
         "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd": 0, 
         "\u706b\u6807\u8bb0": 0, 
         "\u706b\u6807\u8bb01": 0, 
         "\u767d\u8272\u62a4\u76fe": 0, 
         "\u767d\u8272\u6807\u8bb0": 0, 
         "\u767d\u8272\u94fe\u63a5": 0, 
+        "\u7ad9\u7acb\u52a8\u753b": 0, 
         "\u7ea2\u8272\u94fe\u63a5": 0, 
+        "\u884c\u8d70\u52a8\u753b": 0, 
         "\u8fdb\u5ea6\u7ba1\u7406": 0, 
         "\u8fde\u51fb\u524d\u7f6e": 0, 
         "\u91d1\u6807\u8bb01": 0, 
         "\u91d1\u8272\u94fe\u63a5": 0, 
+        "\u94fe\u63a5\u76ee\u6807": 0, 
+        "\u94fe\u63a5\u8303\u56f4": 0, 
+        "\u95ea\u907f\u52a8\u753b": 0, 
         "\u98de\u5251": 10, 
         "\u9f99\u5e99\u70b9": 10, 
         "\u9f99\u5e99\u70b9\u9ed1\u96fe": 10
