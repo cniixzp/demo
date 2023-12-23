@@ -71,6 +71,81 @@
             "type": 4, 
             "unit_id": 1
         }, 
+        "2": {
+            "components": {
+                "__attr": {
+                    "hp_percent": 100, 
+                    "level": 1, 
+                    "mp_percent": 100
+                }, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        134260921, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                14, 
+                                654553088
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                116, 
+                                3501260800
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            6, 
+                            1216271784
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134242449, 
+            "name": "\u7cbe\u82f1\u9636\u6bb5boss", 
+            "type": 4, 
+            "unit_id": 2
+        }, 
         "3": {
             "components": {
                 "__attr": {
@@ -227,16 +302,16 @@
                         "__tuple__": true, 
                         "items": [
                             [
-                                -18, 
-                                2924871680
+                                -54, 
+                                3960438784
                             ], 
                             [
-                                0, 
-                                23184
+                                2, 
+                                0
                             ], 
                             [
-                                114, 
-                                1572634624
+                                82, 
+                                694484992
                             ]
                         ]
                     }, 
