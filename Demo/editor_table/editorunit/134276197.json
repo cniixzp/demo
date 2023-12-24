@@ -130,6 +130,10 @@
             1
         ], 
         [
+            134272428, 
+            1
+        ], 
+        [
             134227933, 
             1
         ], 
@@ -177,6 +181,17 @@
             "desc": "", 
             "etype": 23, 
             "key": "attack2", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 4, 
+            "type": 7, 
+            "value": 134272428
+        }, 
+        "attack3": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 23, 
+            "key": "attack3", 
             "prop_cls": "PInt", 
             "remark": "", 
             "sort": 3, 

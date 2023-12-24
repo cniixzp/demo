@@ -392,7 +392,7 @@
                     "event_type": "ABILITY_PS_START"
                 }
             ], 
-            "group_id": 134239577, 
+            "group_id": 134272428, 
             "p_trigger_id": null, 
             "trigger_id": 415383553, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
@@ -649,7 +649,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 845664259000140, 
-                    "enable": true, 
+                    "enable": false, 
                     "op_arg": [
                         {
                             "arg_type": 100225, 
@@ -727,7 +727,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 845664259000143, 
-                    "enable": false, 
+                    "enable": true, 
                     "op_arg": [
                         {
                             "arg_type": 100225, 
@@ -1337,7 +1337,7 @@
                     "event_type": "ABILITY_SP_END"
                 }
             ], 
-            "group_id": 134239577, 
+            "group_id": 134272428, 
             "p_trigger_id": null, 
             "trigger_id": 845664259, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
@@ -1368,7 +1368,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 1829900290000061, 
-                    "enable": false, 
+                    "enable": true, 
                     "op_arg": [
                         null, 
                         null, 
@@ -1402,7 +1402,7 @@
                         {
                             "arg_type": 100002, 
                             "args_list": [
-                                2
+                                3
                             ], 
                             "sub_type": 1
                         }
@@ -1452,7 +1452,7 @@
                     "event_type": "ABILITY_CST_END"
                 }
             ], 
-            "group_id": 134239577, 
+            "group_id": 134272428, 
             "p_trigger_id": null, 
             "trigger_id": 1829900290, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
@@ -1476,8 +1476,8 @@
                     "\u65b0\u5efa\u89e6\u53d1\u5668_2"
                 ]
             ], 
-            "key": 134239577, 
-            "name": "134239577"
+            "key": 134272428, 
+            "name": "134272428"
         }
     ], 
     "trigger_version": "1.2", 
