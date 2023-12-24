@@ -1,0 +1,394 @@
+{
+    "local_variable": {}, 
+    "trigger_dict": {
+        "786059265": {
+            "action": [
+                {
+                    "action_type": "SET_TABLE_VALUE_ND", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "586b5a25-4429-420d-8fd1-4c45d13fc010"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u79fb\u52a8\u901f\u5ea6"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                "586b5a25-4429-420d-8fd1-4c45d13fc010"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u79fb\u52a8\u901f\u5ea6"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_FLOAT_TABLE_VAR_ND"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "+"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        30.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 786059265000021, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TABLE_VALUE_ND", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "586b5a25-4429-420d-8fd1-4c45d13fc010"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u653b\u51fb\u529b"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                "586b5a25-4429-420d-8fd1-4c45d13fc010"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u653b\u51fb\u529b"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_FLOAT_TABLE_VAR_ND"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "+"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        30.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 786059265000026, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 786059265000002, 
+                    "enable": true, 
+                    "event_type": "OBTAIN_MODIFIER"
+                }
+            ], 
+            "group_id": 134219231, 
+            "p_trigger_id": null, 
+            "trigger_id": 786059265, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
+            "valid": true
+        }, 
+        "1088065538": {
+            "action": [
+                {
+                    "action_type": "SET_TABLE_VALUE_ND", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "586b5a25-4429-420d-8fd1-4c45d13fc010"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u79fb\u52a8\u901f\u5ea6"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                "586b5a25-4429-420d-8fd1-4c45d13fc010"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u79fb\u52a8\u901f\u5ea6"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_FLOAT_TABLE_VAR_ND"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "-"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        30.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 786059265000021, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TABLE_VALUE_ND", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "586b5a25-4429-420d-8fd1-4c45d13fc010"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                [
+                                    "INTEGER", 
+                                    "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                                ]
+                            ], 
+                            "sub_type": 6
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u653b\u51fb\u529b"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100000, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100011, 
+                                            "args_list": [
+                                                "586b5a25-4429-420d-8fd1-4c45d13fc010"
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100003, 
+                                            "args_list": [
+                                                "\u653b\u51fb\u529b"
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "sub_type": "GET_FLOAT_TABLE_VAR_ND"
+                                }, 
+                                {
+                                    "arg_type": 100017, 
+                                    "args_list": [
+                                        "-"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        30.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "ARITHMETIC_OPERATION"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 786059265000026, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [], 
+                    "element_id": 1088065538000002, 
+                    "enable": true, 
+                    "event_type": "LOSS_MODIFIER"
+                }
+            ], 
+            "group_id": 134219231, 
+            "p_trigger_id": null, 
+            "trigger_id": 1088065538, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": [
+        {
+            "_trigger_group_": true, 
+            "group": [
+                [
+                    786059265, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668"
+                ], 
+                [
+                    1088065538, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_2"
+                ]
+            ], 
+            "key": 134219231, 
+            "name": "134219231"
+        }
+    ], 
+    "trigger_version": "1.2", 
+    "variable_dict": {}, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+}

@@ -39,6 +39,32 @@
                 "\u89e6\u53d13": 0
             }
         }, 
+        "199635007": {
+            "variable_dict": {
+                "ANGLE": {
+                    "\u671d\u5411": 0.0
+                }, 
+                "INTEGER": {
+                    "\u9009\u62e9\u6280\u80fd": 0
+                }, 
+                "PROJECTILE_ENTITY": {
+                    "\u6295\u5c04\u7269": 0
+                }, 
+                "ROUND_AREA": {
+                    "\u5224\u65ad\u5706": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "\u751f\u6210\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5224\u65ad\u5706": 0, 
+                "\u6295\u5c04\u7269": 0, 
+                "\u671d\u5411": 0, 
+                "\u751f\u6210\u5355\u4f4d": 0, 
+                "\u9009\u62e9\u6280\u80fd": 0
+            }
+        }, 
         "331534359": {
             "variable_dict": {
                 "INTEGER": {
@@ -61,6 +87,20 @@
                 "a5": 0, 
                 "a6": 0, 
                 "loops": 0
+            }
+        }, 
+        "350629950": {
+            "variable_dict": {
+                "ANGLE": {
+                    "\u671d\u5411\u4e3b\u89d2": 0.0
+                }, 
+                "FLOAT": {
+                    "\u4e0e\u4e3b\u89d2distance": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u4e0e\u4e3b\u89d2distance": 0, 
+                "\u671d\u5411\u4e3b\u89d2": 0
             }
         }, 
         "376922164": {
@@ -203,6 +243,26 @@
                 "angle": 0, 
                 "point": 0, 
                 "\u5f53\u524d\u6280\u80fd": 0
+            }
+        }, 
+        "966602815": {
+            "variable_dict": {
+                "ANGLE": {
+                    "\u79fb\u52a8\u65b9\u5411": 0.0
+                }, 
+                "FLOAT": {
+                    "\u79fb\u52a8\u65f6\u95f4": 0.0, 
+                    "\u79fb\u52a8\u8ddd\u79bb": 0.0
+                }, 
+                "UNIT_ENTITY": {
+                    "\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5355\u4f4d": 0, 
+                "\u79fb\u52a8\u65b9\u5411": 0, 
+                "\u79fb\u52a8\u65f6\u95f4": 0, 
+                "\u79fb\u52a8\u8ddd\u79bb": 0
             }
         }, 
         "1030037516": {
@@ -399,6 +459,24 @@
                 "realMoveAngle": 0, 
                 "realMoveDistance": 0, 
                 "unit": 0
+            }
+        }, 
+        "1570582590": {
+            "variable_dict": {
+                "ANGLE": {
+                    "\u89d2\u5ea6": 0.0
+                }, 
+                "FLOAT": {
+                    "\u8ddd\u79bb": 0.0
+                }, 
+                "UNIT_ENTITY": {
+                    "\u4eba\u7269": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u4eba\u7269": 0, 
+                "\u89d2\u5ea6": 0, 
+                "\u8ddd\u79bb": 0
             }
         }, 
         "1667633203": {
@@ -667,6 +745,7 @@
         }, 
         "INTEGER": {
             "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15": 0, 
+            "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6": 0, 
             "\u8fdb\u5ea6\u7ba1\u7406": 1
         }, 
         "LINK_SFX_ENTITY": {
@@ -715,7 +794,11 @@
             "MainPlayer": 0, 
             "\u5148\u7956\u6b8b\u9b42": 0, 
             "\u5c0f\u5b69\u6b8b\u9b42": 0, 
+            "\u7cbe\u82f1BOSS": 0, 
             "\u94fe\u63a5\u76ee\u6807": 0
+        }, 
+        "UNIT_GROUP": {
+            "\u62a2\u5b9d\u77f3\u602a\u7269": []
         }, 
         "UNIT_NAME": {}
     }, 
@@ -887,6 +970,27 @@
                         "\u5c0f\u5b69\u6b8b\u9b42", 
                         "\u5c0f\u5b69\u6b8b\u9b42"
                     ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u62a2\u5b9d\u77f3\u602a\u7269", 
+                        "\u62a2\u5b9d\u77f3\u602a\u7269"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u7cbe\u82f1BOSS", 
+                        "\u7cbe\u82f1BOSS"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6", 
+                        "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6"
+                    ]
                 }
             ], 
             "key": "8nD2cJ9VEe6TWWAYlSkSCf", 
@@ -1024,7 +1128,9 @@
         "\u5c0f\u5b69\u6b8b\u9b42": 0, 
         "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15": 0, 
         "\u6280\u80fd\u52a8\u753b": 0, 
+        "\u62a2\u5b9d\u77f3\u602a\u7269": 0, 
         "\u63a7\u5236\u94fe\u63a5": 0, 
+        "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6": 0, 
         "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd": 0, 
         "\u706b\u6807\u8bb0": 0, 
         "\u706b\u6807\u8bb01": 0, 
@@ -1032,6 +1138,7 @@
         "\u767d\u8272\u6807\u8bb0": 0, 
         "\u767d\u8272\u94fe\u63a5": 0, 
         "\u7ad9\u7acb\u52a8\u753b": 0, 
+        "\u7cbe\u82f1BOSS": 0, 
         "\u7ea2\u8272\u94fe\u63a5": 0, 
         "\u884c\u8d70\u52a8\u753b": 0, 
         "\u8fdb\u5ea6\u7ba1\u7406": 0, 

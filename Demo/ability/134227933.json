@@ -389,6 +389,37 @@
         "1829900290": {
             "action": [
                 {
+                    "action_type": "REMOVE_BUFF_INS", 
+                    "args_list": [
+                        {
+                            "arg_type": 100076, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [
+                                        [
+                                            "UNIT_ENTITY", 
+                                            "\u94fe\u63a5\u76ee\u6807"
+                                        ]
+                                    ], 
+                                    "sub_type": 11
+                                }, 
+                                {
+                                    "arg_type": 100046, 
+                                    "args_list": [
+                                        134219231
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "GET_LAST_MODIFIER_INSTANCE"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1829900290000061, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "SET_ENTITY_KV", 
                     "args_list": [
                         {
@@ -612,6 +643,69 @@
                     "enable": true
                 }, 
                 {
+                    "action_type": "TRANS_UNIT", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                [
+                                    "UNIT_ENTITY", 
+                                    "\u94fe\u63a5\u76ee\u6807"
+                                ]
+                            ], 
+                            "sub_type": 11
+                        }, 
+                        {
+                            "arg_type": 100004, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                [
+                                                    "UNIT_ENTITY", 
+                                                    "\u94fe\u63a5\u76ee\u6807"
+                                                ]
+                                            ], 
+                                            "sub_type": 11
+                                        }
+                                    ], 
+                                    "sub_type": "UNIT_ENTITY_POINT"
+                                }, 
+                                {
+                                    "arg_type": 100225, 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100006, 
+                                            "args_list": [
+                                                [
+                                                    "UNIT_ENTITY", 
+                                                    "\u94fe\u63a5\u76ee\u6807"
+                                                ]
+                                            ], 
+                                            "sub_type": 11
+                                        }
+                                    ], 
+                                    "sub_type": "UNIT_FACE_ANGLE"
+                                }, 
+                                {
+                                    "arg_type": 100000, 
+                                    "args_list": [
+                                        200.0
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "sub_type": "POINT_OFFSET_VECTOR_POINT"
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 845664259000164, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "CREATE_PROJECTILE_NEW", 
                     "args_list": [
                         {
@@ -656,36 +750,17 @@
                             "arg_type": 100225, 
                             "args_list": [
                                 {
-                                    "arg_type": 100004, 
+                                    "arg_type": 100006, 
                                     "args_list": [
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [
-                                                [
-                                                    "UNIT_ENTITY", 
-                                                    "\u94fe\u63a5\u76ee\u6807"
-                                                ]
-                                            ], 
-                                            "sub_type": 11
-                                        }
+                                        [
+                                            "UNIT_ENTITY", 
+                                            "\u94fe\u63a5\u76ee\u6807"
+                                        ]
                                     ], 
-                                    "sub_type": "UNIT_ENTITY_POINT"
-                                }, 
-                                {
-                                    "arg_type": 100004, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100025, 
-                                            "args_list": [
-                                                1
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "sub_type": "GET_PLAYER_POINTING_POS"
+                                    "sub_type": 11
                                 }
                             ], 
-                            "sub_type": "GET_POINTS_ANGLE"
+                            "sub_type": "UNIT_FACE_ANGLE"
                         }, 
                         null, 
                         null, 
@@ -753,36 +828,17 @@
                             "arg_type": 100225, 
                             "args_list": [
                                 {
-                                    "arg_type": 100004, 
+                                    "arg_type": 100006, 
                                     "args_list": [
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [
-                                                [
-                                                    "UNIT_ENTITY", 
-                                                    "\u94fe\u63a5\u76ee\u6807"
-                                                ]
-                                            ], 
-                                            "sub_type": 11
-                                        }
+                                        [
+                                            "UNIT_ENTITY", 
+                                            "\u94fe\u63a5\u76ee\u6807"
+                                        ]
                                     ], 
-                                    "sub_type": "UNIT_ENTITY_POINT"
-                                }, 
-                                {
-                                    "arg_type": 100004, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100025, 
-                                            "args_list": [
-                                                1
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "sub_type": "GET_PLAYER_POINTING_POS"
+                                    "sub_type": 11
                                 }
                             ], 
-                            "sub_type": "GET_POINTS_ANGLE"
+                            "sub_type": "UNIT_FACE_ANGLE"
                         }, 
                         null, 
                         null, 
@@ -804,88 +860,6 @@
                         false, 
                         false
                     ]
-                }, 
-                {
-                    "action_type": "TRANS_UNIT", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [
-                                [
-                                    "UNIT_ENTITY", 
-                                    "\u94fe\u63a5\u76ee\u6807"
-                                ]
-                            ], 
-                            "sub_type": 11
-                        }, 
-                        {
-                            "arg_type": 100004, 
-                            "args_list": [
-                                {
-                                    "arg_type": 100004, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100006, 
-                                            "args_list": [
-                                                [
-                                                    "UNIT_ENTITY", 
-                                                    "\u94fe\u63a5\u76ee\u6807"
-                                                ]
-                                            ], 
-                                            "sub_type": 11
-                                        }
-                                    ], 
-                                    "sub_type": "UNIT_ENTITY_POINT"
-                                }, 
-                                {
-                                    "arg_type": 100225, 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100004, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100006, 
-                                                    "args_list": [
-                                                        [
-                                                            "UNIT_ENTITY", 
-                                                            "\u94fe\u63a5\u76ee\u6807"
-                                                        ]
-                                                    ], 
-                                                    "sub_type": 11
-                                                }
-                                            ], 
-                                            "sub_type": "UNIT_ENTITY_POINT"
-                                        }, 
-                                        {
-                                            "arg_type": 100004, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100025, 
-                                                    "args_list": [
-                                                        1
-                                                    ], 
-                                                    "sub_type": 1
-                                                }
-                                            ], 
-                                            "sub_type": "GET_PLAYER_POINTING_POS"
-                                        }
-                                    ], 
-                                    "sub_type": "GET_POINTS_ANGLE"
-                                }, 
-                                {
-                                    "arg_type": 100000, 
-                                    "args_list": [
-                                        50.0
-                                    ], 
-                                    "sub_type": 1
-                                }
-                            ], 
-                            "sub_type": "POINT_OFFSET_VECTOR_POINT"
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 845664259000164, 
-                    "enable": true
                 }, 
                 {
                     "action_type": "PICK_UNIT_DO_ACTION", 
@@ -934,36 +908,17 @@
                                             "arg_type": 100225, 
                                             "args_list": [
                                                 {
-                                                    "arg_type": 100004, 
+                                                    "arg_type": 100006, 
                                                     "args_list": [
-                                                        {
-                                                            "arg_type": 100006, 
-                                                            "args_list": [
-                                                                [
-                                                                    "UNIT_ENTITY", 
-                                                                    "\u94fe\u63a5\u76ee\u6807"
-                                                                ]
-                                                            ], 
-                                                            "sub_type": 11
-                                                        }
+                                                        [
+                                                            "UNIT_ENTITY", 
+                                                            "\u94fe\u63a5\u76ee\u6807"
+                                                        ]
                                                     ], 
-                                                    "sub_type": "UNIT_ENTITY_POINT"
-                                                }, 
-                                                {
-                                                    "arg_type": 100004, 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100025, 
-                                                            "args_list": [
-                                                                1
-                                                            ], 
-                                                            "sub_type": 1
-                                                        }
-                                                    ], 
-                                                    "sub_type": "GET_PLAYER_POINTING_POS"
+                                                    "sub_type": 11
                                                 }
                                             ], 
-                                            "sub_type": "GET_POINTS_ANGLE"
+                                            "sub_type": "UNIT_FACE_ANGLE"
                                         }
                                     ], 
                                     "sub_type": "CONST_SECTOR_SHAPE_NEW"

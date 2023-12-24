@@ -1177,6 +1177,81 @@
             "type": 1, 
             "unit_id": 16
         }, 
+        "18": {
+            "components": {
+                "__attr": {}, 
+                "ability": {
+                    "1_1": [
+                        201347498, 
+                        1
+                    ], 
+                    "2_1": [
+                        134260921, 
+                        1
+                    ], 
+                    "2_2": [
+                        134252820, 
+                        1
+                    ]
+                }, 
+                "camp": {
+                    "role_id": 31
+                }, 
+                "display": {
+                    "real_scale": [
+                        1.0, 
+                        1.0, 
+                        1.0
+                    ]
+                }, 
+                "drop_item": null, 
+                "item": {}, 
+                "movement": {
+                    "pitch": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "position": {
+                        "__tuple__": true, 
+                        "items": [
+                            [
+                                24, 
+                                819478528
+                            ], 
+                            [
+                                0, 
+                                0
+                            ], 
+                            [
+                                110, 
+                                85032960
+                            ]
+                        ]
+                    }, 
+                    "roll": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "yaw": {
+                        "__tuple__": true, 
+                        "items": [
+                            6, 
+                            1216271784
+                        ]
+                    }
+                }
+            }, 
+            "entity_id": 134242449, 
+            "name": "\u7cbe\u82f1\u9636\u6bb5boss", 
+            "type": 4, 
+            "unit_id": 18
+        }, 
         "19": {
             "components": {
                 "__attr": {
