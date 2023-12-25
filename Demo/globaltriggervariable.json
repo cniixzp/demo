@@ -489,9 +489,20 @@
             "variable_dict": {
                 "FLOAT": {
                     "\u79fb\u901f": 0.0
+                }, 
+                "POINT": {
+                    "\u4fee\u6b63\u540e\u7684\u76ee\u6807\u70b9": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
                 }
             }, 
             "variable_length_dict": {
+                "\u4fee\u6b63\u540e\u7684\u76ee\u6807\u70b9": 0, 
                 "\u79fb\u901f": 0
             }
         }, 
