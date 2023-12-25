@@ -2,13 +2,7 @@
     "local_variable": {
         "620908546": {
             "variable_dict": {
-                "POINT": {
-                    "point": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
+                "POINT": {}, 
                 "PROJECTILE_ENTITY": {
                     "missile": 0, 
                     "new": 0, 
@@ -18,33 +12,16 @@
             "variable_length_dict": {
                 "missile": 0, 
                 "new": 0, 
-                "point": 0, 
                 "target": 0
             }
         }, 
         "1968979971": {
             "variable_dict": {
-                "BOOLEAN": {
-                    "\u91ca\u653e\u5141\u8bb8": false
-                }, 
-                "POINT": {
-                    "point": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
-                "PROJECTILE_ENTITY": {
-                    "missile": 0, 
-                    "target": 0
-                }
+                "BOOLEAN": {}, 
+                "POINT": {}, 
+                "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "missile": 0, 
-                "point": 0, 
-                "target": 0, 
-                "\u91ca\u653e\u5141\u8bb8": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

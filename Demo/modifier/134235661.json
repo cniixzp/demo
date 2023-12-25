@@ -1206,9 +1206,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "\u989d\u5916\u4f24\u5bb3": 0
-        }, 
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
         "LINK_SFX_ENTITY": {}, 
         "NEW_TIMER": {}, 
         "UNIT_ENTITY": {
@@ -1217,16 +1215,11 @@
     }, 
     "variable_group_info": [
         [
-            "\u989d\u5916\u4f24\u5bb3", 
-            "(\u989d\u5916\u4f24\u5bb3)_2"
-        ], 
-        [
             "u", 
             "u"
         ]
     ], 
     "variable_length_dict": {
-        "u": 0, 
-        "\u989d\u5916\u4f24\u5bb3": 0
+        "u": 0
     }
 }

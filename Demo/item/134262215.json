@@ -815,9 +815,7 @@
         "INTEGER": {
             "\u65f6\u5149": 0
         }, 
-        "MODIFIER_ENTITY": {
-            "halo": 0
-        }, 
+        "MODIFIER_ENTITY": {}, 
         "UNIT_ENTITY": {
             "U": 0
         }
@@ -832,10 +830,6 @@
             "(\u53ec\u9b42\u51a5\u6756\u4e8c\u9636)"
         ], 
         [
-            "halo", 
-            "(halo)"
-        ], 
-        [
             "U", 
             "(U)"
         ], 
@@ -846,7 +840,6 @@
     ], 
     "variable_length_dict": {
         "U": 0, 
-        "halo": 0, 
         "\u53ec\u9b42\u51a5\u6756\u4e8c\u9636": 0, 
         "\u53ec\u9b42\u51a5\u6756\u56db\u9636": 0, 
         "\u65f6\u5149": 0

@@ -2,23 +2,15 @@
     "local_variable": {
         "468496386": {
             "variable_dict": {
-                "INTEGER": {
-                    "i": 1
-                }
+                "INTEGER": {}
             }, 
-            "variable_length_dict": {
-                "i": 0
-            }
+            "variable_length_dict": {}
         }, 
         "1693216769": {
             "variable_dict": {
-                "INTEGER": {
-                    "i": 1
-                }
+                "INTEGER": {}
             }, 
-            "variable_length_dict": {
-                "i": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -1717,22 +1709,15 @@
         "NEW_TIMER": {
             "t": -1
         }, 
-        "SFX_ENTITY": {
-            "knife": 0
-        }
+        "SFX_ENTITY": {}
     }, 
     "variable_group_info": [
-        [
-            "knife", 
-            "(knife)_2"
-        ], 
         [
             "t", 
             "(t)_2"
         ]
     ], 
     "variable_length_dict": {
-        "knife": 0, 
         "t": 0
     }
 }

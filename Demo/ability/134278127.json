@@ -2,17 +2,10 @@
     "local_variable": {
         "870350849": {
             "variable_dict": {
-                "ABILITY": {
-                    "skill": null
-                }, 
-                "INTEGER": {
-                    "count": 0
-                }
+                "ABILITY": {}, 
+                "INTEGER": {}
             }, 
-            "variable_length_dict": {
-                "count": 0, 
-                "skill": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

@@ -2,18 +2,7 @@
     "local_variable": {
         "2068348930": {
             "variable_dict": {
-                "POINT": {
-                    "new_point": [
-                        0, 
-                        0, 
-                        0
-                    ], 
-                    "point": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
+                "POINT": {}, 
                 "UNIT_ENTITY": {
                     "u": 0
                 }, 
@@ -23,8 +12,6 @@
             }, 
             "variable_length_dict": {
                 "hits": 0, 
-                "new_point": 0, 
-                "point": 0, 
                 "u": 0
             }
         }

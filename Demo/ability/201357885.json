@@ -1867,25 +1867,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "SFX_ENTITY": {
-            "tx": 0
-        }, 
-        "SOUND_ENTITY": {
-            "\u97f3\u6548": 0
-        }
+        "SFX_ENTITY": {}, 
+        "SOUND_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "tx", 
-            "tx"
-        ], 
-        [
-            "\u97f3\u6548", 
-            "\u97f3\u6548"
-        ]
-    ], 
-    "variable_length_dict": {
-        "tx": 0, 
-        "\u97f3\u6548": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

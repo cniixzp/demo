@@ -5,13 +5,10 @@
                 "ABILITY": {
                     "SecondSkill": null
                 }, 
-                "NEW_TIMER": {
-                    "Timer": -1
-                }
+                "NEW_TIMER": {}
             }, 
             "variable_length_dict": {
-                "SecondSkill": 0, 
-                "Timer": 0
+                "SecondSkill": 0
             }
         }, 
         "1927729155": {

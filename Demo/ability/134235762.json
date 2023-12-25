@@ -1202,44 +1202,17 @@
         "BOOLEAN": {
             "\u66b4\u51fb": false
         }, 
-        "FLOAT": {
-            "\u52a8\u4f5c\u901f\u7387": 0.0
-        }, 
-        "INTEGER": {
-            "i": 0, 
-            "j": 0
-        }, 
-        "STRING": {
-            "\u666e\u653b\u52a8\u4f5c": ""
-        }
+        "FLOAT": {}, 
+        "INTEGER": {}, 
+        "STRING": {}
     }, 
     "variable_group_info": [
         [
             "\u66b4\u51fb", 
             "\u66b4\u51fb"
-        ], 
-        [
-            "\u666e\u653b\u52a8\u4f5c", 
-            "\u666e\u653b\u52a8\u4f5c"
-        ], 
-        [
-            "\u52a8\u4f5c\u901f\u7387", 
-            "\u52a8\u4f5c\u901f\u7387"
-        ], 
-        [
-            "j", 
-            "j"
-        ], 
-        [
-            "i", 
-            "i"
         ]
     ], 
     "variable_length_dict": {
-        "i": 0, 
-        "j": 0, 
-        "\u52a8\u4f5c\u901f\u7387": 0, 
-        "\u666e\u653b\u52a8\u4f5c": 0, 
         "\u66b4\u51fb": 0
     }
 }

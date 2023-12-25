@@ -939,9 +939,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "ABILITY": {
-            "S": null
-        }, 
+        "ABILITY": {}, 
         "ANGLE": {
             "jd": 0.0
         }, 
@@ -951,9 +949,7 @@
         "FLOAT": {
             "\u7279\u6548\u7f29\u653e": 1.0
         }, 
-        "UNIT_ENTITY": {
-            "U": 0
-        }, 
+        "UNIT_ENTITY": {}, 
         "UNIT_GROUP": {
             "\u76ee\u6807\u5355\u4f4d\u7ec4": []
         }
@@ -962,14 +958,6 @@
         [
             "\u76ee\u6807\u5355\u4f4d\u7ec4", 
             "\u76ee\u6807\u5355\u4f4d\u7ec4_2"
-        ], 
-        [
-            "U", 
-            "U_2"
-        ], 
-        [
-            "S", 
-            "S_2"
         ], 
         [
             "\u65a9\u6740", 
@@ -985,8 +973,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "S": 0, 
-        "U": 0, 
         "jd": 0, 
         "\u65a9\u6740": 0, 
         "\u7279\u6548\u7f29\u653e": 0, 

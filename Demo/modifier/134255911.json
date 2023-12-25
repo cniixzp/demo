@@ -654,9 +654,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "ABILITY": {
-            "\u5f53\u524d\u6280\u80fd": null
-        }, 
+        "ABILITY": {}, 
         "DYNAMIC_TRIGGER_INSTANCE": {
             "\u4f24\u5bb3": 0, 
             "\u6548\u679c": 0
@@ -669,10 +667,6 @@
         }
     }, 
     "variable_group_info": [
-        [
-            "\u5f53\u524d\u6280\u80fd", 
-            "(\u5f53\u524d\u6280\u80fd)_2"
-        ], 
         [
             "U", 
             "(U)_2"
@@ -694,7 +688,6 @@
         "T": 0, 
         "U": 0, 
         "\u4f24\u5bb3": 0, 
-        "\u5f53\u524d\u6280\u80fd": 0, 
         "\u6548\u679c": 0
     }
 }

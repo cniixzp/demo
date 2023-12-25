@@ -2,17 +2,10 @@
     "local_variable": {
         "91385863": {
             "variable_dict": {
-                "DYNAMIC_TRIGGER_INSTANCE": {
-                    "t": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "u": null
-                }
+                "DYNAMIC_TRIGGER_INSTANCE": {}, 
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "t": 0, 
-                "u": 0
-            }
+            "variable_length_dict": {}
         }, 
         "1810137090": {
             "variable_dict": {
@@ -41,9 +34,7 @@
                 "UNIT_ENTITY": {
                     "temp": null, 
                     "u": null, 
-                    "\u6b63\u5728\u904d\u5386\u7684\u5355\u4f4d": null, 
-                    "\u8fde\u7ebf\u5355\u4f4d": null, 
-                    "\u94fe\u63a5\u5bf9\u8c61": null
+                    "\u8fde\u7ebf\u5355\u4f4d": null
                 }, 
                 "UNIT_GROUP": {}
             }, 
@@ -60,27 +51,16 @@
                 "\u603b\u7269\u7406\u62a4\u7532": 0, 
                 "\u603b\u9b54\u6cd5\u62a4\u7532": 0, 
                 "\u6392\u5e8f\u8868": 0, 
-                "\u6b63\u5728\u904d\u5386\u7684\u5355\u4f4d": 0, 
                 "\u8fde\u7ebf1": 0, 
-                "\u8fde\u7ebf\u5355\u4f4d": 0, 
-                "\u94fe\u63a5\u5bf9\u8c61": 10
+                "\u8fde\u7ebf\u5355\u4f4d": 0
             }
         }, 
         "2145923081": {
             "variable_dict": {
-                "DYNAMIC_TRIGGER_INSTANCE": {
-                    "t": 0, 
-                    "\u4f24\u5bb3\u89e6\u53d1\u5668": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "u": null
-                }
+                "DYNAMIC_TRIGGER_INSTANCE": {}, 
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "t": 0, 
-                "u": 0, 
-                "\u4f24\u5bb3\u89e6\u53d1\u5668": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

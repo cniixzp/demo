@@ -2,47 +2,27 @@
     "local_variable": {
         "132780034": {
             "variable_dict": {
-                "ABILITY": {
-                    "attack_ability": null
-                }, 
-                "ANGLE": {
-                    "angle": 0.0
-                }, 
+                "ABILITY": {}, 
+                "ANGLE": {}, 
                 "FLOAT": {
                     "damage": 0.0
                 }, 
-                "POINT": {
-                    "\u65b0\u70b9": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
+                "POINT": {}, 
                 "PROJECTILE_ENTITY": {
                     "special": 0
                 }, 
-                "UNIT_ENTITY": {
-                    "target": null
-                }
+                "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "angle": 0, 
-                "attack_ability": 0, 
                 "damage": 0, 
-                "special": 10, 
-                "target": 0, 
-                "\u65b0\u70b9": 0
+                "special": 10
             }
         }, 
         "1424609281": {
             "variable_dict": {
-                "PROJECTILE_ENTITY": {
-                    "special": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "special": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -1250,9 +1230,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "INTEGER": {
-            "i": 0
-        }, 
+        "INTEGER": {}, 
         "SFX_ENTITY": {
             "knife": 0, 
             "knife_2": 0
@@ -1266,14 +1244,9 @@
         [
             "knife_2", 
             "(knife_2)"
-        ], 
-        [
-            "i", 
-            "i"
         ]
     ], 
     "variable_length_dict": {
-        "i": 0, 
         "knife": 0, 
         "knife_2": 0
     }

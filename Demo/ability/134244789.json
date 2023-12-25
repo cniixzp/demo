@@ -7,32 +7,17 @@
                     "angle": 0.0
                 }, 
                 "FLOAT": {
-                    "\u4f24\u5bb3": 0.0, 
                     "\u5206\u8eab\u79fb\u52a8\u8ddd\u79bb": 0.0
                 }, 
-                "INTEGER": {
-                    "i": 0
-                }, 
-                "MODIFIER_ENTITY": {
-                    "\u51cf\u514d\u9b54\u6cd5": 0
-                }, 
-                "POINT": {
-                    "target": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
+                "INTEGER": {}, 
+                "MODIFIER_ENTITY": {}, 
+                "POINT": {}, 
                 "PROJECTILE_ENTITY": {}, 
                 "SFX_ENTITY": {}, 
                 "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
                 "angle": 0, 
-                "i": 0, 
-                "target": 0, 
-                "\u4f24\u5bb3": 0, 
-                "\u51cf\u514d\u9b54\u6cd5": 0, 
                 "\u5206\u8eab\u79fb\u52a8\u8ddd\u79bb": 0
             }
         }, 
@@ -1113,24 +1098,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "\u4fbf\u5b9c\u89d2\u5ea6": 0.0, 
-            "\u5f53\u524d\u89d2\u5ea6": 0.0
-        }, 
+        "FLOAT": {}, 
         "SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u4fbf\u5b9c\u89d2\u5ea6", 
-            "\u4fbf\u5b9c\u89d2\u5ea6_2"
-        ], 
-        [
-            "\u5f53\u524d\u89d2\u5ea6", 
-            "\u5f53\u524d\u89d2\u5ea6_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u4fbf\u5b9c\u89d2\u5ea6": 0, 
-        "\u5f53\u524d\u89d2\u5ea6": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

@@ -2,17 +2,10 @@
     "local_variable": {
         "1938169858": {
             "variable_dict": {
-                "MODIFIER_ENTITY": {
-                    "xg": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "u": 0
-                }
+                "MODIFIER_ENTITY": {}, 
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "u": 0, 
-                "xg": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

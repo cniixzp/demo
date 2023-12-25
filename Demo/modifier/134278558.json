@@ -346,7 +346,6 @@
     "variable_dict": {
         "FLOAT": {
             "attack": 0.0, 
-            "imba\u91ca\u653e\u8303\u56f4": 0.0, 
             "speed": 0.0
         }, 
         "NEW_TIMER": {}
@@ -359,15 +358,10 @@
         [
             "speed", 
             "(speed)"
-        ], 
-        [
-            "imba\u91ca\u653e\u8303\u56f4", 
-            "imba\u91ca\u653e\u8303\u56f4"
         ]
     ], 
     "variable_length_dict": {
         "attack": 0, 
-        "imba\u91ca\u653e\u8303\u56f4": 0, 
         "speed": 0
     }
 }

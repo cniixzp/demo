@@ -2,13 +2,9 @@
     "local_variable": {
         "1449902083": {
             "variable_dict": {
-                "UNIT_ENTITY": {
-                    "AttackTarget": 0
-                }
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "AttackTarget": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

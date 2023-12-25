@@ -2,23 +2,15 @@
     "local_variable": {
         "860770305": {
             "variable_dict": {
-                "SFX_ENTITY": {
-                    "tx": 0
-                }
+                "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "tx": 0
-            }
+            "variable_length_dict": {}
         }, 
         "1410519042": {
             "variable_dict": {
-                "SFX_ENTITY": {
-                    "tx": 0
-                }
+                "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "tx": 0
-            }
+            "variable_length_dict": {}
         }, 
         "1628721155": {
             "variable_dict": {
@@ -1065,17 +1057,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "SFX_ENTITY": {
-            "tx1": 0
-        }
+        "SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "tx1", 
-            "tx1"
-        ]
-    ], 
-    "variable_length_dict": {
-        "tx1": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

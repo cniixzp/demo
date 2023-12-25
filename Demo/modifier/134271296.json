@@ -2,13 +2,9 @@
     "local_variable": {
         "13811713": {
             "variable_dict": {
-                "SFX_ENTITY": {
-                    "e": 0
-                }
+                "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "e": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -155,17 +151,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "SFX_ENTITY": {
-            "fx": 0
-        }
+        "SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "fx", 
-            "(fx)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "fx": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

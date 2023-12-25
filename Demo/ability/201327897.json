@@ -8,8 +8,7 @@
                 "INTEGER": {
                     "LoopTimes": 0, 
                     "MirrorsNum": 0, 
-                    "OntologySequence": 0, 
-                    "\u5faa\u73af": 0
+                    "OntologySequence": 0
                 }, 
                 "POINT": {
                     "CenterPoint": [
@@ -34,8 +33,7 @@
                 "MirrorUnit": 0, 
                 "MirrorsNum": 0, 
                 "OntologySequence": 0, 
-                "angleOffset": 0, 
-                "\u5faa\u73af": 0
+                "angleOffset": 0
             }
         }
     }, 

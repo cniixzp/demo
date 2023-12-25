@@ -129,17 +129,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "NEW_TIMER": {
-            "timer": -1
-        }
+        "NEW_TIMER": {}
     }, 
-    "variable_group_info": [
-        [
-            "timer", 
-            "(timer)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "timer": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

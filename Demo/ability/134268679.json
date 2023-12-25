@@ -15,15 +15,9 @@
         }, 
         "1124290564": {
             "variable_dict": {
-                "FLOAT": {
-                    "hp_percent": 0.0, 
-                    "mp_percent": 0.0
-                }
+                "FLOAT": {}
             }, 
-            "variable_length_dict": {
-                "hp_percent": 0, 
-                "mp_percent": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

@@ -2,13 +2,9 @@
     "local_variable": {
         "383455234": {
             "variable_dict": {
-                "SFX_ENTITY": {
-                    "tx": 0
-                }
+                "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "tx": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

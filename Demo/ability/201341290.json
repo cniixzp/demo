@@ -3,17 +3,10 @@
         "1644036097": {
             "variable_dict": {
                 "NEW_TIMER": {}, 
-                "PROJECTILE_ENTITY": {
-                    "Ability effect": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "\u653b\u51fb\u76ee\u6807": 0
-                }
+                "PROJECTILE_ENTITY": {}, 
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "Ability effect": 0, 
-                "\u653b\u51fb\u76ee\u6807": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

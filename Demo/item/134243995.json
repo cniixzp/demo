@@ -2,15 +2,9 @@
     "local_variable": {
         "201916417": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u661f\u9635\u56db\u9636\u6cd5\u5f3a": 0.0, 
-                    "\u78d0\u77f3\u4e00\u89d23\u9636\u5c42\u6570": 0.0
-                }
+                "FLOAT": {}
             }, 
-            "variable_length_dict": {
-                "\u661f\u9635\u56db\u9636\u6cd5\u5f3a": 0, 
-                "\u78d0\u77f3\u4e00\u89d23\u9636\u5c42\u6570": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

@@ -3,19 +3,11 @@
         "923348993": {
             "variable_dict": {
                 "FLOAT": {
-                    "20%\u6cd5\u529b\u503cMAX": 0.0, 
-                    "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b": 0.0, 
-                    "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b*-100": 0.0, 
-                    "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b*100": 0.0, 
-                    "\u7075\u7280\u56db\u9636\u5f53\u524d\u5c42\u6570": 0.0
+                    "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b": 0.0
                 }
             }, 
             "variable_length_dict": {
-                "20%\u6cd5\u529b\u503cMAX": 0, 
-                "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b": 0, 
-                "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b*-100": 0, 
-                "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b*100": 0, 
-                "\u7075\u7280\u56db\u9636\u5f53\u524d\u5c42\u6570": 0
+                "\u635f\u5931\u6cd5\u529b\u503c\u6bd4\u4f8b": 0
             }
         }
     }, 
@@ -735,9 +727,7 @@
         "FLOAT": {
             "bianhua": 0.0
         }, 
-        "NEW_TIMER": {
-            "hl": -1
-        }, 
+        "NEW_TIMER": {}, 
         "UNIT_ENTITY": {
             "U": 0
         }
@@ -758,16 +748,11 @@
         [
             "bianhua", 
             "(bianhua)"
-        ], 
-        [
-            "hl", 
-            "(hl)"
         ]
     ], 
     "variable_length_dict": {
         "U": 0, 
         "bianhua": 0, 
-        "hl": 0, 
         "\u7075\u7280\u4e8c\u9636": 0, 
         "\u7075\u7280\u56db\u9636": 0
     }

@@ -547,8 +547,7 @@
         "FLOAT": {
             "atk_speed": 0.0, 
             "move": 0.0, 
-            "recover_health": 0.0, 
-            "\u79fb\u901f\u589e\u5e45": 0.0
+            "recover_health": 0.0
         }
     }, 
     "variable_group_info": [
@@ -563,16 +562,11 @@
         [
             "recover_health", 
             "(recover_health)_2"
-        ], 
-        [
-            "\u79fb\u901f\u589e\u5e45", 
-            "\u79fb\u901f\u589e\u5e45"
         ]
     ], 
     "variable_length_dict": {
         "atk_speed": 0, 
         "move": 0, 
-        "recover_health": 0, 
-        "\u79fb\u901f\u589e\u5e45": 0
+        "recover_health": 0
     }
 }

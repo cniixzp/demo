@@ -6,13 +6,7 @@
                 "NEW_TIMER": {
                     "timer": -1
                 }, 
-                "POINT": {
-                    "point": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
+                "POINT": {}, 
                 "PROJECTILE_ENTITY": {
                     "center": 0, 
                     "pro": 0
@@ -24,7 +18,6 @@
             }, 
             "variable_length_dict": {
                 "center": 0, 
-                "point": 0, 
                 "pro": 0, 
                 "timer": 0, 
                 "tragets": 0
@@ -1311,10 +1304,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "INTEGER": {
-            "loop": 0, 
-            "\u52a0\u901f\u503c": 0
-        }, 
+        "INTEGER": {}, 
         "NEW_TIMER": {}, 
         "UNIT_ENTITY": {
             "\u83b2\u82b1\u9a6c\u7532": 0
@@ -1322,21 +1312,11 @@
     }, 
     "variable_group_info": [
         [
-            "\u52a0\u901f\u503c", 
-            "\u52a0\u901f\u503c_2"
-        ], 
-        [
             "\u83b2\u82b1\u9a6c\u7532", 
             "\u83b2\u82b1\u9a6c\u7532_2"
-        ], 
-        [
-            "loop", 
-            "loop"
         ]
     ], 
     "variable_length_dict": {
-        "loop": 0, 
-        "\u52a0\u901f\u503c": 0, 
         "\u83b2\u82b1\u9a6c\u7532": 0
     }
 }

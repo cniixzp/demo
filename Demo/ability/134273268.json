@@ -9,21 +9,15 @@
                         0
                     ]
                 }, 
-                "PROJECTILE_ENTITY": {
-                    "missile": 0
-                }, 
+                "PROJECTILE_ENTITY": {}, 
                 "SFX_KEY": {
                     "path": 0
                 }, 
-                "TABLE": {
-                    "t": null
-                }
+                "TABLE": {}
             }, 
             "variable_length_dict": {
-                "missile": 0, 
                 "path": 0, 
-                "point": 0, 
-                "t": 0
+                "point": 0
             }
         }, 
         "2130620419": {

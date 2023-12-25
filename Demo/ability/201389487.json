@@ -1803,30 +1803,16 @@
         "NEW_TIMER": {
             "timer": -1
         }, 
-        "SFX_ENTITY": {
-            "tx": 0
-        }, 
-        "SOUND_ENTITY": {
-            "\u97f3\u6548": 0
-        }
+        "SFX_ENTITY": {}, 
+        "SOUND_ENTITY": {}
     }, 
     "variable_group_info": [
-        [
-            "tx", 
-            "tx"
-        ], 
-        [
-            "\u97f3\u6548", 
-            "\u97f3\u6548"
-        ], 
         [
             "timer", 
             "timer"
         ]
     ], 
     "variable_length_dict": {
-        "timer": 0, 
-        "tx": 0, 
-        "\u97f3\u6548": 0
+        "timer": 0
     }
 }

@@ -1912,9 +1912,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "ANGLE": {
-            "dir": 0.0
-        }, 
+        "ANGLE": {}, 
         "POINT": {
             "start_point": [
                 0, 
@@ -1935,14 +1933,9 @@
         [
             "waves", 
             "(waves)_2"
-        ], 
-        [
-            "dir", 
-            "(dir)_2"
         ]
     ], 
     "variable_length_dict": {
-        "dir": 0, 
         "start_point": 0, 
         "waves": 10
     }

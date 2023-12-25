@@ -5,12 +5,9 @@
                 "FLOAT": {
                     "n": 0.0
                 }, 
-                "PROJECTILE_ENTITY": {
-                    "Projectiles": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "Projectiles": 0, 
                 "n": 0
             }
         }
@@ -983,30 +980,17 @@
     "variable_dict": {
         "FLOAT": {}, 
         "PROJECTILE_ENTITY": {
-            "bird_arrow": 0, 
             "normal_arrow": 0
         }, 
-        "SFX_ENTITY": {
-            "tx": 0
-        }
+        "SFX_ENTITY": {}
     }, 
     "variable_group_info": [
         [
-            "tx", 
-            "tx"
-        ], 
-        [
             "normal_arrow", 
             "normal_arrow"
-        ], 
-        [
-            "bird_arrow", 
-            "bird_arrow"
         ]
     ], 
     "variable_length_dict": {
-        "bird_arrow": 0, 
-        "normal_arrow": 0, 
-        "tx": 0
+        "normal_arrow": 0
     }
 }

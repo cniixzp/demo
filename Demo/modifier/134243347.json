@@ -233,17 +233,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "\u88c2\u5fc3": 0
-        }
+        "DYNAMIC_TRIGGER_INSTANCE": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u88c2\u5fc3", 
-            "(\u88c2\u5fc3)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u88c2\u5fc3": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

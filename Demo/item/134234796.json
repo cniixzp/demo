@@ -364,15 +364,11 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "BOOLEAN": {
-            "CD": true
-        }, 
+        "BOOLEAN": {}, 
         "DYNAMIC_TRIGGER_INSTANCE": {
             "Tr_rebouDam": 0
         }, 
-        "ITEM_ENTITY": {
-            "dq": 0
-        }, 
+        "ITEM_ENTITY": {}, 
         "NEW_TIMER": {}, 
         "UNIT_ENTITY": {
             "U": 0
@@ -386,20 +382,10 @@
         [
             "U", 
             "(U)_2"
-        ], 
-        [
-            "CD", 
-            "CD_2"
-        ], 
-        [
-            "dq", 
-            "dq_2"
         ]
     ], 
     "variable_length_dict": {
-        "CD": 0, 
         "Tr_rebouDam": 0, 
-        "U": 0, 
-        "dq": 0
+        "U": 0
     }
 }

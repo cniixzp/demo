@@ -12,13 +12,9 @@
         }, 
         "1220173825": {
             "variable_dict": {
-                "LINK_SFX_ENTITY": {
-                    "l": 0
-                }
+                "LINK_SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "l": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

@@ -287,17 +287,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "\u653b\u901f\u589e\u5e45": 0.0
-        }
+        "FLOAT": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u653b\u901f\u589e\u5e45", 
-            "\u653b\u901f\u589e\u5e45"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u653b\u901f\u589e\u5e45": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

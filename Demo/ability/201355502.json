@@ -513,28 +513,15 @@
                 0
             ]
         }, 
-        "SFX_ENTITY": {
-            "tx": 0, 
-            "tx1": 0
-        }
+        "SFX_ENTITY": {}
     }, 
     "variable_group_info": [
         [
-            "tx1", 
-            "tx1"
-        ], 
-        [
             "p", 
             "p"
-        ], 
-        [
-            "tx", 
-            "tx"
         ]
     ], 
     "variable_length_dict": {
-        "p": 0, 
-        "tx": 0, 
-        "tx1": 0
+        "p": 0
     }
 }

@@ -12,13 +12,9 @@
         }, 
         "1584324613": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u653b\u901f": 0.0
-                }
+                "FLOAT": {}
             }, 
-            "variable_length_dict": {
-                "\u653b\u901f": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

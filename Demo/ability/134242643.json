@@ -3,7 +3,6 @@
         "1112305666": {
             "variable_dict": {
                 "FLOAT": {
-                    "\u52a0\u901f\u5ea6": 0.0, 
                     "\u6280\u80fd\u8303\u56f4": 150.0
                 }, 
                 "PROJECTILE_ENTITY": {
@@ -12,7 +11,6 @@
             }, 
             "variable_length_dict": {
                 "pro": 0, 
-                "\u52a0\u901f\u5ea6": 0, 
                 "\u6280\u80fd\u8303\u56f4": 0
             }
         }

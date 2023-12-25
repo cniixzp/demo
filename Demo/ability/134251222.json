@@ -1165,9 +1165,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "MODIFIER_ENTITY": {
-            "test": 0
-        }, 
+        "MODIFIER_ENTITY": {}, 
         "SFX_ENTITY": {
             "cf": 0
         }
@@ -1176,14 +1174,9 @@
         [
             "cf", 
             "(cf)"
-        ], 
-        [
-            "test", 
-            "(test)"
         ]
     ], 
     "variable_length_dict": {
-        "cf": 0, 
-        "test": 0
+        "cf": 0
     }
 }

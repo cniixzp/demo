@@ -106,17 +106,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "UNIT_ENTITY": {
-            "U": 0
-        }
+        "UNIT_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "U", 
-            "(U)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "U": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

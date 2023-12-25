@@ -142,22 +142,15 @@
         "MODIFIER_ENTITY": {
             "bf": 0
         }, 
-        "SFX_ENTITY": {
-            "tx": 0
-        }
+        "SFX_ENTITY": {}
     }, 
     "variable_group_info": [
-        [
-            "tx", 
-            "tx"
-        ], 
         [
             "bf", 
             "bf"
         ]
     ], 
     "variable_length_dict": {
-        "bf": 0, 
-        "tx": 0
+        "bf": 0
     }
 }

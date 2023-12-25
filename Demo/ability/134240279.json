@@ -5,32 +5,19 @@
                 "DYNAMIC_TRIGGER_INSTANCE": {
                     "t": 0
                 }, 
-                "INTEGER": {
-                    "i": 0, 
-                    "j": 0
-                }, 
+                "INTEGER": {}, 
                 "NEW_TIMER": {}, 
                 "UNIT_ENTITY": {
-                    "f": null, 
-                    "u": null
+                    "f": null
                 }, 
                 "UNIT_GROUP": {
-                    "fg": [], 
-                    "ug": [], 
-                    "us": [], 
-                    "xgs": []
+                    "us": []
                 }
             }, 
             "variable_length_dict": {
                 "f": 0, 
-                "fg": 0, 
-                "i": 0, 
-                "j": 0, 
                 "t": 0, 
-                "u": 0, 
-                "ug": 0, 
-                "us": 0, 
-                "xgs": 0
+                "us": 0
             }
         }
     }, 

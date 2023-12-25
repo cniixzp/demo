@@ -2,13 +2,9 @@
     "local_variable": {
         "1954144261": {
             "variable_dict": {
-                "INTEGER": {
-                    "i": 0
-                }
+                "INTEGER": {}
             }, 
-            "variable_length_dict": {
-                "i": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -184,43 +180,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "hero_dmg_count": 0, 
-            "unit_dmg_count": 0
-        }, 
-        "FLOAT": {
-            "recover_num": 0.0, 
-            "total_hero_dmg": 0.0, 
-            "total_unit_dmg": 0.0
-        }
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
+        "FLOAT": {}
     }, 
-    "variable_group_info": [
-        [
-            "total_hero_dmg", 
-            "(total_hero_dmg)"
-        ], 
-        [
-            "total_unit_dmg", 
-            "(total_unit_dmg)"
-        ], 
-        [
-            "hero_dmg_count", 
-            "(hero_dmg_count)"
-        ], 
-        [
-            "unit_dmg_count", 
-            "(unit_dmg_count)"
-        ], 
-        [
-            "recover_num", 
-            "(recover_num)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "hero_dmg_count": 0, 
-        "recover_num": 0, 
-        "total_hero_dmg": 0, 
-        "total_unit_dmg": 0, 
-        "unit_dmg_count": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

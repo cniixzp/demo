@@ -392,25 +392,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "BOOLEAN": {
-            "3s\u5185\u6709\u65e0\u62a4\u76fe": false
-        }, 
-        "FLOAT": {
-            "\u62a4\u76fe\u503c": 0.0
-        }
+        "BOOLEAN": {}, 
+        "FLOAT": {}
     }, 
-    "variable_group_info": [
-        [
-            "3s\u5185\u6709\u65e0\u62a4\u76fe", 
-            "(3s\u5185\u6709\u65e0\u62a4\u76fe)_2"
-        ], 
-        [
-            "\u62a4\u76fe\u503c", 
-            "(\u62a4\u76fe\u503c)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "3s\u5185\u6709\u65e0\u62a4\u76fe": 0, 
-        "\u62a4\u76fe\u503c": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

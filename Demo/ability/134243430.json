@@ -1943,9 +1943,7 @@
         "BOOLEAN": {
             "\u662f\u5426\u65bd\u6cd5\u6210\u529f": false
         }, 
-        "FLOAT": {
-            "wait_time": 0.0
-        }, 
+        "FLOAT": {}, 
         "MODIFIER_ENTITY": {
             "\u9009\u4e2d\u9b54\u6cd5\u6548\u679c": 0
         }, 
@@ -1954,10 +1952,6 @@
         }
     }, 
     "variable_group_info": [
-        [
-            "wait_time", 
-            "(wait_time)_2"
-        ], 
         [
             "\u9009\u4e2d\u9b54\u6cd5\u6548\u679c", 
             "(\u9009\u4e2d\u9b54\u6cd5\u6548\u679c)_2"
@@ -1972,7 +1966,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "wait_time": 0, 
         "\u662f\u5426\u65bd\u6cd5\u6210\u529f": 0, 
         "\u7b49\u5f85\u51fa\u624b\u8ba1\u65f6\u5668": 0, 
         "\u9009\u4e2d\u9b54\u6cd5\u6548\u679c": 0

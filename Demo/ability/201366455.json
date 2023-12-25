@@ -8,14 +8,11 @@
                 "INTEGER": {
                     "get number": 0
                 }, 
-                "PROJECTILE_ENTITY": {
-                    "missile": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
             "variable_length_dict": {
                 "get number": 0, 
-                "mark": 0, 
-                "missile": 0
+                "mark": 0
             }
         }
     }, 

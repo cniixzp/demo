@@ -1155,22 +1155,10 @@
         "FLOAT": {
             "distance": 0.0
         }, 
-        "PROJECTILE_ENTITY": {
-            "pro": 0
-        }, 
-        "SFX_ENTITY": {
-            "start_effect": 0
-        }
+        "PROJECTILE_ENTITY": {}, 
+        "SFX_ENTITY": {}
     }, 
     "variable_group_info": [
-        [
-            "start_effect", 
-            "(start_effect)"
-        ], 
-        [
-            "pro", 
-            "(pro)"
-        ], 
         [
             "distance", 
             "(distance)"
@@ -1182,8 +1170,6 @@
     ], 
     "variable_length_dict": {
         "dir": 0, 
-        "distance": 0, 
-        "pro": 0, 
-        "start_effect": 0
+        "distance": 0
     }
 }

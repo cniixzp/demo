@@ -758,17 +758,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "ROUND_AREA": {
-            "\u89c6\u91ce\u533a\u57df": 0
-        }
+        "ROUND_AREA": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u89c6\u91ce\u533a\u57df", 
-            "(\u89c6\u91ce\u533a\u57df)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u89c6\u91ce\u533a\u57df": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

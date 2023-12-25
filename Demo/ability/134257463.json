@@ -1669,9 +1669,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "BOOLEAN": {
-            "angry": false
-        }, 
+        "BOOLEAN": {}, 
         "FLOAT": {
             "\u51e0\u73871": 0.0, 
             "\u51e0\u73872": 0.0, 
@@ -1679,10 +1677,6 @@
         }
     }, 
     "variable_group_info": [
-        [
-            "angry", 
-            "(angry)"
-        ], 
         [
             "\u8303\u56f4", 
             "\u8303\u56f4"
@@ -1697,7 +1691,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "angry": 0, 
         "\u51e0\u73871": 0, 
         "\u51e0\u73872": 0, 
         "\u8303\u56f4": 0

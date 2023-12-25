@@ -1441,44 +1441,18 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "BOOLEAN": {
-            "\u53cc\u91cd\u65bd\u6cd5": true, 
-            "\u6269\u6563": false
+            "\u53cc\u91cd\u65bd\u6cd5": true
         }, 
-        "INTEGER": {
-            "i": 0, 
-            "j": 0
-        }, 
-        "UNIT_ENTITY": {
-            "\u6269\u6563\u76ee\u6807": 0
-        }
+        "INTEGER": {}, 
+        "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [
         [
             "\u53cc\u91cd\u65bd\u6cd5", 
             "(\u53cc\u91cd\u65bd\u6cd5)_2"
-        ], 
-        [
-            "i", 
-            "i"
-        ], 
-        [
-            "j", 
-            "j"
-        ], 
-        [
-            "\u6269\u6563", 
-            "\u6269\u6563_2"
-        ], 
-        [
-            "\u6269\u6563\u76ee\u6807", 
-            "\u6269\u6563\u76ee\u6807_2"
         ]
     ], 
     "variable_length_dict": {
-        "i": 0, 
-        "j": 0, 
-        "\u53cc\u91cd\u65bd\u6cd5": 0, 
-        "\u6269\u6563": 0, 
-        "\u6269\u6563\u76ee\u6807": 0
+        "\u53cc\u91cd\u65bd\u6cd5": 0
     }
 }

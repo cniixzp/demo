@@ -70,17 +70,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "t": 0
-        }
+        "DYNAMIC_TRIGGER_INSTANCE": {}
     }, 
-    "variable_group_info": [
-        [
-            "t", 
-            "(t)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "t": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

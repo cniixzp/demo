@@ -12,14 +12,11 @@
                         0
                     ]
                 }, 
-                "UNIT_GROUP": {
-                    "us": []
-                }
+                "UNIT_GROUP": {}
             }, 
             "variable_length_dict": {
                 "angle": 0, 
-                "p": 0, 
-                "us": 0
+                "p": 0
             }
         }
     }, 

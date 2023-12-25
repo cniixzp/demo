@@ -643,22 +643,15 @@
         "PROJECTILE_ENTITY": {
             "pro": 0
         }, 
-        "UNIT_ENTITY": {
-            "U": 0
-        }
+        "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [
         [
             "pro", 
             "(pro)"
-        ], 
-        [
-            "U", 
-            "(U)"
         ]
     ], 
     "variable_length_dict": {
-        "U": 0, 
         "pro": 0
     }
 }

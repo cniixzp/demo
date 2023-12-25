@@ -221,25 +221,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668": 0
-        }, 
-        "FLOAT": {
-            "\u79fb\u901f": 0.0
-        }
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
+        "FLOAT": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u79fb\u901f", 
-            "(\u79fb\u901f)"
-        ], 
-        [
-            "\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668", 
-            "(\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u56de\u6536\u72b6\u6001\u89e6\u53d1\u5668": 0, 
-        "\u79fb\u901f": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

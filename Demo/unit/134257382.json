@@ -805,10 +805,7 @@
         "MODIFIER_ENTITY": {
             "\u9b54\u6cd5": 0
         }, 
-        "NEW_TIMER": {
-            "timer1": -1, 
-            "timer2": -1
-        }, 
+        "NEW_TIMER": {}, 
         "UNIT_ENTITY": {
             "unit": 0
         }
@@ -819,21 +816,11 @@
             "(unit)_2"
         ], 
         [
-            "timer1", 
-            "(timer1)_2"
-        ], 
-        [
-            "timer2", 
-            "(timer2)_2"
-        ], 
-        [
             "\u9b54\u6cd5", 
             "\u9b54\u6cd5"
         ]
     ], 
     "variable_length_dict": {
-        "timer1": 0, 
-        "timer2": 0, 
         "unit": 0, 
         "\u9b54\u6cd5": 0
     }

@@ -1356,7 +1356,7 @@
                             "args_list": [
                                 [
                                     "UNIT_ENTITY", 
-                                    "UnitLead"
+                                    "MainPlayer"
                                 ]
                             ], 
                             "sub_type": 11

@@ -2211,20 +2211,11 @@
         "FLOAT": {
             "AniRandom": 0.0
         }, 
-        "STRING": {
-            "4\u98ce\u683c\u548c": [
-                ""
-            ]
-        }
+        "STRING": {}
     }, 
     "variable_group_info": [
         {
-            "group": [
-                [
-                    "4\u98ce\u683c\u548c", 
-                    "(4\u98ce\u683c\u548c)"
-                ]
-            ], 
+            "group": [], 
             "is_struct": false, 
             "key": "3eksD-mDEeumf6S7bUqaZt", 
             "name": "\u81ea\u5b9a\u4e49\u7ec4"
@@ -2235,7 +2226,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "4\u98ce\u683c\u548c": 1, 
         "AniRandom": 0
     }
 }

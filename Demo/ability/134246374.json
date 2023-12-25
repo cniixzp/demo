@@ -2742,13 +2742,11 @@
             "\u66b4\u51fb": false
         }, 
         "FLOAT": {
-            "lang": 450.0, 
-            "\u52a8\u4f5c\u901f\u7387": 0.0
+            "lang": 450.0
         }, 
         "INTEGER": {}, 
         "STRING": {
-            "anim": "", 
-            "\u666e\u653b\u52a8\u4f5c": ""
+            "anim": ""
         }
     }, 
     "variable_group_info": [
@@ -2763,21 +2761,11 @@
         [
             "\u66b4\u51fb", 
             "\u66b4\u51fb"
-        ], 
-        [
-            "\u52a8\u4f5c\u901f\u7387", 
-            "\u52a8\u4f5c\u901f\u7387"
-        ], 
-        [
-            "\u666e\u653b\u52a8\u4f5c", 
-            "\u666e\u653b\u52a8\u4f5c"
         ]
     ], 
     "variable_length_dict": {
         "anim": 0, 
         "lang": 0, 
-        "\u52a8\u4f5c\u901f\u7387": 0, 
-        "\u666e\u653b\u52a8\u4f5c": 0, 
         "\u66b4\u51fb": 0
     }
 }

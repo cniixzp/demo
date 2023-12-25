@@ -1317,9 +1317,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "t": 0
-        }, 
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
         "FLOAT": {
             "add": 0.0, 
             "hp": 0.0
@@ -1333,15 +1331,10 @@
         [
             "hp", 
             "(hp)_2"
-        ], 
-        [
-            "t", 
-            "t"
         ]
     ], 
     "variable_length_dict": {
         "add": 0, 
-        "hp": 0, 
-        "t": 0
+        "hp": 0
     }
 }

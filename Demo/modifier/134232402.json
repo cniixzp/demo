@@ -2,27 +2,12 @@
     "local_variable": {
         "1672622084": {
             "variable_dict": {
-                "ABILITY": {
-                    "skill": null
-                }, 
-                "FLOAT": {
-                    "\u4f24\u5bb3": 0.0
-                }, 
-                "SFX_ENTITY": {
-                    "eff": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "u": 0, 
-                    "u2": 0
-                }
+                "ABILITY": {}, 
+                "FLOAT": {}, 
+                "SFX_ENTITY": {}, 
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "eff": 0, 
-                "skill": 0, 
-                "u": 0, 
-                "u2": 0, 
-                "\u4f24\u5bb3": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

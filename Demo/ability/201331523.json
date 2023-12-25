@@ -2,17 +2,10 @@
     "local_variable": {
         "1056473091": {
             "variable_dict": {
-                "FLOAT": {
-                    "sum_damage": 0.0
-                }, 
-                "INTEGER": {
-                    "index": 0
-                }
+                "FLOAT": {}, 
+                "INTEGER": {}
             }, 
-            "variable_length_dict": {
-                "index": 0, 
-                "sum_damage": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -353,57 +346,11 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "damages_values": 0.0
-        }, 
-        "INTEGER": {
-            "damages_frames": 0, 
-            "damages_index": 1, 
-            "frame": 1
-        }, 
-        "POINT": {
-            "points": [
-                0, 
-                0, 
-                0
-            ]
-        }, 
-        "SFX_ENTITY": {
-            "tail": 0
-        }
+        "FLOAT": {}, 
+        "INTEGER": {}, 
+        "POINT": {}, 
+        "SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "damages_values", 
-            "damages_values"
-        ], 
-        [
-            "damages_index", 
-            "damages_index"
-        ], 
-        [
-            "damages_frames", 
-            "damages_frames"
-        ], 
-        [
-            "tail", 
-            "tail"
-        ], 
-        [
-            "points", 
-            "points"
-        ], 
-        [
-            "frame", 
-            "frame"
-        ]
-    ], 
-    "variable_length_dict": {
-        "damages_frames": 10, 
-        "damages_index": 0, 
-        "damages_values": 10, 
-        "frame": 0, 
-        "points": 10, 
-        "tail": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

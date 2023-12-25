@@ -173,18 +173,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "\u6218\u795e": 0
-        }, 
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
         "UNIT_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u6218\u795e", 
-            "(\u6218\u795e)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u6218\u795e": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

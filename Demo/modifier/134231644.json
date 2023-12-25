@@ -3,13 +3,9 @@
         "1936809985": {
             "variable_dict": {
                 "INTEGER": {}, 
-                "PROJECTILE_ENTITY": {
-                    "pro": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "pro": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

@@ -1050,33 +1050,15 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "\u6e38\u620f\u7ed3\u675f": 0
-        }, 
-        "FLOAT": {
-            "\u65f6\u95f4": 0.0
-        }, 
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
+        "FLOAT": {}, 
         "NEW_TIMER": {
             "\u81ea\u6740": -1, 
             "\u89c6\u91ce": -1
         }, 
-        "ROUND_AREA": {
-            "\u89c6\u91ce\u533a\u57df": 0
-        }
+        "ROUND_AREA": {}
     }, 
     "variable_group_info": [
-        [
-            "\u89c6\u91ce\u533a\u57df", 
-            "(\u89c6\u91ce\u533a\u57df)"
-        ], 
-        [
-            "\u65f6\u95f4", 
-            "\u65f6\u95f4_2"
-        ], 
-        [
-            "\u6e38\u620f\u7ed3\u675f", 
-            "\u6e38\u620f\u7ed3\u675f_2"
-        ], 
         [
             "\u81ea\u6740", 
             "\u81ea\u6740_2"
@@ -1087,10 +1069,7 @@
         ]
     ], 
     "variable_length_dict": {
-        "\u65f6\u95f4": 0, 
-        "\u6e38\u620f\u7ed3\u675f": 0, 
         "\u81ea\u6740": 0, 
-        "\u89c6\u91ce": 0, 
-        "\u89c6\u91ce\u533a\u57df": 0
+        "\u89c6\u91ce": 0
     }
 }

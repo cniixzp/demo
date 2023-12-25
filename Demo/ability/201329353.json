@@ -2,13 +2,9 @@
     "local_variable": {
         "898551810": {
             "variable_dict": {
-                "SFX_ENTITY": {
-                    "tx": 0
-                }
+                "SFX_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "tx": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -1510,22 +1506,15 @@
         "FLOAT": {
             "scale": 1.0
         }, 
-        "SFX_ENTITY": {
-            "tx": 0
-        }
+        "SFX_ENTITY": {}
     }, 
     "variable_group_info": [
-        [
-            "tx", 
-            "tx"
-        ], 
         [
             "scale", 
             "scale"
         ]
     ], 
     "variable_length_dict": {
-        "scale": 0, 
-        "tx": 0
+        "scale": 0
     }
 }

@@ -2,25 +2,11 @@
     "local_variable": {
         "1538813953": {
             "variable_dict": {
-                "DYNAMIC_TRIGGER_INSTANCE": {
-                    "t": 0
-                }, 
-                "INTEGER": {
-                    "i": 0
-                }, 
-                "POINT": {
-                    "p": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }
+                "DYNAMIC_TRIGGER_INSTANCE": {}, 
+                "INTEGER": {}, 
+                "POINT": {}
             }, 
-            "variable_length_dict": {
-                "i": 0, 
-                "p": 0, 
-                "t": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

@@ -129,17 +129,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "\u98ce\u901f": 0
-        }
+        "DYNAMIC_TRIGGER_INSTANCE": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u98ce\u901f", 
-            "(\u98ce\u901f)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u98ce\u901f": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

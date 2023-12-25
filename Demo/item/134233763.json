@@ -2,13 +2,9 @@
     "local_variable": {
         "244760577": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u65f6\u5149\u6b21\u6570": 0.0
-                }
+                "FLOAT": {}
             }, 
-            "variable_length_dict": {
-                "\u65f6\u5149\u6b21\u6570": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -202,35 +198,17 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "Tr_secDam": 0
-        }, 
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
         "MODIFIER_ENTITY": {
             "halo": 0
         }, 
-        "NEW_TIMER": {
-            "Tim_secDam": -1
-        }, 
-        "ROUND_AREA": {
-            "Rd_skill": 0
-        }, 
+        "NEW_TIMER": {}, 
+        "ROUND_AREA": {}, 
         "UNIT_ENTITY": {
             "U": 0
         }
     }, 
     "variable_group_info": [
-        [
-            "Tim_secDam", 
-            "(Tim_secDam)"
-        ], 
-        [
-            "Rd_skill", 
-            "(Rd_skill)"
-        ], 
-        [
-            "Tr_secDam", 
-            "(Tr_secDam)"
-        ], 
         [
             "halo", 
             "(halo)"
@@ -241,9 +219,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "Rd_skill": 0, 
-        "Tim_secDam": 0, 
-        "Tr_secDam": 0, 
         "U": 0, 
         "halo": 0
     }

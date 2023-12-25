@@ -2,21 +2,13 @@
     "local_variable": {
         "552632321": {
             "variable_dict": {
-                "INTEGER": {
-                    "i": 0, 
-                    "j": 0
-                }, 
-                "PROJECTILE_ENTITY": {
-                    "\u6ce2\u7eb9": 0
-                }, 
+                "INTEGER": {}, 
+                "PROJECTILE_ENTITY": {}, 
                 "UNIT_ENTITY": {
                     "\u7ec8\u70b9\u5355\u4f4d": 0
                 }
             }, 
             "variable_length_dict": {
-                "i": 0, 
-                "j": 0, 
-                "\u6ce2\u7eb9": 0, 
                 "\u7ec8\u70b9\u5355\u4f4d": 0
             }
         }

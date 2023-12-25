@@ -2,13 +2,9 @@
     "local_variable": {
         "1426595841": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u88c2\u7532\u621f\u53e0\u52a0\u6b21\u6570": 0.0
-                }
+                "FLOAT": {}
             }, 
-            "variable_length_dict": {
-                "\u88c2\u7532\u621f\u53e0\u52a0\u6b21\u6570": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

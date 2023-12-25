@@ -3,12 +3,10 @@
         "1560875009": {
             "variable_dict": {
                 "FLOAT": {
-                    "\u661f\u96352\u9636\u51fb\u6740\u591a\u5c11\u6b21": 0.0, 
                     "\u661f\u9635\u56db\u9636\u6cd5\u5f3a": 0.0
                 }
             }, 
             "variable_length_dict": {
-                "\u661f\u96352\u9636\u51fb\u6740\u591a\u5c11\u6b21": 0, 
                 "\u661f\u9635\u56db\u9636\u6cd5\u5f3a": 0
             }
         }

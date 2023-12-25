@@ -374,7 +374,6 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "NEW_TIMER": {
-            "timer": -1, 
             "timer2": -1
         }, 
         "UNIT_ENTITY": {
@@ -383,10 +382,6 @@
         }
     }, 
     "variable_group_info": [
-        [
-            "timer", 
-            "(timer)"
-        ], 
         [
             "timer2", 
             "(timer2)"
@@ -403,7 +398,6 @@
     "variable_length_dict": {
         "R": 0, 
         "T": 0, 
-        "timer": 0, 
         "timer2": 0
     }
 }

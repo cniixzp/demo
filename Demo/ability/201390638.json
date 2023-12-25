@@ -2,17 +2,9 @@
     "local_variable": {
         "1196232706": {
             "variable_dict": {
-                "POINT": {
-                    "p": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }
+                "POINT": {}
             }, 
-            "variable_length_dict": {
-                "p": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

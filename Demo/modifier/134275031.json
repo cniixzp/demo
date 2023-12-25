@@ -223,8 +223,7 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {
-            "\u51cf\u901f\u5e45\u5ea6": 0.0, 
-            "\u964d\u4f4e\u503c": 0.0
+            "\u51cf\u901f\u5e45\u5ea6": 0.0
         }, 
         "INTEGER": {}
     }, 
@@ -232,14 +231,9 @@
         [
             "\u51cf\u901f\u5e45\u5ea6", 
             "(\u51cf\u901f\u5e45\u5ea6)_2"
-        ], 
-        [
-            "\u964d\u4f4e\u503c", 
-            "\u964d\u4f4e\u503c"
         ]
     ], 
     "variable_length_dict": {
-        "\u51cf\u901f\u5e45\u5ea6": 0, 
-        "\u964d\u4f4e\u503c": 0
+        "\u51cf\u901f\u5e45\u5ea6": 0
     }
 }
