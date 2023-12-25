@@ -13,9 +13,7 @@
                     "IsHurtHero": false
                 }, 
                 "FLOAT": {
-                    "BulletSpeed": 0.0, 
-                    "CurDistance": 0.0, 
-                    "MaxDistance": 0.0
+                    "BulletSpeed": 0.0
                 }, 
                 "POINT": {
                     "StartPoint": [
@@ -39,10 +37,8 @@
                 "BulletTrajectory": 0, 
                 "Caster": 0, 
                 "CollisionTarget": 0, 
-                "CurDistance": 0, 
                 "Direction": 0, 
                 "IsHurtHero": 0, 
-                "MaxDistance": 0, 
                 "SecondSkill": 0, 
                 "Skill": 0, 
                 "StartPoint": 0

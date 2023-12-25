@@ -1156,7 +1156,6 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {
-            "\u4f24\u5bb3\u5668": 0, 
             "\u53d8\u5f3a\u5668": 0
         }, 
         "NEW_TIMER": {
@@ -1164,10 +1163,6 @@
         }
     }, 
     "variable_group_info": [
-        [
-            "\u4f24\u5bb3\u5668", 
-            "(\u4f24\u5bb3\u5668)_2"
-        ], 
         [
             "\u4f24\u5bb3\u56681", 
             "(\u4f24\u5bb3\u56681)_2"
@@ -1178,7 +1173,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "\u4f24\u5bb3\u5668": 0, 
         "\u4f24\u5bb3\u56681": 0, 
         "\u53d8\u5f3a\u5668": 0
     }

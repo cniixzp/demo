@@ -2,46 +2,14 @@
     "local_variable": {
         "1681141762": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u6280\u80fd\u8303\u56f4": 150.0
-                }, 
-                "POINT": {
-                    "point": [
-                        0, 
-                        0, 
-                        0
-                    ], 
-                    "pro\u70b9": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
+                "FLOAT": {}, 
+                "POINT": {}, 
                 "PROJECTILE_ENTITY": {
-                    "pro": 0, 
-                    "proA": 0, 
-                    "proA1": 0, 
-                    "proA2": 0, 
-                    "proB": 0, 
-                    "proB1": 0, 
-                    "proB2": 0, 
-                    "\u96ea\u9f99\u5377": 0, 
-                    "\u98de\u9e3f\u8e0f\u96ea": 0
+                    "pro": 0
                 }
             }, 
             "variable_length_dict": {
-                "point": 0, 
-                "pro": 0, 
-                "proA": 0, 
-                "proA1": 0, 
-                "proA2": 0, 
-                "proB": 0, 
-                "proB1": 0, 
-                "proB2": 0, 
-                "pro\u70b9": 0, 
-                "\u6280\u80fd\u8303\u56f4": 0, 
-                "\u96ea\u9f99\u5377": 10, 
-                "\u98de\u9e3f\u8e0f\u96ea": 10
+                "pro": 0
             }
         }
     }, 
@@ -1414,15 +1382,7 @@
             "weapon_skill": null
         }, 
         "INTEGER": {
-            "i": 0, 
-            "j": 0, 
-            "\u8ba1\u6570": 0, 
-            "\u8ba1\u6570A": 0, 
-            "\u8ba1\u6570A1": 0, 
-            "\u8ba1\u6570A2": 0, 
-            "\u8ba1\u6570B": 0, 
-            "\u8ba1\u6570B1": 0, 
-            "\u8ba1\u6570B2": 0
+            "\u8ba1\u6570": 0
         }
     }, 
     "variable_group_info": [
@@ -1433,50 +1393,10 @@
         [
             "\u8ba1\u6570", 
             "\u8ba1\u6570"
-        ], 
-        [
-            "\u8ba1\u6570A", 
-            "\u8ba1\u6570A_2"
-        ], 
-        [
-            "\u8ba1\u6570B", 
-            "\u8ba1\u6570B_2"
-        ], 
-        [
-            "\u8ba1\u6570A1", 
-            "\u8ba1\u6570A1_2"
-        ], 
-        [
-            "\u8ba1\u6570A2", 
-            "\u8ba1\u6570A2_2"
-        ], 
-        [
-            "\u8ba1\u6570B1", 
-            "\u8ba1\u6570B1_2"
-        ], 
-        [
-            "\u8ba1\u6570B2", 
-            "\u8ba1\u6570B2_2"
-        ], 
-        [
-            "i", 
-            "i"
-        ], 
-        [
-            "j", 
-            "j"
         ]
     ], 
     "variable_length_dict": {
-        "i": 0, 
-        "j": 0, 
         "weapon_skill": 0, 
-        "\u8ba1\u6570": 0, 
-        "\u8ba1\u6570A": 0, 
-        "\u8ba1\u6570A1": 0, 
-        "\u8ba1\u6570A2": 0, 
-        "\u8ba1\u6570B": 0, 
-        "\u8ba1\u6570B1": 0, 
-        "\u8ba1\u6570B2": 0
+        "\u8ba1\u6570": 0
     }
 }

@@ -522,22 +522,15 @@
         "DYNAMIC_TRIGGER_INSTANCE": {
             "\u91cd\u51fb": 0
         }, 
-        "UNIT_ENTITY": {
-            "U": 0
-        }
+        "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [
         [
             "\u91cd\u51fb", 
             "(\u91cd\u51fb)"
-        ], 
-        [
-            "U", 
-            "(U)"
         ]
     ], 
     "variable_length_dict": {
-        "U": 0, 
         "\u91cd\u51fb": 0
     }
 }

@@ -253,23 +253,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "atk_speed": 0.0, 
-            "move": 0.0
-        }
+        "FLOAT": {}
     }, 
-    "variable_group_info": [
-        [
-            "move", 
-            "(move)"
-        ], 
-        [
-            "atk_speed", 
-            "(atk_speed)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "atk_speed": 0, 
-        "move": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

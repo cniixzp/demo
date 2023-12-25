@@ -2,9 +2,7 @@
     "local_variable": {
         "132780034": {
             "variable_dict": {
-                "ABILITY": {
-                    "attack_ability": null
-                }, 
+                "ABILITY": {}, 
                 "ANGLE": {
                     "angle": 0.0
                 }, 
@@ -12,15 +10,11 @@
                     "damage": 0.0
                 }, 
                 "PROJECTILE_ENTITY": {}, 
-                "UNIT_ENTITY": {
-                    "target": null
-                }
+                "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
                 "angle": 0, 
-                "attack_ability": 0, 
-                "damage": 0, 
-                "target": 0
+                "damage": 0
             }
         }
     }, 

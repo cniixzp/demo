@@ -8,13 +8,10 @@
                 "ITEM_ENTITY": {
                     "\u4e13\u6b66": 0
                 }, 
-                "UNIT_ENTITY": {
-                    "\u5355\u4f4d": null
-                }
+                "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
                 "\u4e13\u6b66": 0, 
-                "\u5355\u4f4d": 0, 
                 "\u8bb0\u5251\u5668": 0
             }
         }
@@ -1564,20 +1561,12 @@
         "BOOLEAN": {
             "\u66b4\u51fb": false
         }, 
-        "FLOAT": {
-            "\u52a8\u4f5c\u901f\u7387": 0.0
-        }, 
-        "INTEGER": {
-            "i": 0, 
-            "j": 0
-        }, 
+        "FLOAT": {}, 
+        "INTEGER": {}, 
         "PROJECTILE_ENTITY": {
             "\u6295\u5c04\u7269": 0
         }, 
-        "STRING": {
-            "anim": "", 
-            "\u666e\u653b\u52a8\u4f5c": ""
-        }
+        "STRING": {}
     }, 
     "variable_group_info": [
         [
@@ -1585,37 +1574,12 @@
             "(\u6295\u5c04\u7269)_2"
         ], 
         [
-            "j", 
-            "j"
-        ], 
-        [
-            "i", 
-            "i"
-        ], 
-        [
             "\u66b4\u51fb", 
             "\u66b4\u51fb"
-        ], 
-        [
-            "\u666e\u653b\u52a8\u4f5c", 
-            "\u666e\u653b\u52a8\u4f5c"
-        ], 
-        [
-            "\u52a8\u4f5c\u901f\u7387", 
-            "\u52a8\u4f5c\u901f\u7387"
-        ], 
-        [
-            "anim", 
-            "anim"
         ]
     ], 
     "variable_length_dict": {
-        "anim": 0, 
-        "i": 0, 
-        "j": 0, 
-        "\u52a8\u4f5c\u901f\u7387": 0, 
         "\u6295\u5c04\u7269": 0, 
-        "\u666e\u653b\u52a8\u4f5c": 0, 
         "\u66b4\u51fb": 0
     }
 }

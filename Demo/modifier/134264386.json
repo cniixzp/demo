@@ -129,23 +129,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "MODIFIER_ENTITY": {
-            "test": 0, 
-            "test2": 0
-        }
+        "MODIFIER_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "test", 
-            "(test)_2"
-        ], 
-        [
-            "test2", 
-            "(test2)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "test": 0, 
-        "test2": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

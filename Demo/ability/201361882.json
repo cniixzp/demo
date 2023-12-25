@@ -2,13 +2,9 @@
     "local_variable": {
         "1824878594": {
             "variable_dict": {
-                "PROJECTILE_ENTITY": {
-                    "Ability Effect": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "Ability Effect": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

@@ -12,12 +12,10 @@
                     "i": 1
                 }, 
                 "PROJECTILE_ENTITY": {
-                    "Projectile": 0, 
                     "\u5f39\u9053": 0
                 }
             }, 
             "variable_length_dict": {
-                "Projectile": 0, 
                 "i": 0, 
                 "\u5f39\u9053": 0, 
                 "\u7b2c\u4e00\u6b21": 0, 
@@ -1429,18 +1427,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "PROJECTILE": {
-            "\u5f39\u9053": 0
-        }, 
+        "PROJECTILE": {}, 
         "PROJECTILE_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u5f39\u9053", 
-            "(\u5f39\u9053)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u5f39\u9053": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

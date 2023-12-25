@@ -1026,25 +1026,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "\u53cc\u6297": 0.0
-        }, 
-        "SFX_ENTITY": {
-            "knife": 0
-        }
+        "FLOAT": {}, 
+        "SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u53cc\u6297", 
-            "(\u53cc\u6297)_2"
-        ], 
-        [
-            "knife", 
-            "(knife)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "knife": 0, 
-        "\u53cc\u6297": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

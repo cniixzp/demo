@@ -904,25 +904,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "scale": 1.0
-        }, 
-        "SFX_ENTITY": {
-            "tx": 0
-        }
+        "FLOAT": {}, 
+        "SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "tx", 
-            "tx"
-        ], 
-        [
-            "scale", 
-            "scale"
-        ]
-    ], 
-    "variable_length_dict": {
-        "scale": 0, 
-        "tx": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

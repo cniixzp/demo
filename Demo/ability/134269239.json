@@ -7,27 +7,14 @@
                 }, 
                 "FLOAT": {}, 
                 "INTEGER": {}, 
-                "POINT": {
-                    "start": [
-                        0, 
-                        0, 
-                        0
-                    ], 
-                    "target": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
+                "POINT": {}, 
                 "PROJECTILE_ENTITY": {
                     "missile": 0
                 }
             }, 
             "variable_length_dict": {
                 "angle": 0, 
-                "missile": 0, 
-                "start": 0, 
-                "target": 0
+                "missile": 0
             }
         }
     }, 
@@ -834,17 +821,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "UNIT_ENTITY": {
-            "\u76ee\u6807\u5355\u4f4d": 0
-        }
+        "UNIT_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u76ee\u6807\u5355\u4f4d", 
-            "\u76ee\u6807\u5355\u4f4d"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u76ee\u6807\u5355\u4f4d": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

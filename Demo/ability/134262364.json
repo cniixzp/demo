@@ -2,23 +2,15 @@
     "local_variable": {
         "765337601": {
             "variable_dict": {
-                "MODIFIER_ENTITY": {
-                    "txtest": 0
-                }
+                "MODIFIER_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "txtest": 0
-            }
+            "variable_length_dict": {}
         }, 
         "1213673474": {
             "variable_dict": {
-                "MODIFIER_ENTITY": {
-                    "txtest": 0
-                }
+                "MODIFIER_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "txtest": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -1327,30 +1319,14 @@
         "NEW_TIMER": {
             "\u8ba1\u65f6\u5668": -1
         }, 
-        "POINT": {
-            "mbd": [
-                0, 
-                0, 
-                0
-            ]
-        }, 
+        "POINT": {}, 
         "PROJECTILE_ENTITY": {}, 
-        "SFX_ENTITY": {
-            "tx": 0
-        }, 
+        "SFX_ENTITY": {}, 
         "UNIT_ENTITY": {
             "\u5355\u4f4d": 0
         }
     }, 
     "variable_group_info": [
-        [
-            "tx", 
-            "(tx)"
-        ], 
-        [
-            "mbd", 
-            "(mbd)"
-        ], 
         [
             "\u5355\u4f4d", 
             "(\u5355\u4f4d)"
@@ -1365,8 +1341,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "mbd": 0, 
-        "tx": 0, 
         "\u5355\u4f4d": 0, 
         "\u8ba1\u65f6\u5668": 0, 
         "\u9b54\u6cd5\u6548\u679c": 0

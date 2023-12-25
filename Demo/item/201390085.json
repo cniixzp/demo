@@ -2,13 +2,9 @@
     "local_variable": {
         "1483505665": {
             "variable_dict": {
-                "BOOLEAN": {
-                    "\u56de\u8840": false
-                }
+                "BOOLEAN": {}
             }, 
-            "variable_length_dict": {
-                "\u56de\u8840": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

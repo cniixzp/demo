@@ -2,23 +2,15 @@
     "local_variable": {
         "79937537": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u79fb\u901f": 0.0
-                }
+                "FLOAT": {}
             }, 
-            "variable_length_dict": {
-                "\u79fb\u901f": 0
-            }
+            "variable_length_dict": {}
         }, 
         "314830850": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u79fb\u901f": 0.0
-                }
+                "FLOAT": {}
             }, 
-            "variable_length_dict": {
-                "\u79fb\u901f": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

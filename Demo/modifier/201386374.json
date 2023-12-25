@@ -925,31 +925,18 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {}, 
-        "FLOAT": {
-            "\u51cf\u7532": 0.0, 
-            "\u79fb\u901f": 0.0
-        }, 
+        "FLOAT": {}, 
         "SFX_ENTITY": {
             "particle": 0
         }
     }, 
     "variable_group_info": [
         [
-            "\u79fb\u901f", 
-            "(\u79fb\u901f)"
-        ], 
-        [
-            "\u51cf\u7532", 
-            "(\u51cf\u7532)"
-        ], 
-        [
             "particle", 
             "(particle)"
         ]
     ], 
     "variable_length_dict": {
-        "particle": 0, 
-        "\u51cf\u7532": 0, 
-        "\u79fb\u901f": 0
+        "particle": 0
     }
 }

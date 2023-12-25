@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
     "local_variable": {
         "35459076": {
             "variable_dict": {
@@ -1239,4 +1240,27 @@
         "\u9f99\u5e99\u70b9": 10, 
         "\u9f99\u5e99\u70b9\u9ed1\u96fe": 10
     }
+=======
+    "local_variable": {}, 
+    "variable_comments": {}, 
+    "variable_dict": {
+        "BOOLEAN": {}, 
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
+        "FLOAT": {}, 
+        "INTEGER": {}, 
+        "LINK_SFX_ENTITY": {}, 
+        "MODIFIER_ENTITY": {}, 
+        "NEW_TIMER": {}, 
+        "PLAYER": {}, 
+        "POINT": {}, 
+        "PROJECTILE_ENTITY": {}, 
+        "STRING": {}, 
+        "UI_COMP": {}, 
+        "UNIT_ENTITY": {}, 
+        "UNIT_GROUP": {}, 
+        "UNIT_NAME": {}
+    }, 
+    "variable_group_info": [], 
+    "variable_length_dict": {}
+>>>>>>> dev
 }

@@ -390,7 +390,6 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "DYNAMIC_TRIGGER_INSTANCE": {
-            "\u8bdb\u90aa\u4e8c\u9636": 0, 
             "\u8bdb\u90aa\u56db\u9636": 0
         }, 
         "UNIT_ENTITY": {
@@ -403,17 +402,12 @@
             "(\u8bdb\u90aa\u56db\u9636)"
         ], 
         [
-            "\u8bdb\u90aa\u4e8c\u9636", 
-            "(\u8bdb\u90aa\u4e8c\u9636)"
-        ], 
-        [
             "U", 
             "(U)"
         ]
     ], 
     "variable_length_dict": {
         "U": 0, 
-        "\u8bdb\u90aa\u4e8c\u9636": 0, 
         "\u8bdb\u90aa\u56db\u9636": 0
     }
 }

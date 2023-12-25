@@ -254,22 +254,16 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {
-            "atk_spd_rate": 0.0, 
-            "mv_spd_rate": 0.0
+            "atk_spd_rate": 0.0
         }
     }, 
     "variable_group_info": [
         [
             "atk_spd_rate", 
             "atk_spd_rate"
-        ], 
-        [
-            "mv_spd_rate", 
-            "mv_spd_rate"
         ]
     ], 
     "variable_length_dict": {
-        "atk_spd_rate": 0, 
-        "mv_spd_rate": 0
+        "atk_spd_rate": 0
     }
 }

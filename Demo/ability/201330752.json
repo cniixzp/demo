@@ -2,17 +2,10 @@
     "local_variable": {
         "1435660289": {
             "variable_dict": {
-                "PROJECTILE_ENTITY": {
-                    "aaa": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "unit": 0
-                }
+                "PROJECTILE_ENTITY": {}, 
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "aaa": 0, 
-                "unit": 10
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

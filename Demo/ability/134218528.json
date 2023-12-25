@@ -2,16 +2,13 @@
     "local_variable": {
         "1820372995": {
             "variable_dict": {
-                "INTEGER": {
-                    "i": 0
-                }, 
+                "INTEGER": {}, 
                 "PROJECTILE_ENTITY": {
                     "ammo": 0
                 }
             }, 
             "variable_length_dict": {
-                "ammo": 0, 
-                "i": 0
+                "ammo": 0
             }
         }
     }, 
@@ -585,25 +582,12 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "hero_dmg_count": 0, 
-            "unit_dmg_count": 0
-        }, 
-        "FLOAT": {
-            "recover_num": 0.0, 
-            "total_hero_dmg": 0.0, 
-            "total_unit_dmg": 0.0, 
-            "\u989d\u5916\u8303\u56f4": 0.0
-        }, 
-        "LINK_SFX_ENTITY": {
-            "le": 0
-        }, 
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
+        "FLOAT": {}, 
+        "LINK_SFX_ENTITY": {}, 
         "NEW_TIMER": {}, 
-        "SFX_ENTITY": {
-            "tail": 0
-        }, 
+        "SFX_ENTITY": {}, 
         "UNIT_ENTITY": {
-            "\u76ee\u6807": 0, 
             "\u76ee\u6807\u5355\u4f4d": 0
         }
     }, 
@@ -611,54 +595,9 @@
         [
             "\u76ee\u6807\u5355\u4f4d", 
             "(\u76ee\u6807\u5355\u4f4d)"
-        ], 
-        [
-            "le", 
-            "(le)"
-        ], 
-        [
-            "tail", 
-            "(tail)"
-        ], 
-        [
-            "\u989d\u5916\u8303\u56f4", 
-            "\u989d\u5916\u8303\u56f4"
-        ], 
-        [
-            "\u76ee\u6807", 
-            "\u76ee\u6807"
-        ], 
-        [
-            "total_hero_dmg", 
-            "total_hero_dmg"
-        ], 
-        [
-            "total_unit_dmg", 
-            "total_unit_dmg"
-        ], 
-        [
-            "recover_num", 
-            "recover_num"
-        ], 
-        [
-            "hero_dmg_count", 
-            "hero_dmg_count"
-        ], 
-        [
-            "unit_dmg_count", 
-            "unit_dmg_count"
         ]
     ], 
     "variable_length_dict": {
-        "hero_dmg_count": 0, 
-        "le": 0, 
-        "recover_num": 0, 
-        "tail": 0, 
-        "total_hero_dmg": 0, 
-        "total_unit_dmg": 0, 
-        "unit_dmg_count": 0, 
-        "\u76ee\u6807": 0, 
-        "\u76ee\u6807\u5355\u4f4d": 0, 
-        "\u989d\u5916\u8303\u56f4": 0
+        "\u76ee\u6807\u5355\u4f4d": 0
     }
 }

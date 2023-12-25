@@ -2,21 +2,11 @@
     "local_variable": {
         "620908546": {
             "variable_dict": {
-                "FLOAT": {
-                    "damage": 0.0
-                }, 
-                "PROJECTILE_ENTITY": {
-                    "missile": 0
-                }, 
-                "UNIT_GROUP": {
-                    "g": []
-                }
+                "FLOAT": {}, 
+                "PROJECTILE_ENTITY": {}, 
+                "UNIT_GROUP": {}
             }, 
-            "variable_length_dict": {
-                "damage": 0, 
-                "g": 0, 
-                "missile": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

@@ -971,28 +971,15 @@
         "BOOLEAN": {
             "\u53cc\u91cd\u65bd\u6cd5": true
         }, 
-        "INTEGER": {
-            "i": 0, 
-            "j": 0
-        }
+        "INTEGER": {}
     }, 
     "variable_group_info": [
         [
             "\u53cc\u91cd\u65bd\u6cd5", 
             "(\u53cc\u91cd\u65bd\u6cd5)"
-        ], 
-        [
-            "i", 
-            "i_2"
-        ], 
-        [
-            "j", 
-            "j_2"
         ]
     ], 
     "variable_length_dict": {
-        "i": 0, 
-        "j": 0, 
         "\u53cc\u91cd\u65bd\u6cd5": 0
     }
 }

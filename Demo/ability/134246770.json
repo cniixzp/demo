@@ -8,24 +8,12 @@
                     "\u7b49\u5f85\u65f6\u95f4": 6.0, 
                     "\u8ddd\u79bb": 1000.0
                 }, 
-                "INTEGER": {
-                    "i": 0
-                }, 
-                "NEW_TIMER": {
-                    "_yz": -1
-                }, 
-                "PROJECTILE_ENTITY": {
-                    "_\u5f71\u5b50": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "_sy": 0
-                }
+                "INTEGER": {}, 
+                "NEW_TIMER": {}, 
+                "PROJECTILE_ENTITY": {}, 
+                "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "_sy": 0, 
-                "_yz": 0, 
-                "_\u5f71\u5b50": 0, 
-                "i": 0, 
                 "\u521d\u59cb\u901f\u5ea6": 0, 
                 "\u52a0\u901f\u5ea6": 0, 
                 "\u7b49\u5f85\u65f6\u95f4": 0, 
@@ -2125,7 +2113,6 @@
             "gjl": 0.0
         }, 
         "NEW_TIMER": {
-            "shiye": -1, 
             "yz": -1
         }, 
         "PROJECTILE_ENTITY": {
@@ -2155,16 +2142,11 @@
         [
             "yz", 
             "(yz)"
-        ], 
-        [
-            "shiye", 
-            "(shiye)"
         ]
     ], 
     "variable_length_dict": {
         "angry": 0, 
         "gjl": 0, 
-        "shiye": 0, 
         "sy": 0, 
         "yz": 0, 
         "\u5f71\u5b50": 0

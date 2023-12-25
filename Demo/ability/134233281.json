@@ -5,14 +5,11 @@
                 "FLOAT": {
                     "damage": 0.0
                 }, 
-                "INTEGER": {
-                    "i": 0
-                }, 
+                "INTEGER": {}, 
                 "PROJECTILE_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "damage": 0, 
-                "i": 0
+                "damage": 0
             }
         }
     }, 
@@ -2080,41 +2077,20 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "BOOLEAN": {
-            "\u6280\u80fd\u4ea4\u6362": true
-        }, 
+        "BOOLEAN": {}, 
         "FLOAT": {
             "\u95ea\u70c1\u95f4\u9694": 0.0
         }, 
-        "INTEGER": {
-            "j": 0
-        }, 
-        "PROJECTILE_ENTITY": {
-            "\u96f7\u7403": 0
-        }
+        "INTEGER": {}, 
+        "PROJECTILE_ENTITY": {}
     }, 
     "variable_group_info": [
         [
             "\u95ea\u70c1\u95f4\u9694", 
             "(\u95ea\u70c1\u95f4\u9694)"
-        ], 
-        [
-            "\u96f7\u7403", 
-            "\u96f7\u7403_2"
-        ], 
-        [
-            "j", 
-            "j_2"
-        ], 
-        [
-            "\u6280\u80fd\u4ea4\u6362", 
-            "\u6280\u80fd\u4ea4\u6362"
         ]
     ], 
     "variable_length_dict": {
-        "j": 0, 
-        "\u6280\u80fd\u4ea4\u6362": 0, 
-        "\u95ea\u70c1\u95f4\u9694": 0, 
-        "\u96f7\u7403": 0
+        "\u95ea\u70c1\u95f4\u9694": 0
     }
 }

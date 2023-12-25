@@ -592,17 +592,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "Damage": 4.0
-        }
+        "FLOAT": {}
     }, 
-    "variable_group_info": [
-        [
-            "Damage", 
-            "(Damage)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "Damage": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

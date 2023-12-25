@@ -223,17 +223,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "INTEGER": {
-            "i": 0
-        }
+        "INTEGER": {}
     }, 
-    "variable_group_info": [
-        [
-            "i", 
-            "i"
-        ]
-    ], 
-    "variable_length_dict": {
-        "i": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

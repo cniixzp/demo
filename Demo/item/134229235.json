@@ -2,13 +2,9 @@
     "local_variable": {
         "805789697": {
             "variable_dict": {
-                "ROUND_AREA": {
-                    "\u5929\u7f61\u6218\u5f79\u56db\u9636": 0
-                }
+                "ROUND_AREA": {}
             }, 
-            "variable_length_dict": {
-                "\u5929\u7f61\u6218\u5f79\u56db\u9636": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

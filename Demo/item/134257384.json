@@ -502,12 +502,8 @@
         "ITEM_ENTITY": {
             "dq": 0
         }, 
-        "MODIFIER_ENTITY": {
-            "halo": 0
-        }, 
-        "PROJECTILE_ENTITY": {
-            "\u7279\u6548": 0
-        }, 
+        "MODIFIER_ENTITY": {}, 
+        "PROJECTILE_ENTITY": {}, 
         "UNIT_ENTITY": {
             "U": 0
         }
@@ -516,14 +512,6 @@
         [
             "Tr_rebouDam", 
             "(Tr_rebouDam)_2"
-        ], 
-        [
-            "halo", 
-            "(halo)_2"
-        ], 
-        [
-            "\u7279\u6548", 
-            "(\u7279\u6548)_2"
         ], 
         [
             "U", 
@@ -542,8 +530,6 @@
         "CD": 0, 
         "Tr_rebouDam": 0, 
         "U": 0, 
-        "dq": 0, 
-        "halo": 0, 
-        "\u7279\u6548": 0
+        "dq": 0
     }
 }

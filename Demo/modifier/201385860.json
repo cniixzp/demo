@@ -183,17 +183,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "trg": 0
-        }
+        "DYNAMIC_TRIGGER_INSTANCE": {}
     }, 
-    "variable_group_info": [
-        [
-            "trg", 
-            "(trg)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "trg": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

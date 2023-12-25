@@ -454,17 +454,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "SFX_ENTITY": {
-            "tx": 0
-        }
+        "SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "tx", 
-            "tx"
-        ]
-    ], 
-    "variable_length_dict": {
-        "tx": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

@@ -33,13 +33,9 @@
         }, 
         "1401729030": {
             "variable_dict": {
-                "PROJECTILE_ENTITY": {
-                    "p": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "p": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

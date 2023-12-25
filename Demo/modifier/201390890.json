@@ -3,13 +3,9 @@
         "2023383041": {
             "variable_dict": {
                 "FLOAT": {}, 
-                "UNIT_ENTITY": {
-                    "\u8d64\u70bc": 0
-                }
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "\u8d64\u70bc": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

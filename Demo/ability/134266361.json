@@ -2,15 +2,9 @@
     "local_variable": {
         "132780034": {
             "variable_dict": {
-                "ABILITY": {
-                    "attack_ability": null
-                }, 
-                "ANGLE": {
-                    "angle": 0.0
-                }, 
-                "FLOAT": {
-                    "damage": 0.0
-                }, 
+                "ABILITY": {}, 
+                "ANGLE": {}, 
+                "FLOAT": {}, 
                 "MODIFIER_ENTITY": {
                     "buff": 0, 
                     "buff2": 0
@@ -21,11 +15,8 @@
                 }
             }, 
             "variable_length_dict": {
-                "angle": 0, 
-                "attack_ability": 0, 
                 "buff": 0, 
                 "buff2": 0, 
-                "damage": 0, 
                 "target": 0
             }
         }
@@ -602,32 +593,14 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "FLOAT": {
-            "\u4fbf\u5b9c\u89d2\u5ea6": 0.0, 
             "\u504f\u79fb\u8ddd\u79bb": 0.0, 
             "\u5f53\u524d\u89d2\u5ea6": 0.0
         }, 
-        "INTEGER": {
-            "i": 1, 
-            "n": 1
-        }, 
+        "INTEGER": {}, 
         "NEW_TIMER": {}, 
-        "UNIT_GROUP": {
-            "\u5206\u8eab\u5355\u4f4d\u7ec4": []
-        }
+        "UNIT_GROUP": {}
     }, 
     "variable_group_info": [
-        [
-            "i", 
-            "i_2"
-        ], 
-        [
-            "n", 
-            "n_2"
-        ], 
-        [
-            "\u5206\u8eab\u5355\u4f4d\u7ec4", 
-            "\u5206\u8eab\u5355\u4f4d\u7ec4_2"
-        ], 
         [
             "\u504f\u79fb\u8ddd\u79bb", 
             "\u504f\u79fb\u8ddd\u79bb_2"
@@ -635,18 +608,10 @@
         [
             "\u5f53\u524d\u89d2\u5ea6", 
             "\u5f53\u524d\u89d2\u5ea6_2"
-        ], 
-        [
-            "\u4fbf\u5b9c\u89d2\u5ea6", 
-            "\u4fbf\u5b9c\u89d2\u5ea6_2"
         ]
     ], 
     "variable_length_dict": {
-        "i": 0, 
-        "n": 0, 
-        "\u4fbf\u5b9c\u89d2\u5ea6": 0, 
         "\u504f\u79fb\u8ddd\u79bb": 0, 
-        "\u5206\u8eab\u5355\u4f4d\u7ec4": 0, 
         "\u5f53\u524d\u89d2\u5ea6": 0
     }
 }

@@ -2,13 +2,9 @@
     "local_variable": {
         "1858334721": {
             "variable_dict": {
-                "INTEGER": {
-                    "\u8ba1\u6570": 0
-                }
+                "INTEGER": {}
             }, 
-            "variable_length_dict": {
-                "\u8ba1\u6570": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

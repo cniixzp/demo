@@ -1950,21 +1950,15 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "ANGLE": {
-            "jd": 0.0
-        }, 
+        "ANGLE": {}, 
         "BOOLEAN": {
             "\u89e6\u53d1\u683c\u6321": false
         }, 
         "DYNAMIC_TRIGGER_INSTANCE": {
             "t2": 0
         }, 
-        "INTEGER": {
-            "i": 0
-        }, 
-        "NEW_TIMER": {
-            "\u9ed8\u8ba4\u53d8\u91cf\u540d": -1
-        }, 
+        "INTEGER": {}, 
+        "NEW_TIMER": {}, 
         "SFX_ENTITY": {
             "knife": 0, 
             "knife_2": 0
@@ -1986,27 +1980,12 @@
         [
             "\u89e6\u53d1\u683c\u6321", 
             "(\u89e6\u53d1\u683c\u6321)"
-        ], 
-        [
-            "i", 
-            "i_2"
-        ], 
-        [
-            "jd", 
-            "jd_2"
-        ], 
-        [
-            "\u9ed8\u8ba4\u53d8\u91cf\u540d", 
-            "\u9ed8\u8ba4\u53d8\u91cf\u540d"
         ]
     ], 
     "variable_length_dict": {
-        "i": 0, 
-        "jd": 0, 
         "knife": 0, 
         "knife_2": 0, 
         "t2": 0, 
-        "\u89e6\u53d1\u683c\u6321": 0, 
-        "\u9ed8\u8ba4\u53d8\u91cf\u540d": 0
+        "\u89e6\u53d1\u683c\u6321": 0
     }
 }

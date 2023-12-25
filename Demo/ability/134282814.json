@@ -945,17 +945,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "UNIT_ENTITY": {
-            "\u76ee\u6807": null
-        }
+        "UNIT_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u76ee\u6807", 
-            "(\u76ee\u6807)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u76ee\u6807": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

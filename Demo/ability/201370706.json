@@ -566,17 +566,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "FLOAT": {
-            "\u4f24\u5bb3": 4.0
-        }
+        "FLOAT": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u4f24\u5bb3", 
-            "(\u4f24\u5bb3)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u4f24\u5bb3": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

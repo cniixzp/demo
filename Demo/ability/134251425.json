@@ -2,17 +2,10 @@
     "local_variable": {
         "620908546": {
             "variable_dict": {
-                "PROJECTILE_ENTITY": {
-                    "missile": 0
-                }, 
-                "TABLE": {
-                    "t": null
-                }
+                "PROJECTILE_ENTITY": {}, 
+                "TABLE": {}
             }, 
-            "variable_length_dict": {
-                "missile": 0, 
-                "t": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

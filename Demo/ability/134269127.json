@@ -2,9 +2,7 @@
     "local_variable": {
         "730021889": {
             "variable_dict": {
-                "FLOAT": {
-                    "angle": 0.0
-                }, 
+                "FLOAT": {}, 
                 "INTEGER": {
                     "n": 0
                 }, 
@@ -25,7 +23,6 @@
                 }
             }, 
             "variable_length_dict": {
-                "angle": 0, 
                 "missile": 0, 
                 "n": 0, 
                 "start": 0, 

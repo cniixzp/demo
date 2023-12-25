@@ -2,13 +2,9 @@
     "local_variable": {
         "1647607809": {
             "variable_dict": {
-                "UNIT_ENTITY": {
-                    "\u4fa6\u5bdf\u5b88\u536b": 0
-                }
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "\u4fa6\u5bdf\u5b88\u536b": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

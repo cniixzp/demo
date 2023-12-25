@@ -570,17 +570,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "SFX_ENTITY": {
-            "\u7279\u65481": 0
-        }
+        "SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u7279\u65481", 
-            "\u7279\u65481"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u7279\u65481": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

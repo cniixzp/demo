@@ -2,13 +2,9 @@
     "local_variable": {
         "1671380993": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u79fb\u901f": 0.0
-                }
+                "FLOAT": {}
             }, 
-            "variable_length_dict": {
-                "\u79fb\u901f": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -477,22 +473,15 @@
         "PROJECTILE_ENTITY": {
             "tx": 0
         }, 
-        "UNIT_ENTITY": {
-            "U": 0
-        }
+        "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [
         [
             "tx", 
             "(tx)_2"
-        ], 
-        [
-            "U", 
-            "(U)_2"
         ]
     ], 
     "variable_length_dict": {
-        "U": 0, 
         "tx": 0
     }
 }

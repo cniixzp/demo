@@ -591,9 +591,7 @@
             "Tr_immCon": 0, 
             "Tr_immCon_2": 0
         }, 
-        "MODIFIER_ENTITY": {
-            "halo": 0
-        }, 
+        "MODIFIER_ENTITY": {}, 
         "UNIT_ENTITY": {
             "U": 0
         }
@@ -612,10 +610,6 @@
             "(Tr_immCon_2)_2"
         ], 
         [
-            "halo", 
-            "(halo)_2"
-        ], 
-        [
             "U", 
             "(U)_2"
         ]
@@ -624,7 +618,6 @@
         "Tr_immCon": 0, 
         "Tr_immCon_2": 0, 
         "U": 0, 
-        "halo": 0, 
         "immuneControl?": 0
     }
 }

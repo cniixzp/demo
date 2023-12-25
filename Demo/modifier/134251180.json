@@ -1848,9 +1848,7 @@
             "\u653b\u51fb\u529b": 0.0, 
             "\u751f\u547d\u4e0a\u9650": 0.0
         }, 
-        "SFX_ENTITY": {
-            "eff": 0
-        }
+        "SFX_ENTITY": {}
     }, 
     "variable_group_info": [
         [
@@ -1862,16 +1860,11 @@
             "(\u751f\u547d\u4e0a\u9650)"
         ], 
         [
-            "eff", 
-            "(eff)"
-        ], 
-        [
             "\u6280\u80fd\u8303\u56f4", 
             "(\u6280\u80fd\u8303\u56f4)"
         ]
     ], 
     "variable_length_dict": {
-        "eff": 0, 
         "\u6280\u80fd\u8303\u56f4": 0, 
         "\u653b\u51fb\u529b": 0, 
         "\u751f\u547d\u4e0a\u9650": 0

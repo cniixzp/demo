@@ -5,17 +5,10 @@
                 "ANGLE": {
                     "angle": 0.0
                 }, 
-                "POINT": {
-                    "p": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }
+                "POINT": {}
             }, 
             "variable_length_dict": {
-                "angle": 0, 
-                "p": 0
+                "angle": 0
             }
         }
     }, 

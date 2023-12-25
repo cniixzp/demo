@@ -2,25 +2,11 @@
     "local_variable": {
         "1393434625": {
             "variable_dict": {
-                "INTEGER": {
-                    "i": 0
-                }, 
-                "POINT": {
-                    "p": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
-                "UNIT_GROUP": {
-                    "us": []
-                }
+                "INTEGER": {}, 
+                "POINT": {}, 
+                "UNIT_GROUP": {}
             }, 
-            "variable_length_dict": {
-                "i": 0, 
-                "p": 0, 
-                "us": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

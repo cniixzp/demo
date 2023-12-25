@@ -2,33 +2,15 @@
     "local_variable": {
         "722841602": {
             "variable_dict": {
-                "ANGLE": {
-                    "angle": 0.0
-                }, 
+                "ANGLE": {}, 
                 "MODIFIER_ENTITY": {
                     "\u9b54\u6cd5\u6548\u679c": 0
                 }, 
-                "NEW_TIMER": {
-                    "time": -1
-                }, 
-                "POINT": {
-                    "p": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
-                "PROJECTILE_ENTITY": {
-                    "tsw": 0, 
-                    "\u6d41\u706b": 0
-                }
+                "NEW_TIMER": {}, 
+                "POINT": {}, 
+                "PROJECTILE_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "angle": 0, 
-                "p": 0, 
-                "time": 0, 
-                "tsw": 0, 
-                "\u6d41\u706b": 0, 
                 "\u9b54\u6cd5\u6548\u679c": 0
             }
         }
@@ -366,17 +348,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "PROJECTILE_ENTITY": {
-            "\u6d41\u706b\u5751": 0
-        }
+        "PROJECTILE_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u6d41\u706b\u5751", 
-            "(\u6d41\u706b\u5751)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "\u6d41\u706b\u5751": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

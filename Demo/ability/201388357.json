@@ -1436,9 +1436,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "trg5": 0
-        }, 
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
         "FLOAT": {
             "gray_dmg": 0.0
         }, 
@@ -1466,17 +1464,12 @@
         [
             "bf", 
             "(bf)"
-        ], 
-        [
-            "trg5", 
-            "(trg5)"
         ]
     ], 
     "variable_length_dict": {
         "bf": 0, 
         "g_timer": 0, 
         "g_timer2": 0, 
-        "gray_dmg": 0, 
-        "trg5": 0
+        "gray_dmg": 0
     }
 }

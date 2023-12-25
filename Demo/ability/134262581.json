@@ -1239,8 +1239,7 @@
             "knife": 0
         }, 
         "STRING": {
-            "anim": "", 
-            "\u666e\u653b\u52a8\u4f5c": ""
+            "anim": ""
         }
     }, 
     "variable_group_info": [
@@ -1259,17 +1258,12 @@
         [
             "n", 
             "n"
-        ], 
-        [
-            "\u666e\u653b\u52a8\u4f5c", 
-            "\u666e\u653b\u52a8\u4f5c"
         ]
     ], 
     "variable_length_dict": {
         "anim": 0, 
         "knife": 0, 
         "n": 0, 
-        "\u666e\u653b\u52a8\u4f5c": 0, 
         "\u66b4\u51fb": 0
     }
 }

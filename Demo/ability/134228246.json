@@ -7,27 +7,14 @@
                 }, 
                 "FLOAT": {}, 
                 "INTEGER": {}, 
-                "POINT": {
-                    "start": [
-                        0, 
-                        0, 
-                        0
-                    ], 
-                    "target": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
+                "POINT": {}, 
                 "PROJECTILE_ENTITY": {
                     "missile": 0
                 }
             }, 
             "variable_length_dict": {
                 "angle": 0, 
-                "missile": 0, 
-                "start": 0, 
-                "target": 0
+                "missile": 0
             }
         }
     }, 

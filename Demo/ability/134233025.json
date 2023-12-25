@@ -1202,12 +1202,8 @@
         "BOOLEAN": {
             "\u66b4\u51fb": false
         }, 
-        "FLOAT": {
-            "\u52a8\u4f5c\u901f\u7387": 0.0
-        }, 
+        "FLOAT": {}, 
         "INTEGER": {
-            "i": 0, 
-            "j": 0, 
             "n": 1
         }, 
         "SFX_ENTITY": {
@@ -1233,27 +1229,12 @@
         [
             "n", 
             "(n)_2"
-        ], 
-        [
-            "\u52a8\u4f5c\u901f\u7387", 
-            "\u52a8\u4f5c\u901f\u7387"
-        ], 
-        [
-            "j", 
-            "j"
-        ], 
-        [
-            "i", 
-            "i"
         ]
     ], 
     "variable_length_dict": {
         "anim": 0, 
-        "i": 0, 
-        "j": 0, 
         "knife": 0, 
         "n": 0, 
-        "\u52a8\u4f5c\u901f\u7387": 0, 
         "\u66b4\u51fb": 0
     }
 }

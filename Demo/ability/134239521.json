@@ -6,13 +6,10 @@
                 "INTEGER": {
                     "i": 0
                 }, 
-                "PROJECTILE_ENTITY": {
-                    "pro": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "i": 0, 
-                "pro": 0
+                "i": 0
             }
         }
     }, 

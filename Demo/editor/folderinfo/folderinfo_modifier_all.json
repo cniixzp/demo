@@ -8,6 +8,7 @@
     2147483647, 
     "code_explorer_custom_root_folder_name"
    ]
+<<<<<<< HEAD
   }, 
   {
    "__tuple__": true, 
@@ -337,4 +338,9 @@
    ]
   }
  }
+=======
+  }
+ ], 
+ "d": {}
+>>>>>>> dev
 }

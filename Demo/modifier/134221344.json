@@ -2,27 +2,16 @@
     "local_variable": {
         "24743939": {
             "variable_dict": {
-                "PROJECTILE_ENTITY": {
-                    "\u96ea\u9f99\u5377": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "\u96ea\u9f99\u5377": 10
-            }
+            "variable_length_dict": {}
         }, 
         "1213612033": {
             "variable_dict": {
-                "ABILITY": {
-                    "skill": null
-                }, 
-                "UNIT_ENTITY": {
-                    "u": 0
-                }
+                "ABILITY": {}, 
+                "UNIT_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "skill": 0, 
-                "u": 0
-            }
+            "variable_length_dict": {}
         }, 
         "1398161410": {
             "variable_dict": {
@@ -1000,9 +989,7 @@
         "FLOAT": {
             "total_damage": 0.0
         }, 
-        "INTEGER": {
-            "j": 0
-        }, 
+        "INTEGER": {}, 
         "MODEL": {}, 
         "NEW_TIMER": {
             "timer": -1
@@ -1020,14 +1007,9 @@
         [
             "total_damage", 
             "(total_damage)"
-        ], 
-        [
-            "j", 
-            "j"
         ]
     ], 
     "variable_length_dict": {
-        "j": 0, 
         "timer": 0, 
         "total_damage": 0, 
         "trigger": 0

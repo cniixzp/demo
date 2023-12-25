@@ -6,12 +6,10 @@
                     "skill": null
                 }, 
                 "UNIT_ENTITY": {
-                    "other": null, 
                     "target": null
                 }
             }, 
             "variable_length_dict": {
-                "other": 0, 
                 "skill": 0, 
                 "target": 0
             }

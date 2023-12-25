@@ -6,13 +6,11 @@
                     "projectile": 0
                 }, 
                 "UNIT_ENTITY": {
-                    "attackTarget": 0, 
-                    "dragon": 0
+                    "attackTarget": 0
                 }
             }, 
             "variable_length_dict": {
                 "attackTarget": 0, 
-                "dragon": 0, 
                 "projectile": 0
             }
         }

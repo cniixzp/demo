@@ -273,18 +273,12 @@
         "SFX_ENTITY": {
             "tail": 0
         }, 
-        "UNIT_ENTITY": {
-            "\u76ee\u6807": 0
-        }
+        "UNIT_ENTITY": {}
     }, 
     "variable_group_info": [
         [
             "tail", 
             "tail_2"
-        ], 
-        [
-            "\u76ee\u6807", 
-            "\u76ee\u6807_2"
         ], 
         [
             "le", 
@@ -293,7 +287,6 @@
     ], 
     "variable_length_dict": {
         "le": 0, 
-        "tail": 0, 
-        "\u76ee\u6807": 0
+        "tail": 0
     }
 }

@@ -504,12 +504,8 @@
             "\u989d\u5916\u8303\u56f4": 0.0
         }, 
         "INTEGER": {}, 
-        "LINK_SFX_ENTITY": {
-            "le": 0
-        }, 
-        "SFX_ENTITY": {
-            "tail": 0
-        }, 
+        "LINK_SFX_ENTITY": {}, 
+        "SFX_ENTITY": {}, 
         "UNIT_ENTITY": {
             "\u76ee\u6807": 0
         }
@@ -518,14 +514,6 @@
         [
             "\u76ee\u6807", 
             "(\u76ee\u6807)_2"
-        ], 
-        [
-            "le", 
-            "(le)_2"
-        ], 
-        [
-            "tail", 
-            "(tail)_2"
         ], 
         [
             "\u52a0\u957f\u8ddd\u79bb", 
@@ -537,8 +525,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "le": 0, 
-        "tail": 0, 
         "\u52a0\u957f\u8ddd\u79bb": 0, 
         "\u76ee\u6807": 0, 
         "\u989d\u5916\u8303\u56f4": 0

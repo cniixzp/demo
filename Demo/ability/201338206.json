@@ -5,16 +5,13 @@
                 "LINK_SFX_ENTITY": {
                     "chain": 0
                 }, 
-                "PROJECTILE_ENTITY": {
-                    "aaa": 0
-                }, 
+                "PROJECTILE_ENTITY": {}, 
                 "UNIT_ENTITY": {
                     "a": 0
                 }
             }, 
             "variable_length_dict": {
                 "a": 0, 
-                "aaa": 0, 
                 "chain": 0
             }
         }
@@ -980,17 +977,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "LINK_SFX_ENTITY": {
-            "aaa": 0
-        }
+        "LINK_SFX_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "aaa", 
-            "(aaa)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "aaa": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

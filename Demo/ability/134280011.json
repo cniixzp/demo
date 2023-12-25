@@ -2,13 +2,9 @@
     "local_variable": {
         "1236779009": {
             "variable_dict": {
-                "BOOLEAN": {
-                    "\u5f3a\u5316": false
-                }
+                "BOOLEAN": {}
             }, 
-            "variable_length_dict": {
-                "\u5f3a\u5316": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {
@@ -824,19 +820,13 @@
         "MODIFIER_ENTITY": {
             "\u62a4\u76fe": 0
         }, 
-        "PROJECTILE_ENTITY": {
-            "\u6295\u5c04\u7269": 0
-        }, 
+        "PROJECTILE_ENTITY": {}, 
         "SFX_ENTITY": {
             "e1": 0, 
             "e2": 0
         }
     }, 
     "variable_group_info": [
-        [
-            "\u6295\u5c04\u7269", 
-            "(\u6295\u5c04\u7269)"
-        ], 
         [
             "\u62a4\u76fe", 
             "(\u62a4\u76fe)"
@@ -861,7 +851,6 @@
     "variable_length_dict": {
         "e1": 0, 
         "e2": 0, 
-        "\u6295\u5c04\u7269": 0, 
         "\u62a4\u76fe": 0, 
         "\u9b54\u6cd5\u6548\u679c": 0, 
         "\u9b54\u6cd5\u6548\u679c2": 0

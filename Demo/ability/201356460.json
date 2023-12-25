@@ -2,25 +2,15 @@
     "local_variable": {
         "178511875": {
             "variable_dict": {
-                "PROJECTILE_ENTITY": {
-                    "t1": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "t1": 0
-            }
+            "variable_length_dict": {}
         }, 
         "1953525762": {
             "variable_dict": {
-                "PROJECTILE_ENTITY": {
-                    "t": 0, 
-                    "t1": 0
-                }
+                "PROJECTILE_ENTITY": {}
             }, 
-            "variable_length_dict": {
-                "t": 0, 
-                "t1": 0
-            }
+            "variable_length_dict": {}
         }
     }, 
     "trigger_dict": {

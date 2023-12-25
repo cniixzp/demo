@@ -3,12 +3,10 @@
         "1043623937": {
             "variable_dict": {
                 "FLOAT": {
-                    "\u8840\u7ffc\u9b54\u52033\u9636\u5b9e\u9645\u9020\u6210\u4f24\u5bb3": 0.0, 
                     "\u8840\u7ffc\u9b54\u52033\u9636\u989d\u5916\u4f24\u5bb3": 0.0
                 }
             }, 
             "variable_length_dict": {
-                "\u8840\u7ffc\u9b54\u52033\u9636\u5b9e\u9645\u9020\u6210\u4f24\u5bb3": 0, 
                 "\u8840\u7ffc\u9b54\u52033\u9636\u989d\u5916\u4f24\u5bb3": 0
             }
         }

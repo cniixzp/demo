@@ -280,25 +280,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "DYNAMIC_TRIGGER_INSTANCE": {
-            "jc": 0
-        }, 
-        "UNIT_ENTITY": {
-            "mb": 0
-        }
+        "DYNAMIC_TRIGGER_INSTANCE": {}, 
+        "UNIT_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "jc", 
-            "(jc)_2"
-        ], 
-        [
-            "mb", 
-            "(mb)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "jc": 0, 
-        "mb": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

@@ -297,9 +297,7 @@
         "DYNAMIC_TRIGGER_INSTANCE": {
             "trigger": 0
         }, 
-        "STRING": {
-            "string": ""
-        }, 
+        "STRING": {}, 
         "UNIT_ENTITY": {
             "Caster": 0
         }
@@ -314,10 +312,6 @@
                 [
                     "trigger", 
                     "(trigger)"
-                ], 
-                [
-                    "string", 
-                    "(string)"
                 ]
             ], 
             "is_struct": false, 
@@ -327,7 +321,6 @@
     ], 
     "variable_length_dict": {
         "Caster": 0, 
-        "string": 10, 
         "trigger": 0
     }
 }

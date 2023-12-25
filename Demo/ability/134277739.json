@@ -2,18 +2,13 @@
     "local_variable": {
         "1417539586": {
             "variable_dict": {
-                "INTEGER": {
-                    "i": 0
-                }, 
+                "INTEGER": {}, 
                 "PROJECTILE_ENTITY": {
-                    "check": 0, 
-                    "checkGroup": 0
+                    "check": 0
                 }
             }, 
             "variable_length_dict": {
-                "check": 0, 
-                "checkGroup": 10, 
-                "i": 0
+                "check": 0
             }
         }
     }, 
@@ -541,33 +536,10 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "INTEGER": {
-            "j": 0
-        }, 
-        "PROJECTILE_ENTITY": {
-            "\u6295\u5c04\u7269": 0
-        }, 
-        "ROUND_AREA": {
-            "\u5927\u62db\u8303\u56f4": 0
-        }
+        "INTEGER": {}, 
+        "PROJECTILE_ENTITY": {}, 
+        "ROUND_AREA": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u5927\u62db\u8303\u56f4", 
-            "\u5927\u62db\u8303\u56f4"
-        ], 
-        [
-            "\u6295\u5c04\u7269", 
-            "\u6295\u5c04\u7269"
-        ], 
-        [
-            "j", 
-            "j"
-        ]
-    ], 
-    "variable_length_dict": {
-        "j": 0, 
-        "\u5927\u62db\u8303\u56f4": 0, 
-        "\u6295\u5c04\u7269": 10
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

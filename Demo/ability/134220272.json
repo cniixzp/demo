@@ -486,25 +486,9 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "MODIFIER_ENTITY": {
-            "dot": 0
-        }, 
-        "PROJECTILE_ENTITY": {
-            "\u6295\u5c04\u7269": 0
-        }
+        "MODIFIER_ENTITY": {}, 
+        "PROJECTILE_ENTITY": {}
     }, 
-    "variable_group_info": [
-        [
-            "\u6295\u5c04\u7269", 
-            "(\u6295\u5c04\u7269)"
-        ], 
-        [
-            "dot", 
-            "(dot)"
-        ]
-    ], 
-    "variable_length_dict": {
-        "dot": 0, 
-        "\u6295\u5c04\u7269": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

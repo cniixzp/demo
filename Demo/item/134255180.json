@@ -1102,10 +1102,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "BOOLEAN": {
-            "InEffect?": false, 
-            "InShield?": false
-        }, 
+        "BOOLEAN": {}, 
         "DYNAMIC_TRIGGER_INSTANCE": {
             "Tr_shield": 0, 
             "Tr_shield_2": 0, 
@@ -1114,12 +1111,9 @@
         "ITEM_ENTITY": {
             "T": 0
         }, 
-        "MODIFIER_ENTITY": {
-            "halo": 0
-        }, 
+        "MODIFIER_ENTITY": {}, 
         "NEW_TIMER": {
-            "Timer_shield": -1, 
-            "timer_get": -1
+            "Timer_shield": -1
         }, 
         "UNIT_ENTITY": {
             "U": 0
@@ -1135,28 +1129,12 @@
             "(Tr_shield)"
         ], 
         [
-            "InShield?", 
-            "(InShield?)"
-        ], 
-        [
-            "InEffect?", 
-            "(InEffect?)"
-        ], 
-        [
             "Tr_shield_2", 
             "(Tr_shield_2)"
         ], 
         [
-            "halo", 
-            "(halo)"
-        ], 
-        [
             "U", 
             "(U)"
-        ], 
-        [
-            "timer_get", 
-            "(timer_get)"
         ], 
         [
             "T", 
@@ -1168,15 +1146,11 @@
         ]
     ], 
     "variable_length_dict": {
-        "InEffect?": 0, 
-        "InShield?": 0, 
         "T": 0, 
         "Timer_shield": 0, 
         "Tr_shield": 0, 
         "Tr_shield_2": 0, 
         "Tr_shield_3": 0, 
-        "U": 0, 
-        "halo": 0, 
-        "timer_get": 0
+        "U": 0
     }
 }

@@ -5,26 +5,11 @@
                 "BOOLEAN": {
                     "\u5f3a\u5316": false
                 }, 
-                "POINT": {
-                    "p": [
-                        0, 
-                        0, 
-                        0
-                    ]
-                }, 
-                "UNIT_ENTITY": {
-                    "U": 0, 
-                    "U2": 0
-                }, 
-                "UNIT_GROUP": {
-                    "US": []
-                }
+                "POINT": {}, 
+                "UNIT_ENTITY": {}, 
+                "UNIT_GROUP": {}
             }, 
             "variable_length_dict": {
-                "U": 0, 
-                "U2": 0, 
-                "US": 0, 
-                "p": 0, 
                 "\u5f3a\u5316": 0
             }
         }
@@ -810,22 +795,16 @@
     "trigger_version": "1.2", 
     "variable_dict": {
         "PROJECTILE_ENTITY": {
-            "\u6295\u5c04\u7269": 0, 
-            "\u6ce2": 0
+            "\u6295\u5c04\u7269": 0
         }
     }, 
     "variable_group_info": [
-        [
-            "\u6ce2", 
-            "(\u6ce2)"
-        ], 
         [
             "\u6295\u5c04\u7269", 
             "(\u6295\u5c04\u7269)"
         ]
     ], 
     "variable_length_dict": {
-        "\u6295\u5c04\u7269": 0, 
-        "\u6ce2": 0
+        "\u6295\u5c04\u7269": 0
     }
 }

@@ -963,16 +963,10 @@
         "DYNAMIC_TRIGGER_INSTANCE": {
             "\u71d5\u4ebaon": 0
         }, 
-        "MODIFIER_ENTITY": {
-            "test": 0
-        }, 
+        "MODIFIER_ENTITY": {}, 
         "NEW_TIMER": {}
     }, 
     "variable_group_info": [
-        [
-            "test", 
-            "(test)"
-        ], 
         [
             "\u71d5\u4eba\u8840\u8109", 
             "(\u71d5\u4eba\u8840\u8109)"
@@ -983,7 +977,6 @@
         ]
     ], 
     "variable_length_dict": {
-        "test": 0, 
         "\u71d5\u4ebaon": 0, 
         "\u71d5\u4eba\u8840\u8109": 0
     }

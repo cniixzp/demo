@@ -991,9 +991,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "NEW_TIMER": {
-            "bird_timer": -1
-        }, 
+        "NEW_TIMER": {}, 
         "PROJECTILE_ENTITY": {
             "bird_arrow": 0, 
             "normal_arrow": 0
@@ -1007,15 +1005,10 @@
         [
             "bird_arrow", 
             "(bird_arrow)_2"
-        ], 
-        [
-            "bird_timer", 
-            "(bird_timer)_2"
         ]
     ], 
     "variable_length_dict": {
         "bird_arrow": 0, 
-        "bird_timer": 0, 
         "normal_arrow": 0
     }
 }

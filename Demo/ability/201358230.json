@@ -863,17 +863,8 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "INTEGER": {
-            "arrow_type": 1
-        }
+        "INTEGER": {}
     }, 
-    "variable_group_info": [
-        [
-            "arrow_type", 
-            "(arrow_type)_2"
-        ]
-    ], 
-    "variable_length_dict": {
-        "arrow_type": 0
-    }
+    "variable_group_info": [], 
+    "variable_length_dict": {}
 }

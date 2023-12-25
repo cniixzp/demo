@@ -2,15 +2,8 @@
     "local_variable": {
         "2086318081": {
             "variable_dict": {
-                "INTEGER": {
-                    "i": 0
-                }, 
+                "INTEGER": {}, 
                 "POINT": {
-                    "p": [
-                        0, 
-                        0, 
-                        0
-                    ], 
                     "\u8150\u8680\u70b9": [
                         0, 
                         0, 
@@ -20,8 +13,6 @@
                 "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "i": 0, 
-                "p": 0, 
                 "\u8150\u8680\u70b9": 0
             }
         }
@@ -1023,9 +1014,7 @@
     ], 
     "trigger_version": "1.2", 
     "variable_dict": {
-        "NEW_TIMER": {
-            "\u8352\u829c": -1
-        }, 
+        "NEW_TIMER": {}, 
         "PROJECTILE_ENTITY": {
             "\u6295\u5c04\u7269": 0
         }, 
@@ -1041,15 +1030,10 @@
         [
             "\u76ee\u6807", 
             "(\u76ee\u6807)_2"
-        ], 
-        [
-            "\u8352\u829c", 
-            "(\u8352\u829c)_2"
         ]
     ], 
     "variable_length_dict": {
         "\u6295\u5c04\u7269": 0, 
-        "\u76ee\u6807": 0, 
-        "\u8352\u829c": 0
+        "\u76ee\u6807": 0
     }
 }

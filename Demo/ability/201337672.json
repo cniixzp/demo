@@ -559,15 +559,9 @@
         }, 
         "INTEGER": {}, 
         "NEW_TIMER": {}, 
-        "SFX_ENTITY": {
-            "tx": 0
-        }
+        "SFX_ENTITY": {}
     }, 
     "variable_group_info": [
-        [
-            "tx", 
-            "tx"
-        ], 
         [
             "cnt", 
             "cnt"
@@ -579,7 +573,6 @@
     ], 
     "variable_length_dict": {
         "cnt": 0, 
-        "trg": 0, 
-        "tx": 0
+        "trg": 0
     }
 }

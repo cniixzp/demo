@@ -841,10 +841,7 @@
             "knife": 0, 
             "knife_2": 0
         }, 
-        "STRING": {
-            "anim": "", 
-            "\u666e\u653b\u52a8\u4f5c": ""
-        }
+        "STRING": {}
     }, 
     "variable_group_info": [
         [
@@ -858,21 +855,11 @@
         [
             "\u66b4\u51fb", 
             "\u66b4\u51fb"
-        ], 
-        [
-            "\u666e\u653b\u52a8\u4f5c", 
-            "\u666e\u653b\u52a8\u4f5c"
-        ], 
-        [
-            "anim", 
-            "anim"
         ]
     ], 
     "variable_length_dict": {
-        "anim": 0, 
         "knife": 0, 
         "knife_2": 0, 
-        "\u666e\u653b\u52a8\u4f5c": 0, 
         "\u66b4\u51fb": 0
     }
 }

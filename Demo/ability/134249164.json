@@ -6685,8 +6685,7 @@
         }, 
         "UNIT_ENTITY": {
             "target": null, 
-            "\u4e0a\u4e00\u4e2a\u76ee\u6807": 0, 
-            "\u76ee\u6807\u5355\u4f4d": 0
+            "\u4e0a\u4e00\u4e2a\u76ee\u6807": 0
         }, 
         "UNIT_GROUP": {
             "units": []
@@ -6710,10 +6709,6 @@
             "(weapon_skill)"
         ], 
         [
-            "\u76ee\u6807\u5355\u4f4d", 
-            "\u76ee\u6807\u5355\u4f4d_2"
-        ], 
-        [
             "\u4e0a\u4e00\u4e2a\u76ee\u6807", 
             "\u4e0a\u4e00\u4e2a\u76ee\u6807"
         ]
@@ -6723,7 +6718,6 @@
         "target": 0, 
         "units": 0, 
         "weapon_skill": 0, 
-        "\u4e0a\u4e00\u4e2a\u76ee\u6807": 0, 
-        "\u76ee\u6807\u5355\u4f4d": 0
+        "\u4e0a\u4e00\u4e2a\u76ee\u6807": 0
     }
 }

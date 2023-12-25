@@ -1,5 +1,6 @@
 {
     "unit": {
+<<<<<<< HEAD
         "1": {
             "components": {
                 "__attr": {
@@ -474,6 +475,8 @@
             "type": 1, 
             "unit_id": 6
         }, 
+=======
+>>>>>>> dev
         "7": {
             "components": {
                 "__attr": {
@@ -671,6 +674,7 @@
             "name": "\u9776\u5b50", 
             "type": 4, 
             "unit_id": 9
+<<<<<<< HEAD
         }, 
         "10": {
             "components": {
@@ -1480,6 +1484,8 @@
             "name": "\u6811\u9b54", 
             "type": 4, 
             "unit_id": 22
+=======
+>>>>>>> dev
         }
     }
 }
