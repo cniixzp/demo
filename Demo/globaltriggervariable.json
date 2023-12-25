@@ -1,246 +1,50 @@
 {
-<<<<<<< HEAD
     "local_variable": {
-        "35459076": {
+        "242085944": {
             "variable_dict": {
-                "STRING": {
-                    "message": "", 
-                    "str": ""
+                "SOUND_ENTITY": {
+                    "sound": 0
                 }
             }, 
             "variable_length_dict": {
-                "message": 0, 
-                "str": 0
+                "sound": 0
             }
         }, 
-        "111153153": {
+        "292417551": {
             "variable_dict": {
-                "BOOLEAN": {}, 
-                "NEW_TIMER": {}, 
-                "PLAYER": {}, 
-                "UNIT_ENTITY": {
-                    "\u77f3\u9b542": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "\u77f3\u9b542": 0
-            }
-        }, 
-        "180101192": {
-            "variable_dict": {
-                "DYNAMIC_TRIGGER_INSTANCE": {
-                    "\u89e6\u53d11": 0, 
-                    "\u89e6\u53d12": 0, 
-                    "\u89e6\u53d13": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "\u89e6\u53d11": 0, 
-                "\u89e6\u53d12": 0, 
-                "\u89e6\u53d13": 0
-            }
-        }, 
-        "199635007": {
-            "variable_dict": {
-                "ANGLE": {
-                    "\u671d\u5411": 0.0
+                "BOOLEAN": {
+                    "\u662f\u5426\u8981\u7ed3\u675f\u4e86": false
+                }, 
+                "FLOAT": {
+                    "distance": 0.0
                 }, 
                 "INTEGER": {
-                    "\u9009\u62e9\u6280\u80fd": 0
-                }, 
-                "PROJECTILE_ENTITY": {
-                    "\u6295\u5c04\u7269": 0
-                }, 
-                "ROUND_AREA": {
-                    "\u5224\u65ad\u5706": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "\u751f\u6210\u5355\u4f4d": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "\u5224\u65ad\u5706": 0, 
-                "\u6295\u5c04\u7269": 0, 
-                "\u671d\u5411": 0, 
-                "\u751f\u6210\u5355\u4f4d": 0, 
-                "\u9009\u62e9\u6280\u80fd": 0
-            }
-        }, 
-        "331534359": {
-            "variable_dict": {
-                "INTEGER": {
-                    "loops": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "a1": 0, 
-                    "a2": 0, 
-                    "a3": 0, 
-                    "a4": 0, 
-                    "a5": 0, 
-                    "a6": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "a1": 0, 
-                "a2": 0, 
-                "a3": 0, 
-                "a4": 0, 
-                "a5": 0, 
-                "a6": 0, 
-                "loops": 0
-            }
-        }, 
-        "350629950": {
-            "variable_dict": {
-                "ANGLE": {
-                    "\u671d\u5411\u4e3b\u89d2": 0.0
-                }, 
-                "FLOAT": {
-                    "\u4e0e\u4e3b\u89d2distance": 0.0
-                }
-            }, 
-            "variable_length_dict": {
-                "\u4e0e\u4e3b\u89d2distance": 0, 
-                "\u671d\u5411\u4e3b\u89d2": 0
-            }
-        }, 
-        "376922164": {
-            "variable_dict": {
-                "FLOAT": {
-                    "realMoveAngle": 0.0, 
-                    "realSpeedBase": 0.0, 
-                    "realSpeedView": 0.0, 
-                    "realUnitSpeed": 0.0
-                }, 
-                "STRING": {
-                    "comandMode": ""
-                }, 
-                "UNIT_ENTITY": {
-                    "unit": 0, 
-                    "\u5355\u4f4d": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "comandMode": 0, 
-                "realMoveAngle": 0, 
-                "realSpeedBase": 0, 
-                "realSpeedView": 0, 
-                "realUnitSpeed": 0, 
-                "unit": 0, 
-                "\u5355\u4f4d": 0
-            }
-        }, 
-        "659112003": {
-            "variable_dict": {
-                "PLAYER": {
-                    "player": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "player": 0
-            }
-        }, 
-        "706924597": {
-            "variable_dict": {
-                "FLOAT": {
-                    "\u79fb\u901f": 0.0
+                    "\u5f53\u524d\u5bf9\u8bddindex": 0, 
+                    "\u76ee\u6807\u5bf9\u8bddindex": 0
                 }, 
                 "NEW_TIMER": {
-                    "\u79fb\u52a8\u8ba1\u65f6\u5668": -1
-                }
-            }, 
-            "variable_length_dict": {
-                "\u79fb\u52a8\u8ba1\u65f6\u5668": 0, 
-                "\u79fb\u901f": 0
-            }
-        }, 
-        "738787338": {
-            "variable_dict": {
-                "FLOAT": {
-                    "realX": 0.0, 
-                    "realY": 0.0
+                    "\u4e3b\u8ba1\u65f6\u5668": -1, 
+                    "\u8ddd\u79bb\u8ba1\u65f6\u5668": -1
                 }, 
-                "INTEGER": {
-                    "intX": 0, 
-                    "intY": 0
-                }, 
-                "POINT": {
-                    "pointWorld": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0, 
-                            0
-                        ]
-                    }
-                }
-            }, 
-            "variable_length_dict": {
-                "intX": 0, 
-                "intY": 0, 
-                "pointWorld": 0, 
-                "realX": 0, 
-                "realY": 0
-            }
-        }, 
-        "757002246": {
-            "variable_dict": {
-                "FLOAT": {
-                    "realCameraAngle": 0.0, 
-                    "realMoveAngle": 0.0, 
-                    "realMoveSpeed": 0.0
-                }, 
-                "INTEGER": {
-                    "x": 0, 
-                    "y": 0
-                }, 
-                "PLAYER": {
-                    "player": 0
+                "TABLE": {
+                    "\u591a\u7ef4\u8868": null
                 }, 
                 "UNIT_ENTITY": {
-                    "unit": 0
+                    "\u5bf9\u8bdd\u5355\u4f4d": 0
                 }
             }, 
             "variable_length_dict": {
-                "player": 0, 
-                "realCameraAngle": 0, 
-                "realMoveAngle": 0, 
-                "realMoveSpeed": 0, 
-                "unit": 0, 
-                "x": 0, 
-                "y": 0
+                "distance": 0, 
+                "\u4e3b\u8ba1\u65f6\u5668": 0, 
+                "\u591a\u7ef4\u8868": 0, 
+                "\u5bf9\u8bdd\u5355\u4f4d": 0, 
+                "\u5f53\u524d\u5bf9\u8bddindex": 0, 
+                "\u662f\u5426\u8981\u7ed3\u675f\u4e86": 0, 
+                "\u76ee\u6807\u5bf9\u8bddindex": 0, 
+                "\u8ddd\u79bb\u8ba1\u65f6\u5668": 0
             }
         }, 
-        "774701104": {
-            "variable_dict": {
-                "INTEGER": {
-                    "loop": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "loop": 0
-            }
-        }, 
-        "797679681": {
-            "variable_dict": {
-                "INTEGER": {
-                    "int": 0, 
-                    "loop": 0, 
-                    "max": 0, 
-                    "\u66ff\u8eab\u5076\u5f53\u524d\u503c": 0, 
-                    "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
-                }, 
-                "NEW_TIMER": {}
-            }, 
-            "variable_length_dict": {
-                "int": 0, 
-                "loop": 0, 
-                "max": 0, 
-                "\u66ff\u8eab\u5076\u5f53\u524d\u503c": 0, 
-                "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
-            }
-        }, 
-        "824569906": {
+        "376303643": {
             "variable_dict": {
                 "ABILITY_NAME": {
                     "\u5f53\u524d\u6280\u80fd": 0
@@ -265,61 +69,7 @@
                 "\u5f53\u524d\u6280\u80fd": 0
             }
         }, 
-        "965435459": {
-            "variable_dict": {
-                "FLOAT": {
-                    "\u79fb\u901f": 0.0
-                }
-            }, 
-            "variable_length_dict": {
-                "\u79fb\u901f": 0
-            }
-        }, 
-        "966602815": {
-            "variable_dict": {
-                "ANGLE": {
-                    "\u79fb\u52a8\u65b9\u5411": 0.0
-                }, 
-                "FLOAT": {
-                    "\u79fb\u52a8\u65f6\u95f4": 0.0, 
-                    "\u79fb\u52a8\u8ddd\u79bb": 0.0
-                }, 
-                "UNIT_ENTITY": {
-                    "\u5355\u4f4d": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "\u5355\u4f4d": 0, 
-                "\u79fb\u52a8\u65b9\u5411": 0, 
-                "\u79fb\u52a8\u65f6\u95f4": 0, 
-                "\u79fb\u52a8\u8ddd\u79bb": 0
-            }
-        }, 
-        "1030037516": {
-            "variable_dict": {
-                "FLOAT": {
-                    "realSpeedBase": 0.0, 
-                    "realSpeedView": 0.0, 
-                    "realUnitSpeed": 0.0, 
-                    "\u6309\u4e0b\u65f6\u957f": 0.0
-                }, 
-                "STRING": {
-                    "comandMode": ""
-                }, 
-                "UNIT_ENTITY": {
-                    "unit": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "comandMode": 0, 
-                "realSpeedBase": 0, 
-                "realSpeedView": 0, 
-                "realUnitSpeed": 0, 
-                "unit": 0, 
-                "\u6309\u4e0b\u65f6\u957f": 0
-            }
-        }, 
-        "1126559793": {
+        "393080858": {
             "variable_dict": {
                 "ABILITY_NAME": {
                     "\u5f53\u524d\u6280\u80fd": 0
@@ -347,7 +97,41 @@
                 "\u5f53\u524d\u6280\u80fd": 0
             }
         }, 
-        "1135632455": {
+        "426635282": {
+            "variable_dict": {
+                "FLOAT": {
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "INTEGER": {
+                    "loop": 0, 
+                    "max": 0, 
+                    "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "loop": 0, 
+                "max": 0, 
+                "x": 0, 
+                "y": 0, 
+                "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
+            }
+        }, 
+        "443412540": {
+            "variable_dict": {
+                "ANGLE": {
+                    "\u671d\u5411\u4e3b\u89d2": 0.0
+                }, 
+                "FLOAT": {
+                    "\u4e0e\u4e3b\u89d2distance": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u4e0e\u4e3b\u89d2distance": 0, 
+                "\u671d\u5411\u4e3b\u89d2": 0
+            }
+        }, 
+        "644739112": {
             "variable_dict": {
                 "DYNAMIC_TRIGGER_INSTANCE": {
                     "\u89e6\u53d1": 0
@@ -361,32 +145,15 @@
                 "\u89e6\u53d1": 10
             }
         }, 
-        "1180364841": {
-            "variable_dict": {
-                "INTEGER": {
-                    "key": 0, 
-                    "loops": 0
-                }, 
-                "UI_COMP": {}, 
-                "UNIT_ENTITY": {}
-            }, 
-            "variable_length_dict": {
-                "key": 0, 
-                "loops": 0
-            }
-        }, 
-        "1313636363": {
+        "695070734": {
             "variable_dict": {
                 "FLOAT": {
-                    "realX": 0.0, 
-                    "realY": 0.0
-                }, 
-                "INTEGER": {
-                    "intX": 0, 
-                    "intY": 0
+                    "\u65b9\u54111": 0.0, 
+                    "\u65b9\u54112": 0.0, 
+                    "\u8ddd\u79bb": 0.0
                 }, 
                 "POINT": {
-                    "point": {
+                    "\u4f24\u5bb3\u70b9": {
                         "__tuple__": true, 
                         "items": [
                             0, 
@@ -397,69 +164,18 @@
                 }
             }, 
             "variable_length_dict": {
-                "intX": 0, 
-                "intY": 0, 
-                "point": 0, 
-                "realX": 0, 
-                "realY": 0
+                "\u4f24\u5bb3\u70b9": 0, 
+                "\u65b9\u54111": 0, 
+                "\u65b9\u54112": 0, 
+                "\u8ddd\u79bb": 0
             }
         }, 
-        "1335484460": {
-            "variable_dict": {
-                "BOOLEAN": {
-                    "\u662f\u5426\u8981\u7ed3\u675f\u4e86": false
-                }, 
-                "FLOAT": {
-                    "distance": 0.0
-                }, 
-                "INTEGER": {
-                    "\u5f53\u524d\u5bf9\u8bddindex": 0, 
-                    "\u76ee\u6807\u5bf9\u8bddindex": 0
-                }, 
-                "NEW_TIMER": {
-                    "\u4e3b\u8ba1\u65f6\u5668": -1, 
-                    "\u65f6\u95f4\u8ba1\u65f6\u5668": -1, 
-                    "\u8ddd\u79bb\u8ba1\u65f6\u5668": -1
-                }, 
-                "STRING": {}, 
-                "TABLE": {
-                    "\u591a\u7ef4\u8868": null
-                }, 
-                "UNIT_ENTITY": {
-                    "\u5bf9\u8bdd\u5355\u4f4d": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "distance": 0, 
-                "\u4e3b\u8ba1\u65f6\u5668": 0, 
-                "\u591a\u7ef4\u8868": 0, 
-                "\u5bf9\u8bdd\u5355\u4f4d": 0, 
-                "\u5f53\u524d\u5bf9\u8bddindex": 0, 
-                "\u65f6\u95f4\u8ba1\u65f6\u5668": 0, 
-                "\u662f\u5426\u8981\u7ed3\u675f\u4e86": 0, 
-                "\u76ee\u6807\u5bf9\u8bddindex": 0, 
-                "\u8ddd\u79bb\u8ba1\u65f6\u5668": 0
-            }
-        }, 
-        "1485353026": {
-            "variable_dict": {
-                "BOOLEAN": {
-                    "key": true
-                }
-            }, 
-            "variable_length_dict": {
-                "key": 0
-            }
-        }, 
-        "1512071175": {
+        "711847939": {
             "variable_dict": {
                 "FLOAT": {
                     "realFaceAngle": 0.0, 
                     "realMoveAngle": 0.0, 
                     "realMoveDistance": 0.0
-                }, 
-                "INTEGER": {
-                    "intSpeed": 0
                 }, 
                 "PLAYER": {
                     "player": 0
@@ -491,7 +207,6 @@
             }, 
             "variable_length_dict": {
                 "comandMode": 0, 
-                "intSpeed": 0, 
                 "player": 0, 
                 "pointAim": 0, 
                 "pointOri": 0, 
@@ -501,7 +216,7 @@
                 "unit": 0
             }
         }, 
-        "1570582590": {
+        "745402384": {
             "variable_dict": {
                 "ANGLE": {
                     "\u89d2\u5ea6": 0.0
@@ -519,158 +234,53 @@
                 "\u8ddd\u79bb": 0
             }
         }, 
-        "1667633203": {
+        "812511269": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u65b9\u54111": 0.0, 
-                    "\u65b9\u54112": 0.0, 
-                    "\u8ddd\u79bb": 0.0
-                }, 
-                "POINT": {
-                    "\u4f24\u5bb3\u70b9": {
-                        "__tuple__": true, 
-                        "items": [
-                            0, 
-                            0, 
-                            0
-                        ]
-                    }
+                "INTEGER": {
+                    "loop": 0
                 }
             }, 
             "variable_length_dict": {
-                "\u4f24\u5bb3\u70b9": 0, 
-                "\u65b9\u54111": 0, 
-                "\u65b9\u54112": 0, 
-                "\u8ddd\u79bb": 0
+                "loop": 0
             }
         }, 
-        "1736224818": {
+        "846065725": {
             "variable_dict": {
-                "FLOAT": {
-                    "\u653b\u51fb\u529b": 0.0, 
-                    "\u653b\u51fb\u65b9\u5411": 0.0, 
-                    "\u653b\u51fb\u8303\u56f41": 0.0, 
-                    "\u653b\u51fb\u8303\u56f42": 0.0
+                "ANGLE": {
+                    "\u671d\u5411": 0.0
                 }, 
                 "INTEGER": {
-                    "\u653b\u51fb\u7c7b\u578b": 0
+                    "\u9009\u62e9\u6280\u80fd": 0
+                }, 
+                "PROJECTILE_ENTITY": {
+                    "\u6295\u5c04\u7269": 0
+                }, 
+                "ROUND_AREA": {
+                    "\u5224\u65ad\u5706": 0
                 }, 
                 "UNIT_ENTITY": {
-                    "unit": 0, 
-                    "\u653b\u51fb\u5355\u4f4d": 0
+                    "\u751f\u6210\u5355\u4f4d": 0
                 }
             }, 
             "variable_length_dict": {
-                "unit": 0, 
-                "\u653b\u51fb\u529b": 0, 
-                "\u653b\u51fb\u5355\u4f4d": 0, 
-                "\u653b\u51fb\u65b9\u5411": 0, 
-                "\u653b\u51fb\u7c7b\u578b": 0, 
-                "\u653b\u51fb\u8303\u56f41": 0, 
-                "\u653b\u51fb\u8303\u56f42": 0
+                "\u5224\u65ad\u5706": 0, 
+                "\u6295\u5c04\u7269": 0, 
+                "\u671d\u5411": 0, 
+                "\u751f\u6210\u5355\u4f4d": 0, 
+                "\u9009\u62e9\u6280\u80fd": 0
             }
         }, 
-        "1742979109": {
-            "variable_dict": {
-                "FLOAT": {
-                    "\u6309\u4e0b\u65f6\u957f": 0.0
-                }
-            }, 
-            "variable_length_dict": {
-                "\u6309\u4e0b\u65f6\u957f": 0
-            }
-        }, 
-        "1765576768": {
-            "variable_dict": {
-                "FLOAT": {
-                    "x": 0.0, 
-                    "y": 0.0
-                }, 
-                "INTEGER": {
-                    "loop": 0, 
-                    "max": 0, 
-                    "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
-                }, 
-                "UI_COMP": {}
-            }, 
-            "variable_length_dict": {
-                "loop": 0, 
-                "max": 0, 
-                "x": 0, 
-                "y": 0, 
-                "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
-            }
-        }, 
-        "1788084265": {
+        "896397335": {
             "variable_dict": {
                 "BOOLEAN": {
-                    "key": false
-                }, 
-                "INTEGER": {
-                    "loops": 0
-                }, 
-                "SOUND_ENTITY": {
-                    "sound": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "a": 0
+                    "key": true
                 }
             }, 
             "variable_length_dict": {
-                "a": 10, 
-                "key": 0, 
-                "loops": 0, 
-                "sound": 0
-            }
-        }, 
-        "1788928003": {
-            "variable_dict": {
-                "FLOAT": {
-                    "\u79fb\u901f": 0.0
-                }, 
-                "NEW_TIMER": {
-                    "\u79fb\u52a8\u8ba1\u65f6\u5668": -1
-                }
-            }, 
-            "variable_length_dict": {
-                "\u79fb\u52a8\u8ba1\u65f6\u5668": 0, 
-                "\u79fb\u901f": 0
-            }
-        }, 
-        "1837813825": {
-            "variable_dict": {
-                "INTEGER": {
-                    "\u7c7b\u578b": 0
-                }, 
-                "PLAYER": {
-                    "player": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "unit": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "player": 0, 
-                "unit": 0, 
-                "\u7c7b\u578b": 0
-            }
-        }, 
-        "1848844328": {
-            "variable_dict": {
-                "BOOLEAN": {
-                    "isFirstBL": false
-                }, 
-                "INTEGER": {
-                    "key": 0
-                }, 
-                "UNIT_ENTITY": {}
-            }, 
-            "variable_length_dict": {
-                "isFirstBL": 0, 
                 "key": 0
             }
         }, 
-        "1948131333": {
+        "963506182": {
             "variable_dict": {
                 "FLOAT": {
                     "realSign": 0.0, 
@@ -729,31 +339,7 @@
                 "yTemp": 0
             }
         }, 
-        "2013241371": {
-            "variable_dict": {
-                "INTEGER": {
-                    "loops": 0
-                }, 
-                "UNIT_ENTITY": {
-                    "a": 0, 
-                    "b": 0, 
-                    "c": 0, 
-                    "d": 0, 
-                    "e": 0, 
-                    "f": 0
-                }
-            }, 
-            "variable_length_dict": {
-                "a": 10, 
-                "b": 10, 
-                "c": 10, 
-                "d": 10, 
-                "e": 10, 
-                "f": 10, 
-                "loops": 0
-            }
-        }, 
-        "2065731592": {
+        "1030615044": {
             "variable_dict": {
                 "FLOAT": {
                     "realSpeedBase": 0.0, 
@@ -781,11 +367,293 @@
                 "unit": 0
             }
         }, 
-        "2135003183": {
+        "1080946690": {
             "variable_dict": {
-                "INTEGER": {}
+                "FLOAT": {
+                    "realCameraAngle": 0.0, 
+                    "realMoveAngle": 0.0, 
+                    "realMoveSpeed": 0.0
+                }, 
+                "INTEGER": {
+                    "x": 0, 
+                    "y": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
             }, 
-            "variable_length_dict": {}
+            "variable_length_dict": {
+                "player": 0, 
+                "realCameraAngle": 0, 
+                "realMoveAngle": 0, 
+                "realMoveSpeed": 0, 
+                "unit": 0, 
+                "x": 0, 
+                "y": 0
+            }
+        }, 
+        "1148055560": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realX": 0.0, 
+                    "realY": 0.0
+                }, 
+                "INTEGER": {
+                    "intX": 0, 
+                    "intY": 0
+                }, 
+                "POINT": {
+                    "point": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "intX": 0, 
+                "intY": 0, 
+                "point": 0, 
+                "realX": 0, 
+                "realY": 0
+            }
+        }, 
+        "1248718855": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realX": 0.0, 
+                    "realY": 0.0
+                }, 
+                "INTEGER": {
+                    "intX": 0, 
+                    "intY": 0
+                }, 
+                "POINT": {
+                    "pointWorld": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0, 
+                            0
+                        ]
+                    }
+                }
+            }, 
+            "variable_length_dict": {
+                "intX": 0, 
+                "intY": 0, 
+                "pointWorld": 0, 
+                "realX": 0, 
+                "realY": 0
+            }
+        }, 
+        "1466822675": {
+            "variable_dict": {
+                "INTEGER": {
+                    "int": 0, 
+                    "loop": 0, 
+                    "max": 0, 
+                    "\u66ff\u8eab\u5076\u5f53\u524d\u503c": 0, 
+                    "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "int": 0, 
+                "loop": 0, 
+                "max": 0, 
+                "\u66ff\u8eab\u5076\u5f53\u524d\u503c": 0, 
+                "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
+            }
+        }, 
+        "1668149283": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u79fb\u901f": 0.0
+                }, 
+                "NEW_TIMER": {
+                    "\u79fb\u52a8\u8ba1\u65f6\u5668": -1
+                }
+            }, 
+            "variable_length_dict": {
+                "\u79fb\u52a8\u8ba1\u65f6\u5668": 0, 
+                "\u79fb\u901f": 0
+            }
+        }, 
+        "1718480961": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u79fb\u901f": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u79fb\u901f": 0
+            }
+        }, 
+        "1785589781": {
+            "variable_dict": {
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "unit": 0
+            }
+        }, 
+        "1835921409": {
+            "variable_dict": {
+                "STRING": {
+                    "message": "", 
+                    "str": ""
+                }
+            }, 
+            "variable_length_dict": {
+                "message": 0, 
+                "str": 0
+            }
+        }, 
+        "1953361972": {
+            "variable_dict": {
+                "INTEGER": {
+                    "key": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 0
+            }
+        }, 
+        "1986916361": {
+            "variable_dict": {
+                "INTEGER": {
+                    "\u7c7b\u578b": 0
+                }, 
+                "PLAYER": {
+                    "player": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "player": 0, 
+                "unit": 0, 
+                "\u7c7b\u578b": 0
+            }
+        }, 
+        "1986916402": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "isFirstBL": false
+                }, 
+                "INTEGER": {
+                    "key": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "isFirstBL": 0, 
+                "key": 0
+            }
+        }, 
+        "2003693599": {
+            "variable_dict": {
+                "INTEGER": {
+                    "loops": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "a": 0, 
+                    "b": 0, 
+                    "c": 0, 
+                    "d": 0, 
+                    "e": 0, 
+                    "f": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "a": 10, 
+                "b": 10, 
+                "c": 10, 
+                "d": 10, 
+                "e": 10, 
+                "f": 10, 
+                "loops": 0
+            }
+        }, 
+        "2020470801": {
+            "variable_dict": {
+                "ANGLE": {
+                    "\u79fb\u52a8\u65b9\u5411": 0.0
+                }, 
+                "FLOAT": {
+                    "\u79fb\u52a8\u65f6\u95f4": 0.0, 
+                    "\u79fb\u52a8\u8ddd\u79bb": 0.0
+                }, 
+                "UNIT_ENTITY": {
+                    "\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u5355\u4f4d": 0, 
+                "\u79fb\u52a8\u65b9\u5411": 0, 
+                "\u79fb\u52a8\u65f6\u95f4": 0, 
+                "\u79fb\u52a8\u8ddd\u79bb": 0
+            }
+        }, 
+        "2037248005": {
+            "variable_dict": {
+                "FLOAT": {
+                    "realMoveAngle": 0.0, 
+                    "realSpeedBase": 0.0, 
+                    "realSpeedView": 0.0, 
+                    "realUnitSpeed": 0.0
+                }, 
+                "STRING": {
+                    "comandMode": ""
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0, 
+                    "\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "comandMode": 0, 
+                "realMoveAngle": 0, 
+                "realSpeedBase": 0, 
+                "realSpeedView": 0, 
+                "realUnitSpeed": 0, 
+                "unit": 0, 
+                "\u5355\u4f4d": 0
+            }
+        }, 
+        "2054025229": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u653b\u51fb\u529b": 0.0, 
+                    "\u653b\u51fb\u65b9\u5411": 0.0, 
+                    "\u653b\u51fb\u8303\u56f41": 0.0, 
+                    "\u653b\u51fb\u8303\u56f42": 0.0
+                }, 
+                "INTEGER": {
+                    "\u653b\u51fb\u7c7b\u578b": 0
+                }, 
+                "UNIT_ENTITY": {
+                    "unit": 0, 
+                    "\u653b\u51fb\u5355\u4f4d": 0
+                }
+            }, 
+            "variable_length_dict": {
+                "unit": 0, 
+                "\u653b\u51fb\u529b": 0, 
+                "\u653b\u51fb\u5355\u4f4d": 0, 
+                "\u653b\u51fb\u65b9\u5411": 0, 
+                "\u653b\u51fb\u7c7b\u578b": 0, 
+                "\u653b\u51fb\u8303\u56f41": 0, 
+                "\u653b\u51fb\u8303\u56f42": 0
+            }
         }
     }, 
     "variable_comments": {}, 
@@ -801,8 +669,7 @@
             "MaxEnergy": 100.0, 
             "Qvalue": 0.0, 
             "ShiftConsume": 30.0, 
-            "\u8fde\u51fb\u524d\u7f6e": 0.0, 
-            "\u94fe\u63a5\u8303\u56f4": 1200.0
+            "\u8fde\u51fb\u524d\u7f6e": 0.0
         }, 
         "INTEGER": {
             "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15": 0, 
@@ -812,21 +679,21 @@
             "\u8fdb\u5ea6\u7ba1\u7406": 1
         }, 
         "LINK_SFX_ENTITY": {
-            "\u63a7\u5236\u94fe\u63a5": 0, 
-            "\u767d\u8272\u94fe\u63a5": 0, 
-            "\u7ea2\u8272\u94fe\u63a5": 0, 
-            "\u91d1\u8272\u94fe\u63a5": 0
+            "\u63a7\u5236\u94fe\u63a5": null, 
+            "\u767d\u8272\u94fe\u63a5": null, 
+            "\u7ea2\u8272\u94fe\u63a5": null, 
+            "\u91d1\u8272\u94fe\u63a5": null
         }, 
         "MODIFIER_ENTITY": {
-            "\u5996\u5080\u6807\u8bb0": 0, 
-            "\u706b\u6807\u8bb01": 0, 
-            "\u767d\u8272\u62a4\u76fe": 0, 
-            "\u767d\u8272\u6807\u8bb0": 0, 
-            "\u91d1\u6807\u8bb01": 0
+            "\u5996\u5080\u6807\u8bb0": null, 
+            "\u706b\u6807\u8bb01": null, 
+            "\u767d\u8272\u62a4\u76fe": null, 
+            "\u767d\u8272\u6807\u8bb0": null, 
+            "\u91d1\u6807\u8bb01": null
         }, 
         "NEW_TIMER": {}, 
         "PLAYER": {
-            "PlayerLead": 0
+            "PlayerLead": null
         }, 
         "POINT": {
             "\u9f99\u5e99\u70b9": {
@@ -839,7 +706,7 @@
             }
         }, 
         "PROJECTILE_ENTITY": {
-            "\u706b\u6807\u8bb0": 0, 
+            "\u706b\u6807\u8bb0": null, 
             "\u9f99\u5e99\u70b9\u9ed1\u96fe": 0
         }, 
         "STRING": {
@@ -855,11 +722,11 @@
             "\u98de\u5251": ""
         }, 
         "UNIT_ENTITY": {
-            "MainPlayer": 0, 
+            "MainPlayer": null, 
             "\u5148\u7956\u6b8b\u9b42": 0, 
             "\u5c0f\u5b69\u6b8b\u9b42": 0, 
-            "\u7cbe\u82f1BOSS": 0, 
-            "\u94fe\u63a5\u76ee\u6807": 0
+            "\u7cbe\u82f1BOSS": null, 
+            "\u94fe\u63a5\u76ee\u6807": null
         }, 
         "UNIT_GROUP": {
             "\u62a2\u5b9d\u77f3\u602a\u7269": []
@@ -868,333 +735,284 @@
     }, 
     "variable_group_info": [
         {
-            "group": [
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "MainPlayer", 
-                        "MainPlayer"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "PlayerLead", 
-                        "PlayerLead"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "BoolDebug", 
-                        "BoolDebug"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "MaxEnergy", 
-                        "MaxEnergy"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "Energy", 
-                        "Energy"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "ShiftConsume", 
-                        "ShiftConsume"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "Qvalue", 
-                        "Qvalue"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "IsInNewHandRoad", 
-                        "IsInNewHandRoad"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u5148\u7956\u6b8b\u9b42", 
-                        "\u5148\u7956\u6b8b\u9b42"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u98de\u5251", 
-                        "\u98de\u5251"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u706b\u6807\u8bb0", 
-                        "\u706b\u6807\u8bb0"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u8fde\u51fb\u524d\u7f6e", 
-                        "\u8fde\u51fb\u524d\u7f6e"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u9f99\u5e99\u70b9\u9ed1\u96fe", 
-                        "\u9f99\u5e99\u70b9\u9ed1\u96fe"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u9f99\u5e99\u70b9", 
-                        "\u9f99\u5e99\u70b9"
-                    ]
-                }
-            ], 
-            "key": "03KpsKChEe6vXIwWRYu404", 
-            "name": "\u5176\u4ed6"
+            "__tuple__": true, 
+            "items": [
+                "PlayerLead", 
+                "PlayerLead"
+            ]
         }, 
         {
-            "group": [
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u91d1\u8272\u94fe\u63a5", 
-                        "\u91d1\u8272\u94fe\u63a5"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u7ea2\u8272\u94fe\u63a5", 
-                        "\u7ea2\u8272\u94fe\u63a5"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u767d\u8272\u94fe\u63a5", 
-                        "\u767d\u8272\u94fe\u63a5"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u94fe\u63a5\u8303\u56f4", 
-                        "\u94fe\u63a5\u8303\u56f4"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u94fe\u63a5\u76ee\u6807", 
-                        "\u94fe\u63a5\u76ee\u6807"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u63a7\u5236\u94fe\u63a5", 
-                        "\u63a7\u5236\u94fe\u63a5"
-                    ]
-                }
-            ], 
-            "key": "lQYy4Z-BEe6ZWowWRYu402", 
-            "name": "\u94fe\u63a5"
+            "__tuple__": true, 
+            "items": [
+                "\u94fe\u63a5\u76ee\u6807", 
+                "\u94fe\u63a5\u76ee\u6807"
+            ]
         }, 
         {
-            "group": [
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u8fdb\u5ea6\u7ba1\u7406", 
-                        "\u8fdb\u5ea6\u7ba1\u7406"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u5c0f\u5b69\u6b8b\u9b42", 
-                        "\u5c0f\u5b69\u6b8b\u9b42"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u62a2\u5b9d\u77f3\u602a\u7269", 
-                        "\u62a2\u5b9d\u77f3\u602a\u7269"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u7cbe\u82f1BOSS", 
-                        "\u7cbe\u82f1BOSS"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6", 
-                        "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6"
-                    ]
-                }
-            ], 
-            "key": "8nD2cJ9VEe6TWWAYlSkSCf", 
-            "name": "\u7b2c\u4e00\u7ae0\u8282"
+            "__tuple__": true, 
+            "items": [
+                "\u63a7\u5236\u94fe\u63a5", 
+                "\u63a7\u5236\u94fe\u63a5"
+            ]
         }, 
         {
-            "group": [
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u767d\u8272\u6807\u8bb0", 
-                        "\u767d\u8272\u6807\u8bb0"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u91d1\u6807\u8bb01", 
-                        "\u91d1\u6807\u8bb01"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u706b\u6807\u8bb01", 
-                        "\u706b\u6807\u8bb01"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u767d\u8272\u62a4\u76fe", 
-                        "\u767d\u8272\u62a4\u76fe"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u5996\u5080\u6807\u8bb0", 
-                        "\u5996\u5080\u6807\u8bb0"
-                    ]
-                }
-            ], 
-            "key": "pDc00Z-BEe6ijowWRYu40y", 
-            "name": "\u6807\u8bb0"
+            "__tuple__": true, 
+            "items": [
+                "\u5996\u5080\u6807\u8bb0", 
+                "\u5996\u5080\u6807\u8bb0"
+            ]
         }, 
         {
-            "group": [
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd", 
-                        "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd"
-                    ]
-                }
-            ], 
-            "key": "2IZJoZ-0Ee6Hiexj1wijoE", 
-            "name": "\u4e3b\u89d2\u72b6\u6001"
+            "__tuple__": true, 
+            "items": [
+                "\u7ea2\u8272\u94fe\u63a5", 
+                "\u7ea2\u8272\u94fe\u63a5"
+            ]
         }, 
         {
-            "group": [
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15", 
-                        "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u66ff\u8eab\u5076\u5f53\u524d\u503c", 
-                        "\u66ff\u8eab\u5076\u5f53\u524d\u503c"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u66ff\u8eab\u5076ui", 
-                        "\u66ff\u8eab\u5076ui"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u66ff\u8eab\u5076\u6700\u5927\u503c", 
-                        "\u66ff\u8eab\u5076\u6700\u5927\u503c"
-                    ]
-                }
-            ], 
-            "key": "yZLkUaChEe6nFYwWRYu401", 
-            "name": "\u5080\u5121\u76f8\u5173"
+            "__tuple__": true, 
+            "items": [
+                "\u706b\u6807\u8bb01", 
+                "\u706b\u6807\u8bb01"
+            ]
         }, 
         {
-            "group": [
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u884c\u8d70\u52a8\u753b", 
-                        "\u884c\u8d70\u52a8\u753b"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u95ea\u907f\u52a8\u753b", 
-                        "\u95ea\u907f\u52a8\u753b"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u53ec\u5524\u52a8\u753b", 
-                        "\u53ec\u5524\u52a8\u753b"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u4f7f\u7528\u9053\u5177\u52a8\u753b", 
-                        "\u4f7f\u7528\u9053\u5177\u52a8\u753b"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u6280\u80fd\u52a8\u753b", 
-                        "\u6280\u80fd\u52a8\u753b"
-                    ]
-                }, 
-                {
-                    "__tuple__": true, 
-                    "items": [
-                        "\u7ad9\u7acb\u52a8\u753b", 
-                        "\u7ad9\u7acb\u52a8\u753b"
-                    ]
-                }
-            ], 
-            "key": "sEaaoaChEe6fxowWRYu402", 
-            "name": "\u4e3b\u89d2\u52a8\u753b"
+            "__tuple__": true, 
+            "items": [
+                "\u91d1\u6807\u8bb01", 
+                "\u91d1\u6807\u8bb01"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u767d\u8272\u62a4\u76fe", 
+                "\u767d\u8272\u62a4\u76fe"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u706b\u6807\u8bb0", 
+                "\u706b\u6807\u8bb0"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66ff\u8eab\u5076\u5f53\u524d\u503c", 
+                "\u66ff\u8eab\u5076\u5f53\u524d\u503c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MainPlayer", 
+                "MainPlayer"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u767d\u8272\u94fe\u63a5", 
+                "\u767d\u8272\u94fe\u63a5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u767d\u8272\u6807\u8bb0", 
+                "\u767d\u8272\u6807\u8bb0"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7cbe\u82f1BOSS", 
+                "\u7cbe\u82f1BOSS"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15", 
+                "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "MaxEnergy", 
+                "MaxEnergy"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u91d1\u8272\u94fe\u63a5", 
+                "\u91d1\u8272\u94fe\u63a5"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u4f7f\u7528\u9053\u5177\u52a8\u753b", 
+                "\u4f7f\u7528\u9053\u5177\u52a8\u753b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5148\u7956\u6b8b\u9b42", 
+                "\u5148\u7956\u6b8b\u9b42"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9f99\u5e99\u70b9\u9ed1\u96fe", 
+                "\u9f99\u5e99\u70b9\u9ed1\u96fe"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd", 
+                "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u7ad9\u7acb\u52a8\u753b", 
+                "\u7ad9\u7acb\u52a8\u753b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6", 
+                "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u5c0f\u5b69\u6b8b\u9b42", 
+                "\u5c0f\u5b69\u6b8b\u9b42"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66ff\u8eab\u5076\u6700\u5927\u503c", 
+                "\u66ff\u8eab\u5076\u6700\u5927\u503c"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Qvalue", 
+                "Qvalue"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "IsInNewHandRoad", 
+                "IsInNewHandRoad"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u9f99\u5e99\u70b9", 
+                "\u9f99\u5e99\u70b9"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "ShiftConsume", 
+                "ShiftConsume"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u884c\u8d70\u52a8\u753b", 
+                "\u884c\u8d70\u52a8\u753b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u98de\u5251", 
+                "\u98de\u5251"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u95ea\u907f\u52a8\u753b", 
+                "\u95ea\u907f\u52a8\u753b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "Energy", 
+                "Energy"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u66ff\u8eab\u5076ui", 
+                "\u66ff\u8eab\u5076ui"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u62a2\u5b9d\u77f3\u602a\u7269", 
+                "\u62a2\u5b9d\u77f3\u602a\u7269"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u53ec\u5524\u52a8\u753b", 
+                "\u53ec\u5524\u52a8\u753b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8fdb\u5ea6\u7ba1\u7406", 
+                "\u8fdb\u5ea6\u7ba1\u7406"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u8fde\u51fb\u524d\u7f6e", 
+                "\u8fde\u51fb\u524d\u7f6e"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "\u6280\u80fd\u52a8\u753b", 
+                "\u6280\u80fd\u52a8\u753b"
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "BoolDebug", 
+                "BoolDebug"
+            ]
         }
     ], 
     "variable_length_dict": {
@@ -1234,33 +1052,9 @@
         "\u91d1\u6807\u8bb01": 0, 
         "\u91d1\u8272\u94fe\u63a5": 0, 
         "\u94fe\u63a5\u76ee\u6807": 0, 
-        "\u94fe\u63a5\u8303\u56f4": 0, 
         "\u95ea\u907f\u52a8\u753b": 0, 
         "\u98de\u5251": 10, 
         "\u9f99\u5e99\u70b9": 10, 
         "\u9f99\u5e99\u70b9\u9ed1\u96fe": 10
     }
-=======
-    "local_variable": {}, 
-    "variable_comments": {}, 
-    "variable_dict": {
-        "BOOLEAN": {}, 
-        "DYNAMIC_TRIGGER_INSTANCE": {}, 
-        "FLOAT": {}, 
-        "INTEGER": {}, 
-        "LINK_SFX_ENTITY": {}, 
-        "MODIFIER_ENTITY": {}, 
-        "NEW_TIMER": {}, 
-        "PLAYER": {}, 
-        "POINT": {}, 
-        "PROJECTILE_ENTITY": {}, 
-        "STRING": {}, 
-        "UI_COMP": {}, 
-        "UNIT_ENTITY": {}, 
-        "UNIT_GROUP": {}, 
-        "UNIT_NAME": {}
-    }, 
-    "variable_group_info": [], 
-    "variable_length_dict": {}
->>>>>>> dev
 }

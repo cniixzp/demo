@@ -1,13 +1,6 @@
 {
-    "1": 1, 
-    "5": 1, 
-    "6": 0, 
-    "102": 0, 
-    "104": 500, 
-    "107": 0, 
-    "108": 100, 
     "_custom_": true, 
-    "_ref_": 134239577, 
+    "_ref_": 134272428, 
     "ability_break_cast_range": {
         "__tuple__": true, 
         "items": [
@@ -90,9 +83,6 @@
     }, 
     "build_rotate": 0, 
     "building_attack_range_sfx": 101492, 
-    "bw_ignore_ability_command": false, 
-    "bw_ignore_move_command": false, 
-    "bw_move_interrupt": true, 
     "camp_priority_enemy": 1, 
     "camp_priority_friend": 1, 
     "camp_priority_neutral": 1, 
@@ -105,9 +95,6 @@
     "can_interrupt_others": false, 
     "can_prepare_interrupt": false, 
     "can_ps_interrupt": true, 
-    "cast_ignore_ability_command": true, 
-    "cast_ignore_move_command": true, 
-    "cast_move_interrupt": false, 
     "circle_radius": {
         "__tuple__": true, 
         "items": [
@@ -128,9 +115,6 @@
         "items": []
     }, 
     "cost_hp_can_die": false, 
-    "csp_ignore_ability_command": false, 
-    "csp_ignore_move_command": false, 
-    "csp_move_interrupt": true, 
     "cst_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -186,9 +170,6 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "prepare_ignore_ability_command": true, 
-    "prepare_ignore_move_command": true, 
-    "prepare_move_interrupt": false, 
     "ps_sfx_list": {
         "__tuple__": true, 
         "items": []
@@ -217,7 +198,6 @@
             "0"
         ]
     }, 
-    "sector_radian": 2, 
     "sector_radius": {
         "__tuple__": true, 
         "items": [

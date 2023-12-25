@@ -73,19 +73,11 @@
                             "args_list": [
                                 {
                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100177, 
-                                            "args_list": [], 
-                                            "op_arg": [], 
-                                            "op_arg_enable": [], 
-                                            "sub_type": "0500129ea07611ee92968c16458bb8d3"
-                                        }
-                                    ], 
+                                    "args_list": [], 
                                     "bp": false, 
                                     "call_rt_arg_idxes": [], 
                                     "element_id": 415383553000047, 
-                                    "enable": true
+                                    "enable": false
                                 }, 
                                 {
                                     "action_type": "SET_VARIABLE", 

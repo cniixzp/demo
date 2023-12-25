@@ -561,15 +561,7 @@
                                                 }, 
                                                 {
                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100177, 
-                                                            "args_list": [], 
-                                                            "op_arg": [], 
-                                                            "op_arg_enable": [], 
-                                                            "sub_type": "799eb0de9d7d11ee9efb8c16458bb8d3"
-                                                        }
-                                                    ], 
+                                                    "args_list": [], 
                                                     "bp": false, 
                                                     "call_rt_arg_idxes": [], 
                                                     "element_id": 539947010000133, 
@@ -1450,15 +1442,7 @@
                                                 }, 
                                                 {
                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100177, 
-                                                            "args_list": [], 
-                                                            "op_arg": [], 
-                                                            "op_arg_enable": [], 
-                                                            "sub_type": "799eb0de9d7d11ee9efb8c16458bb8d3"
-                                                        }
-                                                    ], 
+                                                    "args_list": [], 
                                                     "bp": false, 
                                                     "call_rt_arg_idxes": [], 
                                                     "element_id": 539947010810931, 
@@ -2506,15 +2490,7 @@
                                                 }, 
                                                 {
                                                     "action_type": "CALL_TRIGGER_FUNC", 
-                                                    "args_list": [
-                                                        {
-                                                            "arg_type": 100177, 
-                                                            "args_list": [], 
-                                                            "op_arg": [], 
-                                                            "op_arg_enable": [], 
-                                                            "sub_type": "799eb0de9d7d11ee9efb8c16458bb8d3"
-                                                        }
-                                                    ], 
+                                                    "args_list": [], 
                                                     "bp": false, 
                                                     "call_rt_arg_idxes": [], 
                                                     "element_id": 539947010811192, 
@@ -2789,7 +2765,7 @@
             "p_trigger_id": null, 
             "trigger_id": 539947010, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_2", 
-            "valid": true
+            "valid": false
         }, 
         "892284931": {
             "action": [
