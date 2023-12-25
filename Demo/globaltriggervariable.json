@@ -220,6 +220,25 @@
                 "loop": 0
             }
         }, 
+        "797679681": {
+            "variable_dict": {
+                "INTEGER": {
+                    "int": 0, 
+                    "loop": 0, 
+                    "max": 0, 
+                    "\u66ff\u8eab\u5076\u5f53\u524d\u503c": 0, 
+                    "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
+                }, 
+                "NEW_TIMER": {}
+            }, 
+            "variable_length_dict": {
+                "int": 0, 
+                "loop": 0, 
+                "max": 0, 
+                "\u66ff\u8eab\u5076\u5f53\u524d\u503c": 0, 
+                "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
+            }
+        }, 
         "824569906": {
             "variable_dict": {
                 "ABILITY_NAME": {
@@ -243,6 +262,16 @@
                 "angle": 0, 
                 "point": 0, 
                 "\u5f53\u524d\u6280\u80fd": 0
+            }
+        }, 
+        "965435459": {
+            "variable_dict": {
+                "FLOAT": {
+                    "\u79fb\u901f": 0.0
+                }
+            }, 
+            "variable_length_dict": {
+                "\u79fb\u901f": 0
             }
         }, 
         "966602815": {
@@ -411,6 +440,16 @@
                 "\u8ddd\u79bb\u8ba1\u65f6\u5668": 0
             }
         }, 
+        "1485353026": {
+            "variable_dict": {
+                "BOOLEAN": {
+                    "key": true
+                }
+            }, 
+            "variable_length_dict": {
+                "key": 0
+            }
+        }, 
         "1512071175": {
             "variable_dict": {
                 "FLOAT": {
@@ -538,6 +577,27 @@
             }, 
             "variable_length_dict": {
                 "\u6309\u4e0b\u65f6\u957f": 0
+            }
+        }, 
+        "1765576768": {
+            "variable_dict": {
+                "FLOAT": {
+                    "x": 0.0, 
+                    "y": 0.0
+                }, 
+                "INTEGER": {
+                    "loop": 0, 
+                    "max": 0, 
+                    "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
+                }, 
+                "UI_COMP": {}
+            }, 
+            "variable_length_dict": {
+                "loop": 0, 
+                "max": 0, 
+                "x": 0, 
+                "y": 0, 
+                "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0
             }
         }, 
         "1788084265": {
@@ -746,6 +806,8 @@
         "INTEGER": {
             "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15": 0, 
             "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6": 0, 
+            "\u66ff\u8eab\u5076\u5f53\u524d\u503c": 0, 
+            "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0, 
             "\u8fdb\u5ea6\u7ba1\u7406": 1
         }, 
         "LINK_SFX_ENTITY": {
@@ -788,6 +850,7 @@
             "\u95ea\u907f\u52a8\u753b": ""
         }, 
         "UI_COMP": {
+            "\u66ff\u8eab\u5076ui": "", 
             "\u98de\u5251": ""
         }, 
         "UNIT_ENTITY": {
@@ -1058,6 +1121,27 @@
                         "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15", 
                         "\u5f53\u524d\u63a7\u5236\u5355\u4f4d\u7d22\u5f15"
                     ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u66ff\u8eab\u5076\u5f53\u524d\u503c", 
+                        "\u66ff\u8eab\u5076\u5f53\u524d\u503c"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u66ff\u8eab\u5076ui", 
+                        "\u66ff\u8eab\u5076ui"
+                    ]
+                }, 
+                {
+                    "__tuple__": true, 
+                    "items": [
+                        "\u66ff\u8eab\u5076\u6700\u5927\u503c", 
+                        "\u66ff\u8eab\u5076\u6700\u5927\u503c"
+                    ]
                 }
             ], 
             "key": "yZLkUaChEe6nFYwWRYu401", 
@@ -1132,6 +1216,9 @@
         "\u63a7\u5236\u94fe\u63a5": 0, 
         "\u653b\u51fb\u95f4\u9694\u8ba1\u65f6": 0, 
         "\u662f\u5426\u6b63\u5728\u5bf9\u8bdd": 0, 
+        "\u66ff\u8eab\u5076ui": 10, 
+        "\u66ff\u8eab\u5076\u5f53\u524d\u503c": 0, 
+        "\u66ff\u8eab\u5076\u6700\u5927\u503c": 0, 
         "\u706b\u6807\u8bb0": 0, 
         "\u706b\u6807\u8bb01": 0, 
         "\u767d\u8272\u62a4\u76fe": 0, 

@@ -6,6 +6,13 @@
    {
     "__tuple__": true, 
     "items": [
+     "31a4292a-2d46-43c6-be71-b53abb2df655", 
+     "\u73a9\u5bb6\u9501\u548c\u72b6\u6001"
+    ]
+   }, 
+   {
+    "__tuple__": true, 
+    "items": [
      "d3ce09b1-ffcc-43c8-b14c-102e2921f476", 
      "\u53ef\u63a7\u5080\u5121\u6a21\u578b"
     ]
@@ -45,13 +52,6 @@
   "items": [
    1, 
    "GameConstant"
-  ]
- }, 
- {
-  "__tuple__": true, 
-  "items": [
-   "31a4292a-2d46-43c6-be71-b53abb2df655", 
-   "\u9501\u548c\u72b6\u6001"
   ]
  }, 
  {

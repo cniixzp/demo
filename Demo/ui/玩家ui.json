@@ -21,8 +21,8 @@
                         true, 
                         3.1100000000000136, 
                         2.0, 
-                        18.001277923583984, 
-                        288.40127792358396
+                        18.00141143798828, 
+                        288.40141143798826
                     ], 
                     "children": [], 
                     "color": {
@@ -55,7 +55,7 @@
                     "size": {
                         "__tuple__": true, 
                         "items": [
-                            126.99744415283203, 
+                            126.99717712402344, 
                             128.0
                         ]
                     }, 
@@ -754,56 +754,6 @@
                         false, 
                         true, 
                         true, 
-                        49.5, 
-                        6.5, 
-                        -90.0, 
-                        -49.0
-                    ], 
-                    "cap_insets": {
-                        "__tuple__": true, 
-                        "items": [
-                            286.6666666666667, 
-                            256.3333333333333, 
-                            286.6666666666667, 
-                            256.3333333333333
-                        ]
-                    }, 
-                    "children": [], 
-                    "event_list": [], 
-                    "image": 133668, 
-                    "name": "image_44", 
-                    "open_adapter": true, 
-                    "pos": {
-                        "__tuple__": true, 
-                        "items": [
-                            146.5, 
-                            35.0
-                        ]
-                    }, 
-                    "pos_percent": {
-                        "__tuple__": true, 
-                        "items": [
-                            43.862275449101794, 
-                            30.973451327433626
-                        ]
-                    }, 
-                    "size": {
-                        "__tuple__": true, 
-                        "items": [
-                            473.0, 
-                            57.0
-                        ]
-                    }, 
-                    "type": 4, 
-                    "uid": "7e011de3-e10a-4762-9230-7bc04f841bdb", 
-                    "visible": false
-                }, 
-                {
-                    "adapter_option": [
-                        true, 
-                        false, 
-                        true, 
-                        true, 
                         5.0, 
                         93.0, 
                         0.0, 
@@ -871,6 +821,56 @@
                     }, 
                     "type": 5, 
                     "uid": "035df8ea-ac76-44a2-820e-b245061e3720"
+                }, 
+                {
+                    "adapter_option": [
+                        true, 
+                        false, 
+                        true, 
+                        true, 
+                        49.5, 
+                        6.5, 
+                        -90.0, 
+                        -49.0
+                    ], 
+                    "cap_insets": {
+                        "__tuple__": true, 
+                        "items": [
+                            286.6666666666667, 
+                            256.3333333333333, 
+                            286.6666666666667, 
+                            256.3333333333333
+                        ]
+                    }, 
+                    "children": [], 
+                    "event_list": [], 
+                    "image": 133668, 
+                    "name": "image_44", 
+                    "open_adapter": true, 
+                    "pos": {
+                        "__tuple__": true, 
+                        "items": [
+                            146.5, 
+                            35.0
+                        ]
+                    }, 
+                    "pos_percent": {
+                        "__tuple__": true, 
+                        "items": [
+                            43.862275449101794, 
+                            30.973451327433626
+                        ]
+                    }, 
+                    "size": {
+                        "__tuple__": true, 
+                        "items": [
+                            473.0, 
+                            57.0
+                        ]
+                    }, 
+                    "type": 4, 
+                    "uid": "7e011de3-e10a-4762-9230-7bc04f841bdb", 
+                    "visible": false
                 }, 
                 {
                     "adapter_option": [

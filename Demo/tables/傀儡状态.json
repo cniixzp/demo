@@ -11,10 +11,10 @@
                 "Des"
             ], 
             [
-                "\u5f53\u524d\u72b6\u6001", 
-                "int", 
-                "0", 
-                "0\uff1aidle\uff0c1\uff1a\u79fb\u52a8\uff0c2\uff1a\u653b\u51fb"
+                "\u79fb\u52a8\u5f00\u5173", 
+                "bool", 
+                "true", 
+                "true:\u8ddf\u968f\uff0cfalse:\u56fa\u5b9a"
             ], 
             [
                 "key", 

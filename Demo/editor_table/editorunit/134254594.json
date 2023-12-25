@@ -73,31 +73,7 @@
     }, 
     "common_ability_list": [
         [
-            134254254, 
-            1
-        ], 
-        [
-            134221853, 
-            1
-        ], 
-        [
-            134235065, 
-            1
-        ], 
-        [
-            134222349, 
-            1
-        ], 
-        [
-            134218270, 
-            1
-        ], 
-        [
-            134246724, 
-            1
-        ], 
-        [
-            134262835, 
+            134229746, 
             1
         ]
     ], 
@@ -160,20 +136,7 @@
     "healing_effect": 0, 
     "healing_effect_grow": 0, 
     "height_offset": 0, 
-    "hero_ability_list": [
-        [
-            134280735, 
-            1
-        ], 
-        [
-            134275211, 
-            1
-        ], 
-        [
-            134248702, 
-            1
-        ]
-    ], 
+    "hero_ability_list": [], 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
     "hp_max": 500.0, 
@@ -252,6 +215,17 @@
             "type": 7, 
             "value": 134271184
         }, 
+        "\u66ff\u8eab\u5076": {
+            "annotation": "", 
+            "desc": "", 
+            "etype": 1, 
+            "key": "\u66ff\u8eab\u5076", 
+            "prop_cls": "PInt", 
+            "remark": "", 
+            "sort": 7, 
+            "type": 2, 
+            "value": 3
+        }, 
         "\u98de\u5251\u6570\u91cf": {
             "annotation": "", 
             "desc": "", 
@@ -280,7 +254,7 @@
     "max_stock": 5, 
     "mini_map_icon": 100174, 
     "mini_map_icon_scale": 1.0, 
-    "model": 201646, 
+    "model": 100310, 
     "model_height": 0.0, 
     "model_opacity": 1, 
     "move_channel": 0, 

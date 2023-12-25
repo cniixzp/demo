@@ -19,37 +19,90 @@
         "1633054723": {
             "action": [
                 {
-                    "action_type": "SET_PLAYER_VIGNETTING_ENABLE", 
+                    "action_type": "SET_VARIABLE", 
                     "args_list": [
                         {
-                            "arg_type": 100025, 
+                            "arg_type": 100030, 
                             "args_list": [
                                 [
-                                    "PLAYER", 
-                                    "PlayerLead"
+                                    "INTEGER", 
+                                    "\u66ff\u8eab\u5076\u5f53\u524d\u503c"
                                 ]
                             ], 
-                            "sub_type": "VARIABLE"
+                            "sub_type": 1
                         }, 
                         {
-                            "arg_type": 100001, 
+                            "arg_type": 100002, 
                             "args_list": [
-                                true
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        [
+                                            "INTEGER", 
+                                            "\u66ff\u8eab\u5076\u5f53\u524d\u503c"
+                                        ]
+                                    ], 
+                                    "sub_type": 6
+                                }, 
+                                {
+                                    "arg_type": 100016, 
+                                    "args_list": [
+                                        "-"
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }
                             ], 
-                            "sub_type": 1
+                            "sub_type": "MATH_OPERATION"
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 1027198978000040, 
-                    "enable": false
+                    "element_id": 1633054723000097, 
+                    "enable": true
                 }, 
                 {
-                    "action_type": "RUN_ONCE_TIMER_NO_SAVE", 
+                    "action_type": "IF_THEN_ELSE", 
                     "args_list": [
                         {
-                            "arg_type": 100000, 
+                            "arg_type": 100021, 
                             "args_list": [
-                                0.5
+                                {
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                [
+                                                    "INTEGER", 
+                                                    "\u66ff\u8eab\u5076\u5f53\u524d\u503c"
+                                                ]
+                                            ], 
+                                            "sub_type": 6
+                                        }, 
+                                        {
+                                            "arg_type": 100015, 
+                                            "args_list": [
+                                                "<="
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                0
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "condition_type": "FLOAT_COMPARE", 
+                                    "element_id": 1633054723000071, 
+                                    "enable": true
+                                }
                             ], 
                             "sub_type": 1
                         }, 
@@ -57,40 +110,67 @@
                             "arg_type": 100022, 
                             "args_list": [
                                 {
-                                    "action_type": "SET_PLAYER_VIGNETTING_ENABLE", 
+                                    "action_type": "KILL_UNIT", 
                                     "args_list": [
                                         {
-                                            "arg_type": 100025, 
+                                            "arg_type": 100006, 
                                             "args_list": [
                                                 [
-                                                    "PLAYER", 
-                                                    "PlayerLead"
+                                                    "UNIT_ENTITY", 
+                                                    "MainPlayer"
                                                 ]
                                             ], 
-                                            "sub_type": "VARIABLE"
+                                            "sub_type": 11
                                         }, 
                                         {
-                                            "arg_type": 100001, 
+                                            "arg_type": 100006, 
+                                            "args_list": [], 
+                                            "sub_type": "DAMAGE_SOURCE_UNIT"
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 1633054723000079, 
+                                    "enable": true
+                                }, 
+                                {
+                                    "action_type": "SET_VARIABLE", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100030, 
                                             "args_list": [
-                                                false
+                                                [
+                                                    "INTEGER", 
+                                                    "\u66ff\u8eab\u5076\u5f53\u524d\u503c"
+                                                ]
+                                            ], 
+                                            "sub_type": 1
+                                        }, 
+                                        {
+                                            "arg_type": 100002, 
+                                            "args_list": [
+                                                0
                                             ], 
                                             "sub_type": 1
                                         }
                                     ], 
                                     "bp": false, 
-                                    "element_id": 1633054723000017, 
+                                    "element_id": 1633054723000101, 
                                     "enable": true
                                 }
                             ], 
                             "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100022, 
+                            "args_list": [], 
+                            "sub_type": 1
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 1633054723000012, 
-                    "enable": false, 
-                    "local_var": [
-                        {}, 
-                        {}
+                    "element_id": 1633054723000062, 
+                    "enable": true, 
+                    "fake_op": [
+                        2
                     ]
                 }
             ], 
@@ -100,9 +180,9 @@
             "event": [
                 {
                     "args_list": [], 
-                    "element_id": 1633054723000004, 
+                    "element_id": 1633054723000045, 
                     "enable": true, 
-                    "event_type": "UNIT_BE_HURT"
+                    "event_type": "UNIT_BE_HURT_COMPLETE"
                 }
             ], 
             "group_id": 134254594, 
