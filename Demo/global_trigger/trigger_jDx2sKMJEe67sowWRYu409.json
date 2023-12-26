@@ -1606,7 +1606,7 @@
             "p_trigger_id": null, 
             "trigger_id": 242085944, 
             "trigger_name": "\u91ca\u653e\u6280\u80fd", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": {

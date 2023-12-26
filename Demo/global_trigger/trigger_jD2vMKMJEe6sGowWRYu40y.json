@@ -681,12 +681,27 @@
                                     "enable": true
                                 }, 
                                 {
+                                    "action_type": "SEND_CUSTOM_EVENT", 
+                                    "args_list": [
+                                        {
+                                            "arg_type": 100238, 
+                                            "args_list": [
+                                                1025728617
+                                            ], 
+                                            "sub_type": 1
+                                        }
+                                    ], 
+                                    "bp": false, 
+                                    "element_id": 443412540000016, 
+                                    "enable": true
+                                }, 
+                                {
                                     "action_type": "SET_TRIGGER_ENABLED", 
                                     "args_list": [
                                         {
                                             "arg_type": 100019, 
                                             "args_list": [
-                                                350629950
+                                                443412540
                                             ], 
                                             "sub_type": 1
                                         }, 
@@ -700,21 +715,6 @@
                                     ], 
                                     "bp": false, 
                                     "element_id": 443412540000015, 
-                                    "enable": true
-                                }, 
-                                {
-                                    "action_type": "SEND_CUSTOM_EVENT", 
-                                    "args_list": [
-                                        {
-                                            "arg_type": 100238, 
-                                            "args_list": [
-                                                1025728617
-                                            ], 
-                                            "sub_type": 1
-                                        }
-                                    ], 
-                                    "bp": false, 
-                                    "element_id": 443412540000016, 
                                     "enable": true
                                 }
                             ], 
@@ -752,17 +752,45 @@
             "p_trigger_id": null, 
             "trigger_id": 443412540, 
             "trigger_name": "\u79fb\u52a8\u72b6\u6001", 
-            "valid": false
+            "valid": true
         }, 
         "762179643": {
             "action": [
+                {
+                    "action_type": "SET_VARIABLE", 
+                    "args_list": [
+                        {
+                            "arg_type": 100030, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "UNIT_ENTITY", 
+                                        "\u7cbe\u82f1BOSS"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                3
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 762179643000006, 
+                    "enable": true
+                }, 
                 {
                     "action_type": "SET_TRIGGER_ENABLED", 
                     "args_list": [
                         {
                             "arg_type": 100019, 
                             "args_list": [
-                                350629950
+                                443412540
                             ], 
                             "sub_type": 1
                         }, 
@@ -784,7 +812,7 @@
                         {
                             "arg_type": 100019, 
                             "args_list": [
-                                199635007
+                                846065725
                             ], 
                             "sub_type": 1
                         }, 
@@ -806,7 +834,7 @@
                         {
                             "arg_type": 100019, 
                             "args_list": [
-                                1390817341
+                                762179643
                             ], 
                             "sub_type": 1
                         }, 
@@ -849,7 +877,7 @@
                         {
                             "arg_type": 100023, 
                             "args_list": [
-                                10037
+                                10039
                             ], 
                             "sub_type": 1
                         }
@@ -863,7 +891,7 @@
             "p_trigger_id": null, 
             "trigger_id": 762179643, 
             "trigger_name": "\u7cbe\u82f1Boss\u89e6\u53d1\u5668", 
-            "valid": false
+            "valid": true
         }, 
         "846065725": {
             "action": [
@@ -873,7 +901,7 @@
                         {
                             "arg_type": 100019, 
                             "args_list": [
-                                350629950
+                                443412540
                             ], 
                             "sub_type": 1
                         }, 
@@ -886,7 +914,7 @@
                         }
                     ], 
                     "bp": false, 
-                    "element_id": 846065725000003, 
+                    "element_id": 443412540000015, 
                     "enable": true
                 }, 
                 {
@@ -1126,7 +1154,7 @@
                                                                         {
                                                                             "arg_type": 100019, 
                                                                             "args_list": [
-                                                                                350629950
+                                                                                443412540
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }, 
@@ -3745,7 +3773,7 @@
                                                                         {
                                                                             "arg_type": 100019, 
                                                                             "args_list": [
-                                                                                350629950
+                                                                                443412540
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }, 
@@ -3758,7 +3786,7 @@
                                                                         }
                                                                     ], 
                                                                     "bp": false, 
-                                                                    "element_id": 846065725000052, 
+                                                                    "element_id": 846065725600650, 
                                                                     "enable": true
                                                                 }, 
                                                                 {
@@ -4368,7 +4396,7 @@
                                                                         {
                                                                             "arg_type": 100019, 
                                                                             "args_list": [
-                                                                                350629950
+                                                                                443412540
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }, 
@@ -4381,7 +4409,7 @@
                                                                         }
                                                                     ], 
                                                                     "bp": false, 
-                                                                    "element_id": 846065725000068, 
+                                                                    "element_id": 846065725600657, 
                                                                     "enable": true
                                                                 }
                                                             ], 
@@ -4833,7 +4861,7 @@
                                                                         {
                                                                             "arg_type": 100019, 
                                                                             "args_list": [
-                                                                                350629950
+                                                                                443412540
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }, 
@@ -4846,7 +4874,7 @@
                                                                         }
                                                                     ], 
                                                                     "bp": false, 
-                                                                    "element_id": 846065725000079, 
+                                                                    "element_id": 846065725600664, 
                                                                     "enable": true
                                                                 }
                                                             ], 
@@ -5512,7 +5540,7 @@
             "p_trigger_id": null, 
             "trigger_id": 846065725, 
             "trigger_name": "\u653b\u51fb\u72b6\u6001", 
-            "valid": false
+            "valid": true
         }
     }, 
     "trigger_group_info": {

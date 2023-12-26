@@ -1,0 +1,97 @@
+{
+    "b": [], 
+    "c": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "UXy5sI0sEe6vpgD-mz8-tm", 
+                {
+                    "default": 0.0, 
+                    "desc": "\u5927\u62db\u80fd\u91cf\u503c", 
+                    "desc_bit": 1, 
+                    "key": "UXy5sI0sEe6vpgD-mz8-tm", 
+                    "maximun": 100.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "yHaP3o2+Ee6rhowWRYu407", 
+                {
+                    "default": 100.0, 
+                    "desc": "\u6700\u5927\u7cbe\u529b\u503c", 
+                    "desc_bit": 1, 
+                    "key": "yHaP3o2+Ee6rhowWRYu407", 
+                    "maximun": 1000000.0, 
+                    "minimun": 100.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "zduikY2+Ee6CpowWRYu404", 
+                {
+                    "default": 100.0, 
+                    "desc": "\u5f53\u524d\u7cbe\u529b\u503c", 
+                    "desc_bit": 1, 
+                    "key": "zduikY2+Ee6CpowWRYu404", 
+                    "maximun": 1000000.0, 
+                    "minimun": 0.0, 
+                    "type": "Fixed"
+                }
+            ]
+        }
+    ], 
+    "p": [
+        {
+            "__tuple__": true, 
+            "items": [
+                "strength", 
+                {
+                    "d": "\u529b\u91cf", 
+                    "k": "strength", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "agility", 
+                {
+                    "d": "\u654f\u6377", 
+                    "k": "agility", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "intelligence", 
+                {
+                    "d": "\u667a\u529b", 
+                    "k": "intelligence", 
+                    "m": []
+                }
+            ]
+        }, 
+        {
+            "__tuple__": true, 
+            "items": [
+                "main", 
+                {
+                    "d": "\u4e3b\u5c5e\u6027", 
+                    "k": "main", 
+                    "m": []
+                }
+            ]
+        }
+    ], 
+    "ps": 1
+}

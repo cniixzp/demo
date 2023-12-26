@@ -64,18 +64,6 @@
         [
             134229746, 
             1
-        ], 
-        [
-            134231412, 
-            1
-        ], 
-        [
-            134266297, 
-            1
-        ], 
-        [
-            134234747, 
-            1
         ]
     ], 
     "common_atk": {
@@ -162,7 +150,7 @@
             "remark": "", 
             "sort": 1, 
             "type": 7, 
-            "value": 134231412
+            "value": 134254254
         }, 
         "attack2": {
             "annotation": "", 
@@ -173,7 +161,7 @@
             "remark": "", 
             "sort": 2, 
             "type": 7, 
-            "value": 134266297
+            "value": 134221853
         }, 
         "attack3": {
             "annotation": "", 
@@ -184,13 +172,13 @@
             "remark": "", 
             "sort": 3, 
             "type": 7, 
-            "value": 134234747
+            "value": 134219456
         }, 
-        "num": {
+        "num_attack": {
             "annotation": "", 
             "desc": "", 
             "etype": 1, 
-            "key": "num", 
+            "key": "num_attack", 
             "prop_cls": "PInt", 
             "remark": "", 
             "sort": 0, 

@@ -19,7 +19,8 @@
         "jDrwD6MJEe62GYwWRYu401": 20, 
         "jDwokaMJEe6AAowWRYu407": 21, 
         "jDx2sKMJEe67sowWRYu409": 23, 
-        "jDxPoaMJEe6GGowWRYu409": 22
+        "jDxPoaMJEe6GGowWRYu409": 22, 
+        "ulMkMKP1Ee613exj1wijoF": 32
     }, 
     "name": "trigger", 
     "sub_trigger": {
