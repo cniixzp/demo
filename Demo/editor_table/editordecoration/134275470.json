@@ -1,21 +1,20 @@
 {
-    "1": 1, 
-    "3": 180.0, 
-    "5": 1, 
-    "6": 0, 
     "_custom_": true, 
-    "_ref_": 134257241, 
+    "_ref_": 134275470, 
     "attach_models": {
         "__tuple__": true, 
         "items": []
     }, 
     "base_color_mod": 1, 
-    "base_tint_color": [
-        30, 
-        40, 
-        43, 
-        1.0
-    ], 
+    "base_tint_color": {
+        "__tuple__": true, 
+        "items": [
+            255, 
+            255, 
+            255, 
+            0.5
+        ]
+    }, 
     "cast_shadow": true, 
     "collision_box": {
         "__tuple__": true, 
@@ -56,7 +55,7 @@
             0
         ]
     }, 
-    "description": 206417806, 
+    "description": 1674351778, 
     "effect_list": {
         "__tuple__": true, 
         "items": []
@@ -74,7 +73,7 @@
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
     "icon": 100000, 
-    "key": 134257241, 
+    "key": 134275470, 
     "kv": {}, 
     "material_alpha": 0, 
     "material_change": 0, 
@@ -87,9 +86,9 @@
         ]
     }, 
     "material_color_intensity": 0, 
-    "model": 203212, 
+    "model": 201575, 
     "model_opacity": 1, 
-    "name": 586198388, 
+    "name": 1587377510, 
     "receive_decal": false, 
     "scale": 1.0, 
     "suffix": "", 
@@ -97,8 +96,8 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134257241", 
-    "use_base_tint_color": true, 
+    "uid": "134275470", 
+    "use_base_tint_color": false, 
     "use_fresnel": 0, 
     "use_physics": false
 }
