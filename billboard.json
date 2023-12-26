@@ -1,0 +1,201 @@
+{
+    "134261582": {
+        "name": "\u81ea\u5b9a\u4e49\u8840\u6761", 
+        "node": {
+            "image": [
+                {
+                    "distinguish_foe": false, 
+                    "enemy_picture": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "friend_picture": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "hover_show": false, 
+                    "name": "\u65b0\u7684\u56fe\u7247", 
+                    "node_id": 1426492366, 
+                    "node_type": "picture", 
+                    "offset": {
+                        "__tuple__": true, 
+                        "items": [
+                            0, 
+                            0
+                        ]
+                    }, 
+                    "player_picture": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/BloodBar_Unit_over", 
+                            [
+                                94, 
+                                10
+                            ], 
+                            107130
+                        ]
+                    }, 
+                    "scale": {
+                        "__tuple__": true, 
+                        "items": [
+                            2.2, 
+                            2.0
+                        ]
+                    }, 
+                    "show_type": "follow_object"
+                }, 
+                {
+                    "bind_attribute": "hp", 
+                    "calibration_png": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "distinguish_foe": false, 
+                    "enemy_blend_path": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "enemy_blood_bar": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "friend_blend_path": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "friend_blood_bar": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "hit_points": 100, 
+                    "name": "\u65b0\u7684\u8fdb\u5ea6\u6761", 
+                    "need_decline_effect": false, 
+                    "node_id": 2017926134, 
+                    "node_type": "picture_group", 
+                    "offset": {
+                        "__tuple__": true, 
+                        "items": [
+                            0.0, 
+                            0.5
+                        ]
+                    }, 
+                    "player_blend_path": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "player_blood_bar": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/BloodBar_Enemy", 
+                            [
+                                100, 
+                                12
+                            ], 
+                            107121
+                        ]
+                    }, 
+                    "scale": {
+                        "__tuple__": true, 
+                        "items": [
+                            2.05, 
+                            1.8
+                        ]
+                    }, 
+                    "shield_com": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "shield_mag": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "shield_phy": {
+                        "__tuple__": true, 
+                        "items": [
+                            "ui/RL_Blood-bar_03", 
+                            [
+                                122, 
+                                14
+                            ], 
+                            134222
+                        ]
+                    }, 
+                    "show_calibration": false, 
+                    "show_type": "follow_object", 
+                    "use_shield": false
+                }
+            ], 
+            "text": []
+        }
+    }
+}

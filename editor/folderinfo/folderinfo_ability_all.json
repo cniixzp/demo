@@ -1,0 +1,391 @@
+{
+ "f": [
+  {
+   "__tuple__": true, 
+   "items": [
+    "", 
+    0, 
+    2147483647, 
+    "code_explorer_custom_root_folder_name"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    0, 
+    "7e7zbqMIEe6IRowWRYu407", 
+    "\u65b0"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7e7zbqMIEe6IRowWRYu407", 
+    0, 
+    "7e7zb6MIEe6jbYwWRYu40w", 
+    "\u7ebf\u5076"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7e7zbqMIEe6IRowWRYu407", 
+    1, 
+    "7fAr8KMIEe67YowWRYu408", 
+    "\u7b2c\u4e00\u7ae0\u7cbe\u82f1boss"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7e7zbqMIEe6IRowWRYu407", 
+    2, 
+    "7fInwKMIEe68AYwWRYu40-", 
+    "\u5973\u5996"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647", 
+    1, 
+    "7f1yXqMIEe66HowWRYu40x", 
+    "\u65e7"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7f1yXqMIEe66HowWRYu40x", 
+    0, 
+    "7f1yX6MIEe6ziIwWRYu401", 
+    "\u4e3b\u89d2"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7f1yXqMIEe66HowWRYu40x", 
+    1, 
+    "7gc2YaMIEe6HCIwWRYu409", 
+    "Q\u6280\u80fd"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7f1yXqMIEe66HowWRYu40x", 
+    2, 
+    "7g3GD6MIEe68PowWRYu403", 
+    "\u91d1\u9f99\u72b6\u6001"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7f1yXqMIEe66HowWRYu40x", 
+    3, 
+    "7hJZ8KMIEe64lowWRYu401", 
+    "\u706b\u87fe\u870d\u72b6\u6001"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7f1yXqMIEe66HowWRYu40x", 
+    4, 
+    "7heKD6MIEe6hY4wWRYu40+", 
+    "\u666e\u653b1"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7f1yXqMIEe66HowWRYu40x", 
+    5, 
+    "7hpwQKMIEe6scYwWRYu404", 
+    "\u666e\u653b2"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7f1yXqMIEe66HowWRYu40x", 
+    6, 
+    "7iA8oaMIEe6hBIwWRYu407", 
+    "\u524d\u950b\u5766\u514b\u6280\u80fd"
+   ]
+  }, 
+  {
+   "__tuple__": true, 
+   "items": [
+    "/2147483647/7f1yXqMIEe66HowWRYu40x", 
+    7, 
+    "7iNw8KMIEe6UOowWRYu404", 
+    "\u94fe\u63a5\u540e\u6280\u80fd"
+   ]
+  }
+ ], 
+ "d": {
+  "134229746": {
+   "__tuple__": true, 
+   "items": [
+    "7e7zb6MIEe6jbYwWRYu40w", 
+    0
+   ]
+  }, 
+  "134260921": {
+   "__tuple__": true, 
+   "items": [
+    "7fAr8KMIEe67YowWRYu408", 
+    0
+   ]
+  }, 
+  "134252820": {
+   "__tuple__": true, 
+   "items": [
+    "7fAr8KMIEe67YowWRYu408", 
+    1
+   ]
+  }, 
+  "134239577": {
+   "__tuple__": true, 
+   "items": [
+    "7fInwKMIEe68AYwWRYu40-", 
+    0
+   ]
+  }, 
+  "134272428": {
+   "__tuple__": true, 
+   "items": [
+    "7fInwKMIEe68AYwWRYu40-", 
+    1
+   ]
+  }, 
+  "134227933": {
+   "__tuple__": true, 
+   "items": [
+    "7fInwKMIEe68AYwWRYu40-", 
+    2
+   ]
+  }, 
+  "134219672": {
+   "__tuple__": true, 
+   "items": [
+    "7fInwKMIEe68AYwWRYu40-", 
+    3
+   ]
+  }, 
+  "134271785": {
+   "__tuple__": true, 
+   "items": [
+    "7e7zbqMIEe6IRowWRYu407", 
+    3
+   ]
+  }, 
+  "134256733": {
+   "__tuple__": true, 
+   "items": [
+    "7e7zbqMIEe6IRowWRYu407", 
+    4
+   ]
+  }, 
+  "134222025": {
+   "__tuple__": true, 
+   "items": [
+    "7e7zbqMIEe6IRowWRYu407", 
+    5
+   ]
+  }, 
+  "134245358": {
+   "__tuple__": true, 
+   "items": [
+    "7e7zbqMIEe6IRowWRYu407", 
+    6
+   ]
+  }, 
+  "134254254": {
+   "__tuple__": true, 
+   "items": [
+    "7f1yX6MIEe6ziIwWRYu401", 
+    0
+   ]
+  }, 
+  "134221853": {
+   "__tuple__": true, 
+   "items": [
+    "7f1yX6MIEe6ziIwWRYu401", 
+    1
+   ]
+  }, 
+  "134235065": {
+   "__tuple__": true, 
+   "items": [
+    "7f1yX6MIEe6ziIwWRYu401", 
+    2
+   ]
+  }, 
+  "134219456": {
+   "__tuple__": true, 
+   "items": [
+    "7gc2YaMIEe6HCIwWRYu409", 
+    0
+   ]
+  }, 
+  "134271184": {
+   "__tuple__": true, 
+   "items": [
+    "7gc2YaMIEe6HCIwWRYu409", 
+    1
+   ]
+  }, 
+  "134243564": {
+   "__tuple__": true, 
+   "items": [
+    "7gc2YaMIEe6HCIwWRYu409", 
+    2
+   ]
+  }, 
+  "134234896": {
+   "__tuple__": true, 
+   "items": [
+    "7gc2YaMIEe6HCIwWRYu409", 
+    3
+   ]
+  }, 
+  "134222349": {
+   "__tuple__": true, 
+   "items": [
+    "7g3GD6MIEe68PowWRYu403", 
+    0
+   ]
+  }, 
+  "134218270": {
+   "__tuple__": true, 
+   "items": [
+    "7g3GD6MIEe68PowWRYu403", 
+    1
+   ]
+  }, 
+  "134245112": {
+   "__tuple__": true, 
+   "items": [
+    "7g3GD6MIEe68PowWRYu403", 
+    2
+   ]
+  }, 
+  "134246724": {
+   "__tuple__": true, 
+   "items": [
+    "7hJZ8KMIEe64lowWRYu401", 
+    0
+   ]
+  }, 
+  "134262835": {
+   "__tuple__": true, 
+   "items": [
+    "7hJZ8KMIEe64lowWRYu401", 
+    1
+   ]
+  }, 
+  "134217744": {
+   "__tuple__": true, 
+   "items": [
+    "7hJZ8KMIEe64lowWRYu401", 
+    2
+   ]
+  }, 
+  "134257453": {
+   "__tuple__": true, 
+   "items": [
+    "7heKD6MIEe6hY4wWRYu40+", 
+    0
+   ]
+  }, 
+  "134242915": {
+   "__tuple__": true, 
+   "items": [
+    "7heKD6MIEe6hY4wWRYu40+", 
+    1
+   ]
+  }, 
+  "134258630": {
+   "__tuple__": true, 
+   "items": [
+    "7heKD6MIEe6hY4wWRYu40+", 
+    2
+   ]
+  }, 
+  "134246413": {
+   "__tuple__": true, 
+   "items": [
+    "7hpwQKMIEe6scYwWRYu404", 
+    0
+   ]
+  }, 
+  "134250230": {
+   "__tuple__": true, 
+   "items": [
+    "7hpwQKMIEe6scYwWRYu404", 
+    1
+   ]
+  }, 
+  "134262696": {
+   "__tuple__": true, 
+   "items": [
+    "7hpwQKMIEe6scYwWRYu404", 
+    2
+   ]
+  }, 
+  "134259180": {
+   "__tuple__": true, 
+   "items": [
+    "7iA8oaMIEe6hBIwWRYu407", 
+    0
+   ]
+  }, 
+  "134240008": {
+   "__tuple__": true, 
+   "items": [
+    "7iA8oaMIEe6hBIwWRYu407", 
+    1
+   ]
+  }, 
+  "134280793": {
+   "__tuple__": true, 
+   "items": [
+    "7iA8oaMIEe6hBIwWRYu407", 
+    2
+   ]
+  }, 
+  "134269194": {
+   "__tuple__": true, 
+   "items": [
+    "7iA8oaMIEe6hBIwWRYu407", 
+    3
+   ]
+  }, 
+  "134280735": {
+   "__tuple__": true, 
+   "items": [
+    "7iNw8KMIEe6UOowWRYu404", 
+    0
+   ]
+  }, 
+  "134275211": {
+   "__tuple__": true, 
+   "items": [
+    "7iNw8KMIEe6UOowWRYu404", 
+    1
+   ]
+  }, 
+  "134248702": {
+   "__tuple__": true, 
+   "items": [
+    "7iNw8KMIEe6UOowWRYu404", 
+    2
+   ]
+  }
+ }
+}

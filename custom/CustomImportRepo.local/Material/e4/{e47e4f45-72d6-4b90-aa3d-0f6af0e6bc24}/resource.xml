@@ -1,0 +1,99 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Resource>
+	<Version>2</Version>
+	<SMaterialData>
+		<Root>
+			<Sub />
+			<Entity type="SMaterialData">
+				<name>_material</name>
+				<info>
+					<Layers count="1" ordered="true">
+						<Element index="0">
+							<LayerName>sword_submat</LayerName>
+							<ShaderName>Effect/Fresnel</ShaderName>
+							<Parameters count="18" ordered="true">
+								<Element index="0">
+									<Name>DepthBuffer</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="1">
+									<Name>DiffuseTexture</Name>
+									<Value>845df06e-f81f-4ea7-a9b9-707ff7244d5e</Value>
+								</Element>
+								<Element index="2">
+									<Name>MaskTexture</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="3">
+									<Name>TwistTexture</Name>
+									<Value>9679ae36-f36e-485c-b0c5-2ecd2dbdb3ae</Value>
+								</Element>
+								<Element index="4">
+									<Name>tScatteringAndTransmittanceVolume</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="5">
+									<Name>tShadowMapArray</Name>
+									<Value>00000000-0000-0000-0000-000000000000</Value>
+								</Element>
+								<Element index="6">
+									<Name>DepthBias</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="7">
+									<Name>FresnelPower</Name>
+									<Value>1</Value>
+								</Element>
+								<Element index="8">
+									<Name>TwistUVScolling</Name>
+									<Value>(1, 1, 0, 0.5)</Value>
+								</Element>
+								<Element index="9">
+									<Name>FresnelAlpha</Name>
+									<Value>1</Value>
+								</Element>
+								<Element index="10">
+									<Name>TwistStrength</Name>
+									<Value>(0.10000000149011612, 0.10000000149011612)</Value>
+								</Element>
+								<Element index="11">
+									<Name>HDRScale</Name>
+									<Value>2</Value>
+								</Element>
+								<Element index="12">
+									<Name>InvFadeDistance</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="13">
+									<Name>ModulateColor</Name>
+									<Value>(1, 1, 1, 12)</Value>
+								</Element>
+								<Element index="14">
+									<Name>DiffuseUVScolling</Name>
+									<Value>(1, 1, 0, 0)</Value>
+								</Element>
+								<Element index="15">
+									<Name>Soft</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="16">
+									<Name>FogStrength</Name>
+									<Value>0</Value>
+								</Element>
+								<Element index="17">
+									<Name>BloomScale</Name>
+									<Value>22</Value>
+								</Element>
+							</Parameters>
+							<InactiveParameters count="0" ordered="true" />
+							<MultiPassMaterials count="0" ordered="true" />
+						</Element>
+					</Layers>
+				</info>
+				<flags count="1" ordered="true">
+					<Element index="0">1048608</Element>
+				</flags>
+			</Entity>
+		</Root>
+	</SMaterialData>
+</Resource>

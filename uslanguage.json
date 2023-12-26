@@ -1,0 +1,38 @@
+{
+    "-2111799660": "attack1", 
+    "-1934627990": "\u521b\u5efa\u65b0\u6280\u80fd", 
+    "-1576484064": "attack2", 
+    "-1529342194": "\u521b\u5efa\u65b0\u6280\u80fd", 
+    "-984086074": "\u521b\u5efa\u65b0\u6280\u80fd", 
+    "-843273115": "attack3", 
+    "-317223987": "\u521b\u5efa\u65b0\u6280\u80fd", 
+    "216353421": "\u521b\u5efa\u65b0\u6280\u80fd", 
+    "307890595": "\u521b\u5efa\u65b0\u6280\u80fd", 
+    "993837180": "attack1", 
+    "1244727417": "attack2", 
+    "1681569706": "attack3", 
+    "$code_camp_referee": {
+        "key": "$code_camp_referee", 
+        "value": "Observer"
+    }, 
+    "$faction 1": {
+        "key": "$faction 1", 
+        "value": "Faction 1"
+    }, 
+    "$faction 9999": {
+        "key": "$faction 9999", 
+        "value": "Neutral"
+    }, 
+    "$player 1": {
+        "key": "$player 1", 
+        "value": "Player 1"
+    }, 
+    "$player 31": {
+        "key": "$player 31", 
+        "value": "Neutral Hostile"
+    }, 
+    "$player 32": {
+        "key": "$player 32", 
+        "value": "Neutral Friendly"
+    }
+}
