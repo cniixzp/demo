@@ -7,7 +7,7 @@
             "50"
         ]
     }, 
-    "ability_bw_point": 0.18, 
+    "ability_bw_point": 0.01, 
     "ability_cast_point": 0.05, 
     "ability_cast_range": {
         "__tuple__": true, 
@@ -16,7 +16,7 @@
         ]
     }, 
     "ability_cast_type": 2, 
-    "ability_channel_time": 0.18, 
+    "ability_channel_time": 0.2, 
     "ability_cost": {
         "__tuple__": true, 
         "items": [

@@ -876,7 +876,7 @@
                                     "sub_type": "UNIT_ENTITY_POINT"
                                 }, 
                                 {
-                                    "arg_type": 100059, 
+                                    "arg_type": 100211, 
                                     "args_list": [
                                         {
                                             "arg_type": 100000, 
@@ -888,32 +888,9 @@
                                                 ]
                                             ], 
                                             "sub_type": 2
-                                        }, 
-                                        {
-                                            "arg_type": 100000, 
-                                            "args_list": [
-                                                270.0
-                                            ], 
-                                            "sub_type": 1
-                                        }, 
-                                        {
-                                            "arg_type": 100225, 
-                                            "args_list": [
-                                                {
-                                                    "arg_type": 100006, 
-                                                    "args_list": [
-                                                        [
-                                                            "UNIT_ENTITY", 
-                                                            "\u94fe\u63a5\u76ee\u6807"
-                                                        ]
-                                                    ], 
-                                                    "sub_type": 11
-                                                }
-                                            ], 
-                                            "sub_type": "UNIT_FACE_ANGLE"
                                         }
                                     ], 
-                                    "sub_type": "CONST_SECTOR_SHAPE_NEW"
+                                    "sub_type": "CONST_CIRCULAR_SHAPE"
                                 }
                             ], 
                             "op_arg": [
