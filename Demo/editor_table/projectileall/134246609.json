@@ -1,17 +1,17 @@
 {
     "_custom_": true, 
-    "_ref_": 134263593, 
+    "_ref_": 134246609, 
     "async_effect": false, 
-    "description": 899770425, 
+    "description": -566455931, 
     "effect_destroy_way_is_immediately": false, 
     "effect_foes": [
-        100931, 
+        104062, 
         {
             "__tuple__": true, 
             "items": [
                 0.0, 
-                0.0, 
-                4.0
+                1.0, 
+                1.0
             ]
         }, 
         {
@@ -25,12 +25,12 @@
         {
             "__tuple__": true, 
             "items": [
-                0.6, 
-                0.6, 
-                0.1
+                1.0, 
+                1.0, 
+                1.0
             ]
         }, 
-        3.0, 
+        1.0, 
         {
             "anim": "idle1", 
             "base_color_mod": 1, 
@@ -71,13 +71,13 @@
         }
     ], 
     "effect_friend": [
-        100931, 
+        104062, 
         {
             "__tuple__": true, 
             "items": [
                 0.0, 
-                0.0, 
-                4.0
+                1.0, 
+                1.0
             ]
         }, 
         {
@@ -91,12 +91,12 @@
         {
             "__tuple__": true, 
             "items": [
-                0.6, 
-                0.6, 
-                0.1
+                1.0, 
+                1.0, 
+                1.0
             ]
         }, 
-        3.0, 
+        1.0, 
         {
             "anim": "idle1", 
             "base_color_mod": 1, 
@@ -137,13 +137,13 @@
         }
     ], 
     "icon": 100000, 
-    "key": 134263593, 
+    "key": 134246609, 
     "kv": {}, 
-    "max_duration": 3.0, 
+    "max_duration": 60, 
     "move_channel": 0, 
     "move_limitation": 1, 
-    "name": -209091829, 
-    "sfx_loop": true, 
+    "name": 1521295526, 
+    "sfx_loop": false, 
     "sound_event_list": {
         "__tuple__": true, 
         "items": []
@@ -153,5 +153,5 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134263593"
+    "uid": "134246609"
 }

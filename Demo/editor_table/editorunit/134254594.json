@@ -1,4 +1,7 @@
 {
+    "1": 1, 
+    "5": 1, 
+    "6": 0, 
     "UXy5sI0sEe6vpgD-mz8-tm": 0.0, 
     "UXy5sI0sEe6vpgD-mz8-tm_grow": 0.0, 
     "_custom_": true, 
@@ -249,7 +252,7 @@
     "mp_rec_grow": 2, 
     "name": 986267200, 
     "need_preview_billboard": false, 
-    "ori_bits": 0, 
+    "ori_bits": 131072, 
     "ori_speed": 5.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {

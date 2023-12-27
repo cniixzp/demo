@@ -1,4 +1,7 @@
 {
+    "1": 1, 
+    "5": 1, 
+    "6": 0, 
     "UXy5sI0sEe6vpgD-mz8-tm": 0, 
     "UXy5sI0sEe6vpgD-mz8-tm_grow": 0, 
     "_custom_": true, 
@@ -16,9 +19,9 @@
     "attack_interval_grow": 0, 
     "attack_mag": 0.0, 
     "attack_mag_grow": 0.0, 
-    "attack_phy": 100.0, 
+    "attack_phy": 2.0, 
     "attack_phy_grow": 2.0, 
-    "attack_range": 2.0, 
+    "attack_range": 1.0, 
     "attack_range_grow": 0, 
     "attack_speed": 100.0, 
     "attack_speed_grow": 0.0, 
@@ -60,10 +63,12 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "common_ability_list": {
-        "__tuple__": true, 
-        "items": []
-    }, 
+    "common_ability_list": [
+        [
+            134244911, 
+            1
+        ]
+    ], 
     "common_atk": {
         "__tuple__": true, 
         "items": [

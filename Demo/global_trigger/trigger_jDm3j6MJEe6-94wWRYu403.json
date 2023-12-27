@@ -162,7 +162,7 @@
             "p_trigger_id": null, 
             "trigger_id": 1500377127, 
             "trigger_name": "\u7b2c\u4e00\u7ae0\u521d\u59cb\u5316", 
-            "valid": true
+            "valid": false
         }
     }, 
     "trigger_group_info": {

@@ -686,7 +686,7 @@
                                         {
                                             "arg_type": 100019, 
                                             "args_list": [
-                                                350629950
+                                                443412540
                                             ], 
                                             "sub_type": 1
                                         }, 
@@ -752,7 +752,7 @@
             "p_trigger_id": null, 
             "trigger_id": 443412540, 
             "trigger_name": "\u79fb\u52a8\u72b6\u6001", 
-            "valid": false
+            "valid": true
         }, 
         "762179643": {
             "action": [
@@ -762,7 +762,7 @@
                         {
                             "arg_type": 100019, 
                             "args_list": [
-                                350629950
+                                443412540
                             ], 
                             "sub_type": 1
                         }, 
@@ -784,7 +784,7 @@
                         {
                             "arg_type": 100019, 
                             "args_list": [
-                                199635007
+                                846065725
                             ], 
                             "sub_type": 1
                         }, 
@@ -806,7 +806,7 @@
                         {
                             "arg_type": 100019, 
                             "args_list": [
-                                1390817341
+                                762179643
                             ], 
                             "sub_type": 1
                         }, 
@@ -863,7 +863,7 @@
             "p_trigger_id": null, 
             "trigger_id": 762179643, 
             "trigger_name": "\u7cbe\u82f1Boss\u89e6\u53d1\u5668", 
-            "valid": false
+            "valid": true
         }, 
         "846065725": {
             "action": [
@@ -873,7 +873,7 @@
                         {
                             "arg_type": 100019, 
                             "args_list": [
-                                350629950
+                                443412540
                             ], 
                             "sub_type": 1
                         }, 
@@ -1126,7 +1126,7 @@
                                                                         {
                                                                             "arg_type": 100019, 
                                                                             "args_list": [
-                                                                                350629950
+                                                                                443412540
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }, 
@@ -3745,7 +3745,7 @@
                                                                         {
                                                                             "arg_type": 100019, 
                                                                             "args_list": [
-                                                                                350629950
+                                                                                443412540
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }, 
@@ -4368,7 +4368,7 @@
                                                                         {
                                                                             "arg_type": 100019, 
                                                                             "args_list": [
-                                                                                350629950
+                                                                                443412540
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }, 
@@ -4833,7 +4833,7 @@
                                                                         {
                                                                             "arg_type": 100019, 
                                                                             "args_list": [
-                                                                                350629950
+                                                                                443412540
                                                                             ], 
                                                                             "sub_type": 1
                                                                         }, 
@@ -5512,7 +5512,7 @@
             "p_trigger_id": null, 
             "trigger_id": 846065725, 
             "trigger_name": "\u653b\u51fb\u72b6\u6001", 
-            "valid": false
+            "valid": true
         }
     }, 
     "trigger_group_info": {
