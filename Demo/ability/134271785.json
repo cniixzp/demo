@@ -261,7 +261,7 @@
                     "bp": false, 
                     "call_rt_arg_idxes": [], 
                     "element_id": 415383553000170, 
-                    "enable": true
+                    "enable": false
                 }, 
                 {
                     "action_type": "PLAY_ANIMATION", 
@@ -712,7 +712,7 @@
             "p_trigger_id": null, 
             "trigger_id": 415383553, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
-            "valid": false
+            "valid": true
         }, 
         "1829900290": {
             "action": [
