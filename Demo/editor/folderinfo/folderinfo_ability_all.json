@@ -23,52 +23,15 @@
    "items": [
     "/2147483647/7e7zbqMIEe6IRowWRYu407", 
     0, 
-<<<<<<< HEAD
     "vKuVz6U3Ee6NBYwWRYu400", 
     "\u4e3b\u89d2"
-=======
-    "cFI4T6V0Ee6ooWAYlSkSCb", 
-    "\u5c0f\u5175"
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
    ]
   }, 
   {
    "__tuple__": true, 
    "items": [
-<<<<<<< HEAD
     "/2147483647/7e7zbqMIEe6IRowWRYu407", 
     1, 
-=======
-    "/2147483647/7e7zbqMIEe6IRowWRYu407/cFI4T6V0Ee6ooWAYlSkSCb", 
-    0, 
-    "dW-hwKV0Ee6rQGAYlSkSCa", 
-    "\u5c38\u5996"
-   ]
-  }, 
-  {
-   "__tuple__": true, 
-   "items": [
-    "/2147483647/7e7zbqMIEe6IRowWRYu407/cFI4T6V0Ee6ooWAYlSkSCb", 
-    1, 
-    "fbyRj6VUEe61bexj1wijoB", 
-    "\u4e0d\u6b7b\u9a6c"
-   ]
-  }, 
-  {
-   "__tuple__": true, 
-   "items": [
-    "/2147483647/7e7zbqMIEe6IRowWRYu407/cFI4T6V0Ee6ooWAYlSkSCb", 
-    2, 
-    "bU4qcKVQEe6Nrexj1wijoP", 
-    "\u7334\u602a"
-   ]
-  }, 
-  {
-   "__tuple__": true, 
-   "items": [
-    "/2147483647/7e7zbqMIEe6IRowWRYu407/cFI4T6V0Ee6ooWAYlSkSCb", 
-    3, 
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
     "nIzRj6SZEe6W5+xj1wijoG", 
     "\u50f5\u5c38"
    ]
@@ -76,13 +39,8 @@
   {
    "__tuple__": true, 
    "items": [
-<<<<<<< HEAD
     "/2147483647/7e7zbqMIEe6IRowWRYu407", 
     2, 
-=======
-    "/2147483647/7e7zbqMIEe6IRowWRYu407/cFI4T6V0Ee6ooWAYlSkSCb", 
-    4, 
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
     "bvBAwKSXEe6OWuxj1wijoE", 
     "\u732a\u5934\u5c60\u592b"
    ]
@@ -91,11 +49,7 @@
    "__tuple__": true, 
    "items": [
     "/2147483647/7e7zbqMIEe6IRowWRYu407", 
-<<<<<<< HEAD
     3, 
-=======
-    1, 
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
     "7e7zb6MIEe6jbYwWRYu40w", 
     "\u7ebf\u5076"
    ]
@@ -104,11 +58,7 @@
    "__tuple__": true, 
    "items": [
     "/2147483647/7e7zbqMIEe6IRowWRYu407", 
-<<<<<<< HEAD
     4, 
-=======
-    2, 
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
     "7fAr8KMIEe67YowWRYu408", 
     "\u7b2c\u4e00\u7ae0\u7cbe\u82f1boss"
    ]
@@ -117,11 +67,7 @@
    "__tuple__": true, 
    "items": [
     "/2147483647/7e7zbqMIEe6IRowWRYu407", 
-<<<<<<< HEAD
     5, 
-=======
-    3, 
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
     "7fInwKMIEe68AYwWRYu40-", 
     "\u5973\u5996"
    ]
@@ -227,31 +173,10 @@
   }
  ], 
  "d": {
-<<<<<<< HEAD
   "134222025": {
    "__tuple__": true, 
    "items": [
     "vKuVz6U3Ee6NBYwWRYu400", 
-=======
-  "134232248": {
-   "__tuple__": true, 
-   "items": [
-    "dW-hwKV0Ee6rQGAYlSkSCa", 
-    0
-   ]
-  }, 
-  "134256238": {
-   "__tuple__": true, 
-   "items": [
-    "fbyRj6VUEe61bexj1wijoB", 
-    0
-   ]
-  }, 
-  "134279395": {
-   "__tuple__": true, 
-   "items": [
-    "bU4qcKVQEe6Nrexj1wijoP", 
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
     0
    ]
   }, 
@@ -321,43 +246,27 @@
   "134220604": {
    "__tuple__": true, 
    "items": [
-<<<<<<< HEAD
     "5n6-YaU1Ee6cPYwWRYu407", 
     0
-=======
-    "7e7zbqMIEe6IRowWRYu407", 
-    4
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
    ]
   }, 
   "134261487": {
    "__tuple__": true, 
    "items": [
-<<<<<<< HEAD
     "5n6-YaU1Ee6cPYwWRYu407", 
     1
-=======
-    "7e7zbqMIEe6IRowWRYu407", 
-    5
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
    ]
   }, 
   "134221357": {
    "__tuple__": true, 
    "items": [
-<<<<<<< HEAD
     "5n6-YaU1Ee6cPYwWRYu407", 
     2
-=======
-    "7e7zbqMIEe6IRowWRYu407", 
-    6
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
    ]
   }, 
   "134243194": {
    "__tuple__": true, 
    "items": [
-<<<<<<< HEAD
     "5n6-YaU1Ee6cPYwWRYu407", 
     3
    ]
@@ -388,10 +297,6 @@
    "items": [
     "x3dILqU-Ee6VbowWRYu40y", 
     2
-=======
-    "7e7zbqMIEe6IRowWRYu407", 
-    7
->>>>>>> 4c385491a792fe28f5dedaa4194c5d5be73b78ed
    ]
   }, 
   "134254254": {
