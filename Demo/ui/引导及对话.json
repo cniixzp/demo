@@ -498,7 +498,7 @@
                     "text": {
                         "__tuple__": true, 
                         "items": [
-                            "\u9f20\u6807\u5de6\u952e\uff1a\u653b\u51fb\n\n\u9f20\u6807\u53f3\u952e\uff1a\u91ca\u653e\u98de\u5251\n\n\u53f3\u952e+\u5de6\u952e\uff1a\u5904\u51b3\u5df2\u6807\u8bb0\u4e14\u8840\u91cf\u8f83\u5c11\u7684\u76ee\u6807\n\n\u5de6shift\uff1a\u8eab\u6cd5\u95ea\u907f\n\nQ\uff1a\u91ca\u653e\u6280\u80fd\n\nR\uff1a\u71c3\u7075\n\n\u7a7a\u683c\uff1a\u5207\u6362\u6280\u80fd\u6216\u5c5e\u6027\n\ntab\uff1a\u6253\u5f00\u79d8\u5377", 
+                            "\u9f20\u6807\u5de6\u952e/\u7a7a\u683c\uff1a\u653b\u51fb\n\nF\uff1a\u53ec\u5524\u5080\u5121\n\n\u5de6shift\uff1a\u8eab\u6cd5\u95ea\u907f\n\nQ\uff1a\u91ca\u653e\u6280\u80fd\n\ntab\uff1a\u5207\u6362\u9762\u5177", 
                             false
                         ]
                     }, 
@@ -532,8 +532,7 @@
                 ]
             }, 
             "type": 4, 
-            "uid": "ca24d8b3-e97b-4caa-817d-aee21f11e8f0", 
-            "visible": false
+            "uid": "ca24d8b3-e97b-4caa-817d-aee21f11e8f0"
         }
     ], 
     "name": "\u5f15\u5bfc\u53ca\u5bf9\u8bdd", 

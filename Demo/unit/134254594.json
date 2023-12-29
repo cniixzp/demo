@@ -64,7 +64,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 1633054723000097, 
-                    "enable": true
+                    "enable": false
                 }, 
                 {
                     "action_type": "IF_THEN_ELSE", 
@@ -168,7 +168,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 1633054723000062, 
-                    "enable": true, 
+                    "enable": false, 
                     "fake_op": [
                         2
                     ]

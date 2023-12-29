@@ -420,7 +420,7 @@
             "p_trigger_id": null, 
             "trigger_id": 796594245, 
             "trigger_name": "\u5973\u5996\u5bf9\u8bdd", 
-            "valid": false
+            "valid": true
         }, 
         "1165692998": {
             "action": [
@@ -735,6 +735,57 @@
                     ], 
                     "bp": false, 
                     "element_id": 1165692998000012, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TABLE_VALUE_1D", 
+                    "args_list": [
+                        {
+                            "arg_type": 100011, 
+                            "args_list": [
+                                "d7c0eef3-387b-443c-b5b0-aaf0999f1c3c"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "\u662f\u5426\u62e5\u6709\u5973\u5996\u4e4b\u6cea"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100001, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1165692998700891, 
+                    "enable": true
+                }, 
+                {
+                    "action_type": "SET_TRIGGER_ENABLED", 
+                    "args_list": [
+                        {
+                            "arg_type": 100019, 
+                            "args_list": [
+                                678293526
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100048, 
+                            "args_list": [
+                                true
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 1165692998700894, 
                     "enable": true
                 }
             ], 

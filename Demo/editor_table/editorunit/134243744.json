@@ -1,11 +1,6 @@
 {
-    "1": 1, 
-    "5": 1, 
-    "6": 0, 
-    "UXy5sI0sEe6vpgD-mz8-tm": 0.0, 
-    "UXy5sI0sEe6vpgD-mz8-tm_grow": 0.0, 
     "_custom_": true, 
-    "_ref_": 134254594, 
+    "_ref_": 134243744, 
     "affect_techs": {
         "__tuple__": true, 
         "items": []
@@ -21,7 +16,7 @@
     "attack_mag_grow": 0.0, 
     "attack_phy": 100.0, 
     "attack_phy_grow": 2.0, 
-    "attack_range": 3.0, 
+    "attack_range": 10.0, 
     "attack_range_grow": 0, 
     "attack_speed": 100.0, 
     "attack_speed_grow": 0.0, 
@@ -54,7 +49,7 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "can_flee": false, 
+    "can_flee": true, 
     "cancel_alarm_range": 10.0, 
     "cd_reduce": 0.0, 
     "cd_reduce_grow": 0.0, 
@@ -63,32 +58,10 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "common_ability_list": [
-        [
-            134220604, 
-            1
-        ], 
-        [
-            134261487, 
-            1
-        ], 
-        [
-            134221357, 
-            1
-        ], 
-        [
-            134242461, 
-            1
-        ], 
-        [
-            134239060, 
-            1
-        ], 
-        [
-            134250170, 
-            1
-        ]
-    ], 
+    "common_ability_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
     "common_atk": {
         "__tuple__": true, 
         "items": [
@@ -96,17 +69,21 @@
             1
         ]
     }, 
-    "common_atk_type": 999, 
+    "common_atk_type": 0, 
+    "content": "strength", 
+    "copper coin": 0, 
     "critical_chance": 0.0, 
     "critical_chance_grow": 0.0, 
     "critical_dmg": 200.0, 
     "critical_dmg_grow": 0.0, 
+    "dead_exp": 10, 
+    "dead_money": 5, 
     "default_behaviour_type": "caution", 
     "defense_mag": 0.0, 
     "defense_mag_grow": 0.0, 
     "defense_phy": 10.0, 
     "defense_phy_grow": 5.0, 
-    "description": 600832389, 
+    "description": 2045688497, 
     "destroy_after_die": true, 
     "die_anim": "die", 
     "disk_shadow_size": 0, 
@@ -134,140 +111,49 @@
     }, 
     "fresnel_emissive_color_strength": 1, 
     "fresnel_exp": 10, 
+    "gainvalue": 0.0, 
+    "gainvalue_grow": 0.0, 
+    "gold coin": 100, 
     "has_mp": false, 
+    "has_shield": true, 
     "heal_effect": 0.0, 
     "heal_effect_grow": 0.0, 
     "healing_effect": 0, 
     "healing_effect_grow": 0, 
     "height_offset": 0, 
-    "hero_ability_list": [
-        [
-            134229746, 
-            1
-        ], 
-        [
-            134225489, 
-            1
-        ]
-    ], 
+    "hero_ability_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
     "hit_rate": 100.0, 
     "hit_rate_grow": 0.0, 
-    "hp_max": 500.0, 
+    "hp_max": 1000.0, 
     "hp_max_grow": 100.0, 
-    "hp_rec": 0.0, 
+    "hp_rec": 10, 
     "hp_rec_grow": 1, 
-    "icon": 108253, 
+    "icon": 133739, 
     "idle_anim": "idle1", 
     "init_stock": 5, 
     "intelligence": 10.0, 
     "intelligence_grow": 1.0, 
-    "is_apply_role_color": false, 
+    "is_apply_role_color": true, 
     "is_mini_map_show": false, 
     "is_open_Xray": false, 
-    "is_open_disk_shadow": false, 
-    "is_open_outline_pass": true, 
+    "is_open_disk_shadow": 0, 
+    "is_open_outline_pass": false, 
     "is_shop": false, 
-    "is_x_offset": false, 
-    "is_z_offset": false, 
+    "is_x_offset": 1, 
+    "is_z_offset": 1, 
     "keep_dead_body_time": 0.0, 
     "keep_target": true, 
-    "key": 134254594, 
-    "kv": {
-        "attack1": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 23, 
-            "key": "attack1", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 1, 
-            "type": 7, 
-            "value": 134254254
-        }, 
-        "attack2": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 23, 
-            "key": "attack2", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 2, 
-            "type": 7, 
-            "value": 134221853
-        }, 
-        "attack3": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 23, 
-            "key": "attack3", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 3, 
-            "type": 7, 
-            "value": 134219456
-        }, 
-        "num_attack": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 1, 
-            "key": "num_attack", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 0, 
-            "type": 2, 
-            "value": 1
-        }, 
-        "\u53f3\u952e\u6d3e\u751f\u6280\u80fd": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 23, 
-            "key": "\u53f3\u952e\u6d3e\u751f\u6280\u80fd", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 5, 
-            "type": 7, 
-            "value": 134271184
-        }, 
-        "\u66ff\u8eab\u5076": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 1, 
-            "key": "\u66ff\u8eab\u5076", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 7, 
-            "type": 2, 
-            "value": 3
-        }, 
-        "\u98de\u5251\u6570\u91cf": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 1, 
-            "key": "\u98de\u5251\u6570\u91cf", 
-            "prop_cls": "PInt", 
-            "remark": "", 
-            "sort": 6, 
-            "type": 2, 
-            "value": 1
-        }, 
-        "\u9f99\u6c14\u8d44\u6e90\u6761": {
-            "annotation": "", 
-            "desc": "", 
-            "etype": 2, 
-            "key": "\u9f99\u6c14\u8d44\u6e90\u6761", 
-            "prop_cls": "PFloat", 
-            "remark": "", 
-            "sort": 4, 
-            "type": 1, 
-            "value": 0.0
-        }
-    }, 
+    "key": 134243744, 
+    "kv": {}, 
     "level": 1, 
     "main_attr": "strength", 
     "max_stock": 5, 
     "mini_map_icon": 100174, 
     "mini_map_icon_scale": 1.0, 
-    "model": 100310, 
+    "model": 204006, 
     "model_height": 0.0, 
     "model_opacity": 1, 
     "move_channel": 0, 
@@ -277,12 +163,12 @@
     "mp_key": "MP", 
     "mp_max": 600.0, 
     "mp_max_grow": 50.0, 
-    "mp_rec": 0.0, 
+    "mp_rec": 10, 
     "mp_rec_grow": 2, 
-    "name": 986267200, 
-    "need_preview_billboard": false, 
+    "name": 1350643606, 
+    "need_preview_billboard": true, 
     "ori_bits": 0, 
-    "ori_speed": 5.0, 
+    "ori_speed": 2.0, 
     "ori_speed_grow": 0.0, 
     "passive_ability_list": {
         "__tuple__": true, 
@@ -301,18 +187,23 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "preview_billboard_health_value": 500.0, 
+    "preview_billboard_health_value": 1000.0, 
     "refresh_interval": 1.0, 
     "research_techs": {
         "__tuple__": true, 
         "items": []
     }, 
+    "resilience": 0.0, 
+    "resilience_grow": 0.0, 
     "reward_AdA8MIz+Ee6N9AD-mz8-th": 0.0, 
     "reward_exp": 5, 
     "reward_official_res_1": 0.0, 
     "role_color_scale": 1.0, 
-    "rotate_speed": 11.0, 
-    "sell_list": [], 
+    "rotate_speed": 9.42, 
+    "sell_list": {
+        "__tuple__": true, 
+        "items": []
+    }, 
     "sell_res_list": {
         "__tuple__": true, 
         "items": []
@@ -320,13 +211,13 @@
     "separate_enemy_icon": false, 
     "shop_camp_args": 3, 
     "shop_range": 10.0, 
+    "shop_select": false, 
     "shop_sell_type": 0, 
     "show_y3_extra_info": false, 
+    "silver coin": 0, 
     "simple_common_atk": {
         "ability_animations": [
-            "ability_1", 
-            "ability_2", 
-            "ability_4"
+            "attack1"
         ], 
         "ability_bw_point": 0.5, 
         "ability_cast_point": 0.2, 
@@ -375,9 +266,9 @@
         "items": []
     }, 
     "type": 1, 
-    "uid": "134254594", 
+    "uid": "134243744", 
     "use_base_tint_color": false, 
-    "use_fresnel": false, 
+    "use_fresnel": 0, 
     "use_simple_mini_map_icon": false, 
     "vampire_mag": 0.0, 
     "vampire_mag_grow": 0.0, 
@@ -399,9 +290,5 @@
     "vision_true": 0.0, 
     "vision_true_grow": 0, 
     "walk_anim": "walk", 
-    "width_offset": 0, 
-    "yHaP3o2+Ee6rhowWRYu407": 100.0, 
-    "yHaP3o2+Ee6rhowWRYu407_grow": 0.0, 
-    "zduikY2+Ee6CpowWRYu404": 100.0, 
-    "zduikY2+Ee6CpowWRYu404_grow": 0.0
+    "width_offset": 0
 }

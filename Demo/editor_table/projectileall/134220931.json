@@ -1,16 +1,16 @@
 {
     "_custom_": true, 
-    "_ref_": 134243560, 
+    "_ref_": 134220931, 
     "async_effect": false, 
-    "description": 1206001654, 
+    "description": -1756483701, 
     "effect_destroy_way_is_immediately": false, 
     "effect_foes": [
-        101598, 
+        101527, 
         {
             "__tuple__": true, 
             "items": [
                 0.0, 
-                1.2, 
+                1.0, 
                 0.0
             ]
         }, 
@@ -19,18 +19,18 @@
             "items": [
                 0.0, 
                 0.0, 
-                0.0
+                180.0
             ]
         }, 
         {
             "__tuple__": true, 
             "items": [
-                1.2, 
-                1.2, 
-                1.2
+                1.0, 
+                1.0, 
+                1.0
             ]
         }, 
-        0.7, 
+        1.0, 
         {
             "anim": "ability_1", 
             "base_color_mod": 1, 
@@ -71,12 +71,12 @@
         }
     ], 
     "effect_friend": [
-        101598, 
+        101527, 
         {
             "__tuple__": true, 
             "items": [
                 0.0, 
-                1.2, 
+                1.0, 
                 0.0
             ]
         }, 
@@ -85,18 +85,18 @@
             "items": [
                 0.0, 
                 0.0, 
-                0.0
+                180.0
             ]
         }, 
         {
             "__tuple__": true, 
             "items": [
-                1.2, 
-                1.2, 
-                1.2
+                1.0, 
+                1.0, 
+                1.0
             ]
         }, 
-        0.7, 
+        1.0, 
         {
             "anim": "ability_1", 
             "base_color_mod": 1, 
@@ -137,12 +137,12 @@
         }
     ], 
     "icon": 100000, 
-    "key": 134243560, 
+    "key": 134220931, 
     "kv": {}, 
     "max_duration": 60, 
     "move_channel": 0, 
     "move_limitation": 1, 
-    "name": -2014419342, 
+    "name": -1012610579, 
     "sfx_loop": false, 
     "sound_event_list": {
         "__tuple__": true, 
@@ -153,5 +153,5 @@
         "__tuple__": true, 
         "items": []
     }, 
-    "uid": "134243560"
+    "uid": "134220931"
 }

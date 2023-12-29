@@ -60,6 +60,33 @@
                     "enable": true
                 }, 
                 {
+                    "action_type": "SET_ENTITY_KV", 
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [], 
+                            "sub_type": "ABILITY_OWNER"
+                        }, 
+                        {
+                            "arg_type": 100003, 
+                            "args_list": [
+                                "num"
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100002, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "bp": false, 
+                    "element_id": 704155651000065, 
+                    "enable": true
+                }, 
+                {
                     "action_type": "STORAGE_BOX", 
                     "args_list": [
                         {
@@ -362,7 +389,7 @@
                     ], 
                     "bp": false, 
                     "element_id": 1829900290000061, 
-                    "enable": true, 
+                    "enable": false, 
                     "op_arg": [
                         null, 
                         null, 
@@ -377,33 +404,6 @@
                         false, 
                         false
                     ]
-                }, 
-                {
-                    "action_type": "SET_ENTITY_KV", 
-                    "args_list": [
-                        {
-                            "arg_type": 100006, 
-                            "args_list": [], 
-                            "sub_type": "ABILITY_OWNER"
-                        }, 
-                        {
-                            "arg_type": 100003, 
-                            "args_list": [
-                                "num"
-                            ], 
-                            "sub_type": 1
-                        }, 
-                        {
-                            "arg_type": 100002, 
-                            "args_list": [
-                                3
-                            ], 
-                            "sub_type": 1
-                        }
-                    ], 
-                    "bp": false, 
-                    "element_id": 704155651000065, 
-                    "enable": true
                 }, 
                 {
                     "action_type": "SET_TABLE_VALUE_1D", 

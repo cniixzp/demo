@@ -35,6 +35,12 @@
         "item_key": 134222007, 
         "prop_key": "name"
     }, 
+    "-1958754657": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134242461, 
+        "prop_key": "name"
+    }, 
     "-1958040487": {
         "editor_type": "projectile_all", 
         "index_type": "object_editor", 
@@ -191,6 +197,12 @@
         "item_key": 134225236, 
         "prop_key": "name"
     }, 
+    "-268546146": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134220604, 
+        "prop_key": "name"
+    }, 
     "-209091829": {
         "editor_type": "projectile_all", 
         "index_type": "object_editor", 
@@ -207,6 +219,12 @@
         "editor_type": "projectile_all", 
         "index_type": "object_editor", 
         "item_key": 134248074, 
+        "prop_key": "name"
+    }, 
+    "-91037181": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134250170, 
         "prop_key": "name"
     }, 
     "-71430408": {
@@ -231,6 +249,12 @@
         "editor_type": "editor_decoration", 
         "index_type": "object_editor", 
         "item_key": 134274748, 
+        "prop_key": "name"
+    }, 
+    "264900771": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134261487, 
         "prop_key": "name"
     }, 
     "290480735": {
@@ -269,6 +293,12 @@
         "item_key": 134251072, 
         "prop_key": "name"
     }, 
+    "509481760": {
+        "editor_type": "projectile_all", 
+        "index_type": "object_editor", 
+        "item_key": 134270337, 
+        "prop_key": "name"
+    }, 
     "510250169": {
         "editor_type": "editor_decoration", 
         "index_type": "object_editor", 
@@ -279,6 +309,12 @@
         "editor_type": "editor_decoration", 
         "index_type": "object_editor", 
         "item_key": 134257241, 
+        "prop_key": "name"
+    }, 
+    "636675706": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134221357, 
         "prop_key": "name"
     }, 
     "671961379": {
@@ -309,6 +345,18 @@
         "editor_type": "ability_all", 
         "index_type": "object_editor", 
         "item_key": 134222349, 
+        "prop_key": "name"
+    }, 
+    "1006586430": {
+        "editor_type": "ability_all", 
+        "index_type": "object_editor", 
+        "item_key": 134239060, 
+        "prop_key": "name"
+    }, 
+    "1086964234": {
+        "editor_type": "projectile_all", 
+        "index_type": "object_editor", 
+        "item_key": 134281422, 
         "prop_key": "name"
     }, 
     "1147406236": {

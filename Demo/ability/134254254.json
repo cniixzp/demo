@@ -3554,6 +3554,18 @@
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_3", 
             "valid": true
         }, 
+        "1217744900": {
+            "action": [], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [], 
+            "group_id": 134254254, 
+            "p_trigger_id": null, 
+            "trigger_id": 1217744900, 
+            "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668_4", 
+            "valid": true
+        }, 
         "1965969409": {
             "action": [
                 {
@@ -4799,6 +4811,10 @@
                 [
                     892284931, 
                     "\u65b0\u5efa\u89e6\u53d1\u5668_3"
+                ], 
+                [
+                    1217744900, 
+                    "\u65b0\u5efa\u89e6\u53d1\u5668_4"
                 ]
             ], 
             "key": 134254254, 

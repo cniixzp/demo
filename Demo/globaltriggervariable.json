@@ -542,12 +542,13 @@
         }, 
         "1785589781": {
             "variable_dict": {
-                "UNIT_ENTITY": {
-                    "unit": 0
-                }
+                "ABILITY": {
+                    "attack1": null
+                }, 
+                "UNIT_ENTITY": {}
             }, 
             "variable_length_dict": {
-                "unit": 0
+                "attack1": 0
             }
         }, 
         "1835921409": {
